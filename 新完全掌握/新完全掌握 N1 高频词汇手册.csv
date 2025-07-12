@@ -1,0 +1,2201 @@
+﻿no,tango,kana,en,zh,vi
+0001,アイデンティティー,,Identity,自我认知,"danh tính, nhân dạng"
+0002,悪,あく,Evil,邪恶,cái ác
+0003,悪用,あくよう,Abuse,滥用,lợi dụng
+0004,味わい,あじわい,"Taste, flavor",味道、风味,vị
+0005,あっせん,,"Introduce, arrange",介绍,"làm trung gian, giới thiệu"
+0006,圧倒,あっとう,Overwhelm,压倒、凌驾,áp đảo
+0007,圧迫,あっぱく,Exert pressure,压迫,"áp bức, đè nén"
+0008,当て,あて,"Expectation, hopes",指望、期待,sự kỳ vọng
+0009,後回し,あとまわし,Putting off (till later),推迟、缓办,sự trì hoãn
+0010,アナログ,,Analogue,模拟,(thuật ngữ kỹ thuật) thứ tương tự / (đồng hồ) chạy kim
+0011,アピール,,"Showcase, highlight",呼吁,"thể hiện, bộc lộ"
+0012,アプローチ,,Approach,通道；探讨、研究,lối vào / tiếp cận
+0013,アポ（アポイントメント）,,Appointment,约会、预约,cuộc hẹn
+0014,ありさま,,Circumstances,样子、情况,"tình trạng, trạng thái"
+0015,ありのまま,,As things stand,如实的、实事求是的,"nguyên trạng, sự chân thực, sự thẳng thắn"
+0016,暗示,あんじ,"Imply, hint at",暗示,"ám chỉ, gợi ý"
+0017,安否,あんぴ,Safety or health status,平安与否、安危,sự an nguy
+0018,意義,いぎ,"Significance, meaning",意义,ý nghĩa
+0019,異議,いぎ,Objection,异议,"sự phản đối, sự kháng nghị"
+0020,勢い,いきおい,Momentum,气势,"sức mạnh / sức sống, năng lượng"
+0021,行き違い,いきちがい,"Failing to meet up with, missing rendezvous",走岔,"bị lỡ mất, không gặp được / sự khác biệt"
+0022,意向,いこう,Intention,意向、意图,"ý định, ý tưởng, mong muốn"
+0023,移行,いこう,Shift,过渡、转变,chuyển đổi
+0024,維持,いじ,Maintain,维持,duy trì
+0025,移住,いじゅう,"Emigrate, move",移居,"di cư, chuyển đi"
+0026,依存,いそん/いぞん,Depend,依赖,lệ thuộc
+0027,一連,いちれん,A series of,一连串、一系列,"một loạt, một chuỗi"
+0028,一括,いっかつ,"(Pay in) a lump sum, lump together",总括一起、一次性,gộp lại
+0029,一変,いっぺん,Change completely,完全改变,thay đổi hoàn toàn
+0030,意図,いと,"Intend, aim",意图,"có ý muốn, hướng tới"
+0031,委任,いにん,"Delegate, entrust",委托,ủy quyền
+0032,威力,いりょく,"Power, effect",威力、威慑力,"uy lực, sức mạnh"
+0033,違和感,いわかん,"Unease, discomfort",不协调感、异样的感觉,"cảm giác lạ lùng, thấy không hợp"
+0034,インフォメーション,,Information,问讯处、咨询台,"quầy thông tin, bàn tiếp tân"
+0035,ウエート,,"Weight, weighting",重点,"sức nặng, tầm quan trọng"
+0036,内訳,うちわけ,Breakdown,明细、详情,chi tiết
+0037,腕前,うでまえ,Skills,本事、手艺,"năng lực, trình độ"
+0038,裏返し,うらがえし,Turning inside out,表里调换、反过来,sự lật ngược
+0039,運営,うんえい,"Arrange, run",运筹管理、组织,"tổ chức, điều hành"
+0040,運搬,うんぱん,"Transport, carry",搬运,vận chuyển
+0041,運用,うんよう,Operate; invest,运用、活用,"vận dụng, áp dụng"
+0042,栄光,えいこう,Glory,光荣,"sự huy hoàng, sự vinh quang"
+0043,エスカレート,,Escalate,逐步升级、激化,"tăng cấp, leo thang"
+0044,応急,おうきゅう,Emergency,应急,"khẩn cấp, tạm thời"
+0045,黄金,おうごん,Gold,黄金,(bằng) vàng
+0046,応答,おうとう,Respond,应答、回应,trả lời
+0047,大筋,おおすじ,Key aspects,要点、主要内容,"đại thể, đại cương"
+0048,公,おおやけ,Public,公开,"công chúng, công cộng"
+0049,おのおの,,Each,各自、自身,"ai nấy, mỗi người"
+0050,趣,おもむき,"Charm, taste",情趣、风趣,"dáng vẻ, vẻ đẹp"
+0051,おり,,"Cage, pen",笼子,cái chuồng
+0052,おわび,,Apology,道歉,sự tạ lỗi
+0053,恩恵,おんけい,"Benefit, boon",恩惠、好处,"lợi ích, ân huệ"
+0054,改革,かいかく,"Reform, overhaul",改革,cải cách
+0055,外観,がいかん,Outer appearance,外观,"ngoại thất, vẻ ngoài"
+0056,階級,かいきゅう,"Grade, class",阶级,"giai cấp, cấp bậc"
+0057,改修,かいしゅう,"Renovate, refurbish",改建、整修,tu bổ
+0058,階層,かいそう,Hierarchy,阶层,tầng lớp
+0059,改造,かいぞう,"Remodel, convert",改造,"tu sửa, cải tạo"
+0060,会談,かいだん,"Confer, meet",会谈、会面商谈,"họp bàn, hội đàm"
+0061,街頭,がいとう,Street,街头,đường phố
+0062,該当,がいとう,Be eligible,符合,"thích hợp, ứng với"
+0063,回避,かいひ,"Avoid, avert",回避、避免,"tránh, thoát"
+0064,概要,がいよう,"Overview, profile",概要,"tổng quan, đề cương"
+0065,改良,かいりょう,"Improve, rectify",改良、改善,cải thiện
+0066,核,かく,"Core, nucleus",原子核；核心,hạt nhân
+0067,架空,かくう,Fictitious,虚构,"sự giả tưởng, sự hư cấu"
+0068,格差,かくさ,Gap,差距,cách biệt
+0069,拡充,かくじゅう,"Expand, broaden",扩充,"mở rộng, gia tăng"
+0070,核心,かくしん,"Core, heart",核心,"trung tâm, cốt lõi, điểm chính yếu"
+0071,革新,かくしん,Innovation,革新,đổi mới
+0072,確信,かくしん,"Believe, be sure",确信、信心,tin chắc
+0073,確定,かくてい,Determine,确定,xác định
+0074,獲得,かくとく,"Acquire, take",获得,"có được, đạt được"
+0075,確保,かくほ,"Secure, obtain",确保,"giữ, đảm bảo"
+0076,確立,かくりつ,"Establish, build",确立,xác lập
+0077,賭け,かけ,"Gamble, bet",赌一把、碰运气,"sự đặt cược, trò may rủi"
+0078,駆け足,かけあし,Rush,快跑,"sự vội vã, sự gấp rút"
+0079,加減,かげん,"Adjust, modify",事物的状况；调节,gia giảm / điều chỉnh
+0080,下降,かこう,Descend,降落,hạ xuống
+0081,課題,かだい,"Issue, problem",课题、必须解决的问题,"vấn đề, nhiệm vụ"
+0082,活性化,かっせいか,"Stimulate, activate",活化、激活,"làm linh hoạt, kích hoạt"
+0083,活力,かつりょく,"Vigor, vitality",活力,sức sống
+0084,カルチャーショック,,Culture shock,文化冲击,cú sốc văn hóa
+0085,勘,かん,Intuition,第六感、直觉,"linh cảm, trực giác"
+0086,還元,かんげん,"Return, give back",返还,hoàn trả
+0087,慣行,かんこう,"Custom, practice",惯例、习惯做法,tập quán
+0088,監視,かんし,Monitor,监视,giám sát
+0089,慣習,かんしゅう,Custom,旧习、习俗,phong tục
+0090,干渉,かんしょう,Interfere,干涉,can thiệp
+0091,観点,かんてん,Perspective,观点、视角,quan điểm
+0092,観念,かんねん,"Concept, idea",观念,"khái niệm, ý thức"
+0093,慣例,かんれい,"Custom, tradition",惯例,tiền lệ
+0094,緩和,かんわ,"Relax, ease",放宽,"nới lỏng, xoa dịu"
+0095,企画,きかく,Plan,策划,lên kế hoạch
+0096,危機,きき,Crisis,危机,"cơn khủng hoảng, sự biến động"
+0097,起源,きげん,Origin,起源,nguồn gốc
+0098,兆し,きざし,Sign,征兆、预兆,"dấu hiệu, điềm"
+0099,期日,きじつ,Deadline,日期、期限,kỳ hạn
+0100,犠牲,ぎせい,Sacrifice,牺牲,sự hi sinh
+0101,奇跡,きせき,Miracle,奇迹,điều kỳ diệu
+0102,貴族,きぞく,"Aristocrat, nobleman",贵族,quý tộc
+0103,規定,きてい,"Stipulate, provide",规定,quy định
+0104,技能,ぎのう,Skills,技能,kỹ năng
+0105,基盤,きばん,"Foundation, basis",基础,nền tảng
+0106,規約,きやく,Terms,规约、约定,quy ước
+0107,キャッチ,,Catch,接（球）,"bắt, chụp (bóng)"
+0108,ギャップ,,"Gap, divergence",分歧,sự khác biệt
+0109,救援,きゅうえん,"Relief, emergency aid",救援,cứu trợ
+0110,究極,きゅうきょく,Ultimate,终极、最终,"tối cao, sau cùng"
+0111,協会,きょうかい,Association,协会,hiệp hội
+0112,協議,きょうぎ,"Discuss, negotiate",协议、协商,thảo luận
+0113,教訓,きょうくん,Lesson,教训,bài học
+0114,強行,きょうこう,"Force, compel",强行,bắt buộc / cương quyết làm
+0115,強制,きょうせい,Be mandatory,强制,bắt buộc
+0116,業績,ぎょうせき,"Performance, results",业绩,"thành tích, kết quả"
+0117,共存,きょうそん/きょうぞん,Coexist,共存,chung sống
+0118,共有,きょうゆう,Share,共有、共享,chia sẻ
+0119,居住,きょじゅう,"Live, reside",居住,cư trú
+0120,拒絶,きょぜつ,"Refuse, reject",拒绝,cự tuyệt
+0121,拒否,きょひ,"Refuse, turn down",拒绝,"từ chối, bác bỏ"
+0122,切り,きり,End point,（事物就此结束的）段、段落,điểm dừng
+0123,切れ目,きれめ,"Break, gap",断开处；段落,nhát cắt / chỗ ngắt quãng
+0124,疑惑,ぎわく,Suspicion,疑惑、怀疑,sự nghi ngờ
+0125,緊迫,きんぱく,Be tense,紧迫、紧张,trở nên căng thẳng
+0126,禁物,きんもつ,"Something to be avoided, a no-no",禁止做的事,điều hoặc vật cấm kỵ
+0127,区画,くかく,"Divide, section",区划、划分,"phân khu, phân vùng"
+0128,苦心,くしん,Struggle to,费尽心思,"chật vật, bỏ công sức"
+0129,クレーム,,"Claim (for redress), complaint",抱怨、投诉,"lời than phiền, lời phê bình"
+0130,ケア,,Care,护理；照顾、保养,chăm sóc
+0131,経緯,けいい,"Particulars, details",原委,"diễn biến, hoàn cảnh dẫn đến"
+0132,契機,けいき,"Opportunity, trigger",契机,"cơ hội, nguyên cớ"
+0133,軽減,けいげん,Reduce,减轻、减少,"giảm nhẹ, giảm bớt"
+0134,継承,けいしょう,"Inherit, carry on",继承,kế thừa
+0135,形勢,けいせい,"Situation, status",形势,tình thế
+0136,形成,けいせい,Form,形成,"hình thành, tạo dựng"
+0137,形態,けいたい,"Form, structure",形态,hình thái
+0138,携帯,けいたい,Carry,携带,mang theo
+0139,系統,けいとう,System,系统、体系,hệ thống
+0140,激増,げきぞう,Increase dramatically,激增,tăng vọt
+0141,決行,けっこう,Act decisively,断然做,quyết tâm làm
+0142,結合,けつごう,"Join, combine",结合,liên kết
+0143,欠如,けつじょ,Lack,缺乏,thiếu sót
+0144,結成,けっせい,"Form, organize",结成、组建,thành lập
+0145,決着,けっちゃく,"End, be settled",了结、结果,kết thúc
+0146,欠乏,けつぼう,"Be short of, be deficient in",缺少、不足,thiếu hụt
+0147,懸念,けねん,Worry,担心,"lo lắng, quan ngại"
+0148,件,けん,"Matter, item",事情、要事,"việc, chuyện"
+0149,権威,けんい,"Authority, specialist",权威、专家,uy quyền
+0150,見解,けんかい,"View, opinion",见解,"ý kiến, quan điểm"
+0151,原形,げんけい,Original form,原形,nguyên trạng
+0152,権限,けんげん,"Power, authority",权限,thẩm quyền
+0153,懸賞,けんしょう,Prize,悬赏、奖金,phần thưởng
+0154,検証,けんしょう,"Inspect, verify",验证,kiểm chứng / xem xét
+0155,原則,げんそく,Principle,原则,nguyên tắc
+0156,現地,げんち,Locality,现场、现地,địa điểm (xảy ra sự việc được đề cập)
+0157,原点,げんてん,Origin,原点、出发点,điểm khởi đầu
+0158,言動,げんどう,What you say and do,言行,ngôn từ và hành động
+0159,兼用,けんよう,Have a double use,兼用,dùng cho cả hai
+0160,行為,こうい,"Behavior, conduct",行为,hành vi
+0161,合意,ごうい,Agree,同意、意见一致,"thống nhất, đồng ý"
+0162,抗議,こうぎ,"Protest, complain",抗议,"phản đối, phản ảnh"
+0163,皇居,こうきょ,Imperial Palace,皇居、皇宫,hoàng cung
+0164,後継者,こうけいしゃ,"Heir, successor",后继者,"người nối nghiệp, người thừa kế"
+0165,更新,こうしん,"Update, renew",更新,"gia hạn, đổi cái mới"
+0166,功績,こうせき,Achievement,功绩,công trạng
+0167,構想,こうそう,"Conceptualize, create a concept",设想、构想,"thiết kế, lên kế hoạch"
+0168,後退,こうたい,Retreat,后退；衰退,lùi lại / suy thoái
+0169,荒廃,こうはい,"Go to ruin, be in ruins",荒废、荒芜,"đổ nát, bị tàn phá"
+0170,好評,こうひょう,Favorable (response),好评,"được khen ngợi, được yêu thích"
+0171,合理化,ごうりか,"Streamline, rationalize",合理化,hợp lý hóa
+0172,効率,こうりつ,Efficiency,效率,"hiệu quả, năng suất"
+0173,克服,こくふく,Overcome,克服,khắc phục
+0174,個々,ここ,One by one,各个、每个,từng thứ
+0175,心当たり,こころあたり,"(Have no) idea, clue",头绪、线索,"sự đoán chừng, sự hay biết"
+0176,試み,こころみ,"Attempt, trial",尝试,cuộc thử nghiệm
+0177,誇張,こちょう,"Exaggerate, boast",夸张,phóng đại
+0178,こつ,,"Knack, hang of",诀窍、窍门,mấu chốt
+0179,個別,こべつ,Individual,个别,riêng biệt
+0180,固有,こゆう,"Native, peculiar to",特有,"bản địa, đặc trưng"
+0181,根底,こんてい,"Basis, foundation",根本、深处,"gốc rễ, nền tảng"
+0182,混同,こんどう,"Confuse, mix up",混淆,lẫn lộn
+0183,コントラスト,,Contrast,对比,sự tương phản
+0184,サイクル,,Cycle,循环、周期,chu kỳ
+0185,歳月,さいげつ,"Years, time",岁月,năm tháng
+0186,再建,さいけん,Rebuild,重建,tái xây dựng
+0187,再現,さいげん,"Reproduce, bring to life",再现,tái hiện
+0188,最善,さいぜん,Best,最佳、最好,tối ưu
+0189,逆立ち,さかだち,Do a handstand,倒立,chổng ngược người
+0190,盛り,さかり,"Prime, bloom",全盛状态、鼎盛时期,"sự nở rộ, thời điểm mãn khai, thời hoàng kim"
+0191,削減,さくげん,Reduce,削减,cắt giảm
+0192,作戦,さくせん,Strategy,战略,"chiến lược, chiến thuật"
+0193,指図,さしず,"Order, command",吩咐、指示,chỉ dẫn
+0194,挫折,ざせつ,"Frustrate, thwart",挫折,(kế hoạch / công việc) đổ vỡ
+0195,錯覚,さっかく,Be under a false impression,错觉、误以为,bị ảo giác / nhìn nhầm
+0196,殺到,さっとう,"Rush, flood, throng",蜂拥而至、纷至沓来,đổ dồn
+0197,サポート,,Support,支撑、支持,hỗ trợ / cổ động
+0198,作用,さよう,"Act, function",作用,tác dụng
+0199,シェア,,Share,共享,dùng chung
+0200,支援,しえん,Support,支援、帮助,giúp đỡ
+0201,視界,しかい,Field of vision,视界、视野,tầm nhìn
+0202,自覚,じかく,Be aware,自知,tự nhận thấy
+0203,仕掛け,しかけ,Mechanism,机关、装置,thiết bị / cơ chế
+0204,指揮,しき,"Command, direct",指挥,"chỉ đạo, chỉ huy"
+0205,敷地,しきち,"Site, plot",用地、地皮,mảnh đất
+0206,軸,じく,Axis,轴、中心轴；轴心（人物）、中枢,cái trục / lõi
+0207,仕組み,しくみ,Mechanism,结构、构造,cấu trúc
+0208,自己,じこ,"Self, own",自己、自身,cái tôi
+0209,志向,しこう,Be intended to,志向,hướng đến
+0210,事項,じこう,Item,事项,"đề mục, điểm"
+0211,試行錯誤,しこうさくご,Take a trial and error approach,尝试错误、摸索尝试,thử nghiệm và sai lầm
+0212,示唆,しさ,Suggest,启示、启发,"gợi ý, gợi mở"
+0213,視察,しさつ,Inspect,视察,thị sát
+0214,支障,ししょう,"Hindrance, obstacle",阻碍、妨碍,trở ngại
+0215,持続,じぞく,"Continue, remain",持续,kéo dài
+0216,事態,じたい,Situation,事态,tình hình
+0217,辞退,じたい,"Decline, turn down",谢绝、推辞,từ chối
+0218,下地,したじ,"Groundwork, undercoat",底层,"nền móng, lớp nền"
+0219,下火,したび,"Wane, abate",衰退,"sự yếu đi, giảm đi"
+0220,失格,しっかく,Be disqualified,失去资格,bị loại
+0221,実在,じつざい,"Actually exist, be real",实际存在,"có thực, có tồn tại"
+0222,実情,じつじょう,"Facts, actual circumstances",实情,thực trạng
+0223,実践,じっせん,Put into practice,实践、实行,"thực hành, luyện tập"
+0224,実態,じったい,Actual condition,实际状态、实况,tình hình thực tế
+0225,指摘,してき,Point out,指出,chỉ ra
+0226,視点,してん,Viewpoint,视点、角度,"cách nhìn, quan điểm / tiêu điểm"
+0227,私物,しぶつ,Private property,私有物、个人的所有物,vật sở hữu riêng
+0228,使命,しめい,Mission,使命,sứ mệnh
+0229,指名,しめい,"Appoint, name",指定、指名,"bổ nhiệm, chỉ định / gọi tên"
+0230,視野,しや,Field of view,视野；眼界、眼光,tầm nhìn / tầm hiểu biết
+0231,遮断,しゃだん,"Block out, cut off",遮断、挡住,"gián đoạn, cắt đứt"
+0232,私有,しゆう,Own privately,私有、私人所有,tư hữu
+0233,集計,しゅうけい,Collate,汇总、总计,"tổng hợp, tổng kết"
+0234,収集,しゅうしゅう,Collect,收集,thu thập / sưu tầm
+0235,収納,しゅうのう,Store,收纳,cất giữ
+0236,収容,しゅうよう,"Accommodate, house",容纳,chứa
+0237,従来,じゅうらい,"Conventional, usual",过去、以前,có từ trước
+0238,守衛,しゅえい,Security guard,门卫、保安,người gác cổng
+0239,主催,しゅさい,"Hold, arrange, sponsor, host",主办,"đứng ra tổ chức, tổ chức chính"
+0240,主体,しゅたい,"Main agent, main driver, core entity",主体；（团体或机器等的）主要部分,chủ thể / bộ phận chính
+0241,出現,しゅつげん,"Appear, emerge",出现,xuất hiện
+0242,主導,しゅどう,"Lead, initiate",主导,lãnh đạo
+0243,主任,しゅにん,"Manager, head",主管、负责人,trưởng bộ phận
+0244,手法,しゅほう,Method,方法,"kỹ thuật, kỹ năng"
+0245,仕様,しよう,Specification,规格,"thiết kế, cấu tạo"
+0246,私用,しよう,For private use,私用,"việc riêng, việc cá nhân"
+0247,衝撃,しょうげき,"Impact, shock",冲击；内心强烈的震动,chấn động / cú sốc
+0248,照合,しょうごう,Check by comparison,核对,đối chiếu
+0249,情勢,じょうせい,Situation,情势、形势,"thời thế, tình hình"
+0250,正体,しょうたい,"Real nature, true colors",真面目、原形,chân tướng
+0251,承諾,しょうだく,"Agree, consent",承诺、应允,"chấp thuận, chấp nhận"
+0252,情緒,じょうちょ/じょうしょ,Emotion,情绪；情趣、风情,"cảm xúc / bầu không khí, khí chất"
+0253,象徴,しょうちょう,Symbolize,象征,tượng trưng cho
+0254,譲歩,じょうほ,"Make concession, compromise",让步,"nhượng bộ, thỏa hiệp"
+0255,消耗,しょうもう,"Exhaust, use up",耗尽、疲惫,"tiêu thụ, kiệt sức"
+0256,奨励,しょうれい,Incentivize,奖励、鼓励,khuyến khích
+0257,除外,じょがい,Exclude,排除在外,"loại trừ, bỏ ra"
+0258,所在,しょざい,Whereabouts,所在、（人或物）所在地,nơi ở
+0259,所持,しょじ,"Own, possess",持有、携带,"sở hữu, có bên mình"
+0260,処置,しょち,Treat,医疗处理、治疗,xử trí
+0261,所定,しょてい,"Required, stated",规定,"theo mẫu, được chỉ định"
+0262,処分,しょぶん,"Dispose of, sanction",处理；处分,vứt bỏ / phạt
+0263,所要時間,しょようじかん,Time required,所需时间,thời gian cần thiết
+0264,自立,じりつ,Become self-reliant,自立,tự lập
+0265,指令,しれい,"Command, order",指令,mệnh lệnh
+0266,事例,じれい,Case,事例,vụ việc
+0267,ジレンマ,,Dilemma,进退维谷、两难,tình thế khó xử
+0268,侵害,しんがい,Infringe on,侵害、侵犯,xâm phạm
+0269,審査,しんさ,Review,审查、评审,"xét tuyển, xem xét"
+0270,真相,しんそう,"Truth, reality",真相,sự thật
+0271,新築,しんちく,Newly build,新建,xây mới
+0272,進呈,しんてい,"Present, give",赠送,"biếu, tặng"
+0273,進展,しんてん,"Proceed, develop",进展,tiến triển
+0274,振動,しんどう,Vibrate,震动,rung động
+0275,神秘,しんぴ,"Mystery, wonder",神秘,sự thần bí
+0276,真理,しんり,Truth,真理,chân lý
+0277,推移,すいい,"Transition, change",推移、演变,"thay đổi, biến động"
+0278,遂行,すいこう,"Carry out, perform",落实、完成,hoàn thành
+0279,推進,すいしん,"Promote, encourage",推动,thúc đẩy
+0280,衰退,すいたい,"Decay, decline",衰退,suy giảm
+0281,推定,すいてい,Estimate,推定、估计,dự đoán
+0282,推理,すいり,"Infer, deduce",推理、推断,suy luận
+0283,救い,すくい,Deliverance,救赎,sự cứu rỗi
+0284,スケール,,"Scale, ruler",尺；规模,cái cân / quy mô
+0285,ストック,,Stock up,存储、贮存,dự trữ
+0286,ずぶぬれ,,Be soaked,全身湿透,ướt sũng
+0287,スリル,,Thrill,惊险、刺激,sự hồi hộp
+0288,成果,せいか,"Result, benefit",成果,thành quả
+0289,正規,せいき,Regular,正式、正规,"chính quy, chính thức"
+0290,征服,せいふく,Conquer,征服,chinh phục
+0291,制約,せいやく,Constrain,制约、限制,hạn chế
+0292,勢力,せいりょく,"Power, sway",势力,quyền lực
+0293,是正,ぜせい,"Correct, rectify",改正、修正,chỉnh sửa
+0294,世相,せそう,Social conditions,世态、社会情况,điều kiện hoặc khía cạnh xã hội
+0295,接触,せっしょく,Contact,接触,tiếp xúc
+0296,切断,せつだん,"Disconnect, cut off",切断、隔断,cắt đứt
+0297,設置,せっち,Install,设置、备置安装,lắp đặt
+0298,設立,せつりつ,Establish,设立、创办,lập ra
+0299,善悪,ぜんあく,Right and wrong,善恶,tốt xấu
+0300,先行,せんこう,"Precede, come first",先行,"đi trước, dẫn trước, có trước"
+0301,選考,せんこう,"Select, screen",选拔、权衡,tuyển chọn
+0302,宣告,せんこく,"Declare, sentence",宣告、告知,"thông báo, tuyên bố"
+0303,全盛,ぜんせい,"Peak, best days",鼎盛,"hoàng kim, đỉnh cao"
+0304,先着,せんちゃく,First (to arrive),先到,đến trước
+0305,前提,ぜんてい,"Premise, assumption",前提,"tiền đề, cơ sở"
+0306,先入観,せんにゅうかん,"Prejudice, preconception",先入之见、成见,định kiến
+0307,専念,せんねん,Concentrate on,专心,"tập trung, cống hiến"
+0308,全滅,ぜんめつ,Annihilate,全灭,bị hủy diệt
+0309,洗練,せんれん,Refine,洗练、考究,"mài giũa, hoàn thiện"
+0310,相違,そうい,"Differ, vary",不同、分歧,khác biệt
+0311,増強,ぞうきょう,Strengthen,增强、加强,"tăng cường, củng cố"
+0312,喪失,そうしつ,Lose,丧失、失去,đánh mất
+0313,装飾,そうしょく,Decorate,装饰、装潢,trang hoàng
+0314,増進,ぞうしん,Improve,增进,gia tăng
+0315,創造,そうぞう,Create,创造,sáng tạo
+0316,装備,そうび,Equip,装备、安装,trang bị
+0317,創立,そうりつ,Establish,创立,sáng lập
+0318,促進,そくしん,"Promote, facilitate",促进,xúc tiến
+0319,束縛,そくばく,"Curtail, restrict",束缚、限制,ràng buộc
+0320,素材,そざい,"Material, ingredient",原材料、原料,nguyên liệu
+0321,阻止,そし,"Stop, prevent",阻止,ngăn chặn
+0322,素質,そしつ,Predisposition,天分、天赋,tố chất
+0323,存続,そんぞく,"Keep going, stay in existence",存续、延续,tiếp tục tồn tại
+0324,ターゲット,,Target,目标、对象,mục tiêu
+0325,対応,たいおう,"Respond to, deal with",应对,đối ứng
+0326,待遇,たいぐう,Treatment,待遇,đãi ngộ
+0327,対決,たいけつ,"Clash, confront",对决、交锋,"đối đầu, đối chất"
+0328,対抗,たいこう,"Compete with, oppose",对抗、抗衡,cạnh tranh
+0329,第三者,だいさんしゃ,Third party,第三方、局外人,bên thứ ba
+0330,対処,たいしょ,"Deal with, cope with",对付、处理,xử lý
+0331,対照,たいしょう,"Contrast, compare",对照,so sánh
+0332,態勢,たいせい,"Condition, position",态势、阵势,trạng thái
+0333,対比,たいひ,"Contrast, compare",对比,so sánh
+0334,待望,たいぼう,Look forward to,期盼、期望,mong đợi
+0335,代用,だいよう,Substitute,代用、代替使用,thay thế
+0336,打開,だかい,"Break through, overcome",解决、打破（僵局）,"phá vỡ, đột phá"
+0337,妥協,だきょう,Compromise,妥协,thỏa thuận
+0338,打撃,だげき,"Blow, setback",打击,"tổn thất, thiệt hại"
+0339,脱出,だっしゅつ,"Escape, get out",逃脱、逃离,chạy thoát
+0340,達成,たっせい,"Achieve, reach",达成,đạt được
+0341,建前,たてまえ,"Front, public position",场面话,xã giao ngoài mặt
+0342,タブー,,Taboo,禁忌,điều kiêng kỵ
+0343,ダメージ,,Damage,损失、重创,thiệt hại
+0344,探検,たんけん,Explore,探险,thám hiểm
+0345,短縮,たんしゅく,Shorten,缩短,được rút ngắn
+0346,断絶,だんぜつ,"Sever, cut",断绝,cắt đứt
+0347,弾力,だんりょく,Elasticity,弹力、弹性,độ đàn hồi
+0348,蓄積,ちくせき,"Accumulate, build up",积蓄、积累,tích lũy
+0349,着手,ちゃくしゅ,"Start, launch",着手、开始,"bắt đầu, triển khai"
+0350,着目,ちゃくもく,Focus on,着眼,chú ý tới
+0351,着用,ちゃくよう,"Put on, wear",穿、戴,"mặc, thắt, đeo vào"
+0352,着工,ちゃっこう,Start works,开工、动工,khởi công
+0353,中断,ちゅうだん,"Discontinue, stop",中断,"trì hoãn, gián đoạn"
+0354,超越,ちょうえつ,Transcend,超越,vượt lên trên
+0355,兆候,ちょうこう,Sign,征兆、迹象,triệu chứng
+0356,挑戦,ちょうせん,Take up a challenge,挑战,thách thức
+0357,直面,ちょくめん,Be faced with,直面,đối mặt
+0358,貯蔵,ちょぞう,Store,储藏、储存,"bảo quản, cất trữ"
+0359,直感,ちょっかん,"Intuition, gut-feeling",直觉,trực giác
+0360,賃金,ちんぎん,Wage,工资、薪水,tiền lương
+0361,沈黙,ちんもく,Be silent,沉默,im lặng
+0362,追及,ついきゅう,"Pursue, hold to account",追究,truy cứu
+0363,追求,ついきゅう,"Seek, pursue",追求,"theo đuổi, mưu cầu"
+0364,使い道,つかいみち,"Use, application",用途、用法,cách sử dụng
+0365,つじつま,,Consistency,逻辑、条理,đầu đuôi
+0366,艶,つや,"Gloss, sheen",光泽,sự bóng bẩy
+0367,提起,ていき,"Raise, cite",提出,nêu lên
+0368,定義,ていぎ,Define,定义,định nghĩa
+0369,提供,ていきょう,Provide,提供,cung cấp
+0370,体裁,ていさい,"Appearance, looking decent",形态、外观；体面,hình dạng / thể diện
+0371,提示,ていじ,"Present, show",提示、出示,xuất trình
+0372,訂正,ていせい,"Correct, amend",订正、修正,sửa
+0373,停滞,ていたい,Stagnate,停滞,trì trệ
+0374,定着,ていちゃく,Take root,固定、扎根,"trụ vững, bám chắc"
+0375,堤防,ていぼう,Embankment,堤坝,"con đê, bờ kè"
+0376,手掛かり,てがかり,Clue,线索,"manh mối, chỗ bám"
+0377,適応,てきおう,Adapt,适应,thích ứng
+0378,的中,てきちゅう,"Hit home, get it right",猜中,"đoán trúng, trúng đích"
+0379,手際,てぎわ,Skill,（处理事务的）方法、技巧,"tay nghề, kỹ năng"
+0380,テクニック,,Technique,技巧、技术,kỹ thuật
+0381,手順,てじゅん,Procedure,顺序、步骤,trình tự
+0382,手数,てすう/てかず,"Bother, inconvenience",麻烦、费事,sự làm phiền
+0383,撤回,てっかい,"Withdraw, revoke",撤回、撤销,rút lại
+0384,手配,てはい,Arrange,安排、筹备,"sắp xếp, chuẩn bị"
+0385,手引き,てびき,Guide,引路、向导；引导、启蒙、入门书,chỉ điểm / hướng dẫn
+0386,デマ,,Rumor,谣言,tin đồn thất thiệt
+0387,手元,てもと,At hand,手头,bên mình
+0388,手分け,てわけ,Divide work up,分头、分工,chia ra
+0389,田園,でんえん,Countryside,田园,nông thôn
+0390,転換,てんかん,"Convert, transform",转变,"thay đổi, chuyển đổi"
+0391,点検,てんけん,Inspect,逐一检查,kiểm tra
+0392,展望,てんぼう,Have a view of,瞭望、眺望,ngắm nhìn
+0393,棟,とう,"Block, wing",屋脊长的建筑,"tòa nhà, dãy nhà"
+0394,同意,どうい,"Consent, agree",同意,đồng ý
+0395,統合,とうごう,"Integrate, amalgamate",统一、合并,"kết hợp, hợp nhất"
+0396,動向,どうこう,Trend,动向,xu thế
+0397,統制,とうせい,Bring under control,协调一致,kiểm soát
+0398,到達,とうたつ,"Reach, attain",抵达、到达,"đến nơi, đạt được"
+0399,投入,とうにゅう,Invest,投入,đổ vào
+0400,同封,どうふう,"Enclose, include",附在信内、随函,gửi kèm
+0401,動揺,どうよう,Be shaken,动摇、不安,dao động
+0402,独自,どくじ,"Unique, distinctive",独特,"bản sắc, cá nhân, đặc hữu"
+0403,特派員,とくはいん,Correspondent,特派记者,đặc phái viên
+0404,特有,とくゆう,Distinctive,特有,đặc trưng
+0405,途上,とじょう,On the way,中途,"trên đường, đang"
+0406,土台,どだい,Foundation(s),地基；根基、基础,nền móng / nền tảng
+0407,特権,とっけん,"Privilege, special right",特权,đặc quyền
+0408,突破,とっぱ,Break through,冲破、突破；超额、超量,đột phá / tăng vọt
+0409,度忘れ,どわすれ,Have a lapse of memory,一时蒙住、突然忘记,quên béng
+0410,内緒,ないしょ,Confidential,保密,bí mật
+0411,長持ち,ながもち,Last a long time,经久、耐用,lâu bền
+0412,名残,なごり,Remains,余波、余韵,tàn tích
+0413,成り行き,なりゆき,Outcome,发展、演变,diễn tiến
+0414,慣れ,なれ,"Practice, familiarity",习惯化、惯性,sự quen với
+0415,入手,にゅうしゅ,Obtain,入手、取得,"có được, lấy được"
+0416,認識,にんしき,"Recognize, be aware of",认知、理解,nhận thức
+0417,忍耐,にんたい,Patience,忍耐,sự nhẫn nại
+0418,認定,にんてい,"Certify, acknowledge",认定,"thừa nhận, công nhận"
+0419,値打ち,ねうち,Value,价值,"giá trị, sự xứng đáng"
+0420,念,ねん,"Care, attention",注意,sự cẩn trọng
+0421,燃料,ねんりょう,Fuel,燃料,nhiên liệu
+0422,ノルマ,,Quota,指标,"hạn mức, chỉ tiêu"
+0423,把握,はあく,Grasp,把握、充分理解,nắm bắt
+0424,ハードル,,"Hurdle, obstacle",难度、困难,rào cản
+0425,廃棄,はいき,"Discard, scrap",废弃,"thanh lý, vứt bỏ"
+0426,排除,はいじょ,"Get rid of, remove",排除、除掉,"dẹp bỏ, loại bỏ"
+0427,排水,はいすい,Waste water,排水,thoát nước
+0428,媒体,ばいたい,Media,媒体、媒介,vật hoặc phương tiện truyền dẫn
+0429,配置,はいち,"Arrange, deploy",布置、布局,"sắp đặt, bài trí"
+0430,配分,はいぶん,"Distribute, allocate",分配、分布,"phân phối, phân chia"
+0431,敗北,はいぼく,"Lose, be defeated",败北、战败,"thua, bại trận"
+0432,配慮,はいりょ,"Consider, take account of",关怀、照料,"quan tâm, nghĩ đến"
+0433,破壊,はかい,Destroy,破坏,phá hủy
+0434,破棄,はき,"Destroy, annul",撕毁；毁约、废除,tiêu hủy / hủy bỏ
+0435,白紙,はくし,"Blank sheet, white paper",白纸；原状,giấy trắng / từ ban đầu
+0436,迫力,はくりょく,Power,感染力、打动人心,sức mạnh
+0437,暴露,ばくろ,"Expose, reveal",揭露,phơi bày
+0438,派遣,はけん,"Dispatch, send",派遣,phái cử
+0439,発覚,はっかく,"Be detected, be discovered",暴露,bị phát hiện
+0440,発揮,はっき,Bring to bear,发挥,phát huy
+0441,発掘,はっくつ,"Unearth, uncover",挖掘、发掘,khai quật
+0442,発散,はっさん,"Emit, give off",发散,"thoát ra, bốc hơi"
+0443,発送,はっそう,"Ship, send",发送、寄出,gửi đi
+0444,初耳,はつみみ,News (to someone),初次听到,mới nghe lần đầu
+0445,破片,はへん,"Debris, fragments",碎片,mảnh vỡ
+0446,破滅,はめつ,Ruin,破灭、毁灭,hủy hoại
+0447,バリアフリー,,Barrier-free,无障碍式,không có rào cản
+0448,破裂,はれつ,Burst,破裂,"nổ, vỡ"
+0449,班,はん,"Group, team",组,"tổ, nhóm"
+0450,繁栄,はんえい,Flourish,繁荣,"phát đạt, khởi sắc"
+0451,反感,はんかん,Antipathy,反感、不满,"mối ác cảm, sự phản đối"
+0452,反響,はんきょう,Echo,回响；反响,âm vang / tạo tiếng vang
+0453,反撃,はんげき,Counterattack,反击,phản công
+0454,判定,はんてい,"Judge, deem",判定,phán quyết
+0455,万能,ばんのう,All-round talent,全能,"toàn năng, đa tài"
+0456,判明,はんめい,"Be identified, be ascertained",弄清、判明,"được xác định, được làm rõ"
+0457,氾濫,はんらん,Overflow,泛滥；充斥、蔓延,chảy tràn / tràn lan
+0458,控え,ひかえ,Backup copy,备份、副本、凭条,bản sao
+0459,控室,ひかえしつ,Waiting room,等候室,phòng chờ
+0460,日頃,ひごろ,Every day,平时、平素,"luôn luôn, thường ngày"
+0461,ビジョン,,Vision,前景、未来的构想,triển vọng
+0462,備蓄,びちく,Stockpile,储备,dự trữ
+0463,必然,ひつぜん,Inevitable,必然,tất yếu
+0464,匹敵,ひってき,"Rival, be equal to",匹敌、比得上,xứng tầm
+0465,ヒット,,Be a hit,大获成功、大受欢迎,"thắng lớn, thành công vang dội"
+0466,一息,ひといき,A single gulp or breath / A breather,一口气（干）；（歇）一口气,một hơi / một lần nghỉ
+0467,人影,ひとかげ,Human figure,人影,bóng người
+0468,人け,ひとけ,Sign of life,有人在的样子,dấu hiệu có người
+0469,一頃,ひところ,"Once, formerly",曾有一时、以前,"một thời, một thuở"
+0470,人目,ひとめ,Public attention,世人的注目,ánh nhìn của người khác
+0471,非難,ひなん,Reproach,谴责,chỉ trích
+0472,火花,ひばな,Spark,（放电时产生的）火花、火星,tia lửa
+0473,ひび,,Crack,裂痕,vết nứt
+0474,日々,ひび,Every day,天天、每天,hàng ngày
+0475,悲鳴,ひめい,Scream,悲鸣、尖叫,tiếng hét
+0476,飛躍,ひやく,Make rapid progress,飞跃、突飞猛进；飞跃、不经顺序,nhảy vọt / có kẽ hở
+0477,表示,ひょうじ,Display,表示、标示,"biểu thị, thể hiện"
+0478,表明,ひょうめい,Express,表明,"bày tỏ, biểu lộ"
+0479,ピリオド,,Period,句号；结束,dấu chấm câu / sự kết thúc
+0480,披露,ひろう,Show off,披露、公布,"biểu diễn, công bố"
+0481,品,ひん,Grace,品格、品位,"phẩm chất, nhân phẩm"
+0482,ピンチ,,Crisis,危机、困境,"tình thế khó khăn, nghịch cảnh"
+0483,封鎖,ふうさ,"Close, shut",封锁,phong tỏa
+0484,風車,ふうしゃ,Windmill,风车,cối xay gió
+0485,フォーム,,Form,姿势；形式,tư thế / mẫu
+0486,複合,ふくごう,Combine,复合,kết hợp
+0487,復しゅう,ふくしゅう,Avenge yourself,报仇,báo thù
+0488,復活,ふっかつ,"Revive, reinstate",复活,"được khôi phục, hồi sinh"
+0489,復帰,ふっき,"Return, revert",复归、恢复,quay lại
+0490,復旧,ふっきゅう,Restore,修复,phục hồi
+0491,復興,ふっこう,Reconstruct,复兴、重振,"kiến thiết lại, xây dựng lại"
+0492,物資,ぶっし,"Supplies, goods",物资,"hàng hóa, vật tư"
+0493,物体,ぶったい,Object,物体,vật thể
+0494,腐敗,ふはい,"Rot, go bad",腐败,hư hỏng
+0495,不評,ふひょう,Unpopular,评价不好、恶评,"bị chê, không được lòng"
+0496,部門,ぶもん,Department,门类、组,"thể loại, lĩnh vực, khu vực"
+0497,プロジェクト,,Project,项目、规划,dự án
+0498,プロセス,,Process,过程、工序,quá trình
+0499,ブロック,,Block,（体育运动中）阻挡；街区,cản trở / khối nhà
+0500,分割,ぶんかつ,"Divide, segment",分割、瓜分,chia ra
+0501,分散,ぶんさん,"Disperse, decentralize",分散,phân bổ
+0502,紛失,ふんしつ,"Lose, mislay",遗失、丢失,làm mất
+0503,分担,ぶんたん,Share (a burden),分担,chia sẻ
+0504,分配,ぶんぱい,Distribute,分配,"phân phát, phân chia"
+0505,分布,ぶんぷ,"Be distributed, be found",分布,phân bố
+0506,粉末,ふんまつ,Powder,粉末,chất bột
+0507,分離,ぶんり,Separate,分离,phân tách
+0508,分裂,ぶんれつ,Split up,分裂,chia rẽ
+0509,弊害,へいがい,Downside,弊端、危害,thiệt hại
+0510,並行,へいこう,Act in parallel,同时进行,song song
+0511,閉鎖,へいさ,"Close, shut down",关闭,đóng cửa
+0512,平常,へいじょう,Normal,平常、平时,bình thường
+0513,ベース,,Base,基础、基本,"tiêu chuẩn, nền"
+0514,弁解,べんかい,"Explain, justify",辩解,"giải thích, biện minh"
+0515,変革,へんかく,Overhaul,变革、改革,cải cách
+0516,返還,へんかん,"Return, give back",返还、退还,hoàn lại
+0517,返却,へんきゃく,Return,归还,trả lại
+0518,変動,へんどう,Fluctuate,变动、变化,biến đổi
+0519,ボイコット,,Boycott,联合抵制,tẩy chay
+0520,崩壊,ほうかい,Collapse,崩溃、倒塌,đổ sập
+0521,妨害,ぼうがい,Obstruct,妨害、妨碍,cản trở
+0522,放棄,ほうき,"Abandon, renounce",放弃,từ bỏ
+0523,防御,ぼうぎょ,Defend,防御,phòng vệ
+0524,方策,ほうさく,"Measure, policy",对策,"phương án, kế sách"
+0525,奉仕,ほうし,Serve,服务、奉献,phục vụ
+0526,方式,ほうしき,Method,方式,"thể thức, hình thức"
+0527,放出,ほうしゅつ,"Discharge, release",放出、释放、喷出,giải phóng
+0528,放置,ほうち,Leave,置之不顾、乱放,bỏ mặc
+0529,抱負,ほうふ,"Aspiration, hopes",抱负,"hoài bão, ước vọng"
+0530,飽和,ほうわ,Saturate,饱和,"bão hòa, quá tải"
+0531,保管,ほかん,Keep in custody,保管,cất giữ
+0532,補給,ほきゅう,"Supply, replenish",补给、补充,"bổ sung, cung cấp"
+0533,補強,ほきょう,Reinforce,增强、加固,gia cố
+0534,ポジション,,Position,位置、职位,"vị trí, vai trò"
+0535,補充,ほじゅう,"Refill, replenish",补充,"làm đầy, bổ sung"
+0536,保障,ほしょう,Guarantee,保障,bảo đảm
+0537,補足,ほそく,Supplement,补充、补足,bổ sung
+0538,没収,ぼっしゅう,Confiscate,没收,tịch thu
+0539,発足,ほっそく/はっそく,"Launch, inaugurate",开始、成立,"khai mạc, khởi đầu"
+0540,堀,ほり,Moat,濠、护城河,hào nước
+0541,本気,ほんき,"Serious, in earnest",认真、当真,"sự nghiêm túc, đứng đắn"
+0542,本質,ほんしつ,"Essence, nature",本质,bản chất
+0543,本体,ほんたい,Main unit,主体、主要部分,bộ phận chính (máy móc)
+0544,本音,ほんね,"Honest opinion, true intent",真心话、真实想法,"nội tâm, nỗi lòng, thật lòng"
+0545,本場,ほんば,"Home, origin",正宗产地、发源地,"nơi sinh ra, cái nôi (nghĩa bóng)"
+0546,埋蔵,まいぞう,Bury,埋藏,chôn giấu
+0547,身,み,"Body, oneself",自身,bản thân mình
+0548,未知,みち,Unknown,未知,chưa biết tới
+0549,密集,みっしゅう,Be concentrated,密集,"dồn đống, tập trung đông"
+0550,見通し,みとおし,"Prospect, outlook",视野；指望、预期,tầm nhìn xa / triển vọng
+0551,源,みなもと,Source,源、起源,"nguồn gốc, cội rễ"
+0552,見晴らし,みはらし,"View, vista",远望、眺望,tầm nhìn
+0553,身ぶり,みぶり,Gesture,姿势、形体动作,"cử chỉ, điệu bộ"
+0554,無,む,Nothing,无,"hư không, không có"
+0555,ムード,,Mood,氛围、气氛,"bầu không khí, tâm trạng"
+0556,無言,むごん,Speechless,无言、沉默,"không nói gì, im lặng"
+0557,名産,めいさん,Specialty product,名产、特产,đặc sản
+0558,名称,めいしょう,Name,名称、名字,"tên gọi, danh xưng"
+0559,命中,めいちゅう,"Hit, strike",命中,trúng
+0560,メカニズム,,Mechanism,机制,cơ chế
+0561,恵み,めぐみ,"Grace, bounty",恩惠、馈赠,"sự ưu đãi, ân huệ"
+0562,めど,,"Prospect, likelihood",着落、眉目,triển vọng
+0563,目安,めやす,Standard,标准、大致目标,"tiêu chuẩn, mục tiêu"
+0564,免除,めんじょ,Exempt,免除,miễn
+0565,メンテナンス,,Send off for maintenance,保养、维持,bảo dưỡng
+0566,面目,めんぼく／めんもく,"Face, prestige",脸面,thể diện
+0567,目撃,もくげき,Witness,目击,chứng kiến
+0568,模型,もけい,Model,模型,mô hình
+0569,模索,もさく,Search for,摸索、探索,"mò mẫm, dò dẫm"
+0570,モニター,,Monitor,监视、监视器；评论、评论员,máy giám sát / giám sát
+0571,模範,もはん,"Model, example",模范、榜样,"hình mẫu, tấm gương tốt"
+0572,模倣,もほう,Imitate,模仿,"mô phỏng, bắt chước"
+0573,モラル,,"Morals, ethics",道德、伦理,đạo đức
+0574,野外,やがい,Outdoors,野外、户外,ngoài trời
+0575,闇,やみ,The dark,黑暗,bóng tối
+0576,誘導,ゆうどう,"Induce, guide",引导,chỉ dẫn / xui khiến
+0577,誘惑,ゆうわく,"Seduce, tempt",诱惑、引诱,"dụ dỗ, rủ rê"
+0578,要因,よういん,"Factor, cause",要因、主要原因,nguyên nhân
+0579,用件,ようけん,Matter,应办的事,"công việc, công chuyện"
+0580,擁護,ようご,"Defend, support",拥护,bảo vệ
+0581,様式,ようしき,Form,格式,"phong cách, mẫu nhất định"
+0582,要請,ようせい,Ask for,请求,thỉnh cầu
+0583,様相,ようそう,"Aspect, air",形势、情况,khía cạnh
+0584,要望,ようぼう,"Request, demand",要求、强烈希望,yêu cầu
+0585,要領,ようりょう,"Point, gist, knack",要领、要点,"cách xử lý hiệu quả, bí quyết"
+0586,予期,よき,Expect,预期,dự đoán
+0587,欲,よく,"Desire, urge",欲望、贪心,tham vọng
+0588,抑圧,よくあつ,"Suppress, repress",压制、压迫,"đàn áp, áp chế"
+0589,抑制,よくせい,"Suppress, curb",抑制,"kiềm hãm, ức chế"
+0590,予言,よげん,Predict,预言,tiên đoán
+0591,余地,よち,"Room, scope",余地,"chỗ, thì giờ"
+0592,夜更かし,よふかし,Stay up late,熬夜、到很晚还不睡,thức khuya
+0593,ライフライン,,"Vital services, ”life-line” supplies",生命线,"đường dây thiết yếu (nước, điện, ga…)"
+0594,落下,らっか,Fall,落下,rơi xuống
+0595,ラベル,,Label,标签,nhãn hiệu
+0596,乱用,らんよう,Abuse,滥用,"lạm dụng, dùng sai cách"
+0597,リーダーシップ,,Leadership,领导能力、统率力,khả năng lãnh đạo
+0598,リクエスト,,Request,点播,yêu cầu
+0599,理屈,りくつ,Pretext,道理、理论,lý thuyết
+0600,リサイクル,,Recycle,回收利用、再利用,tái chế
+0601,リスク,,Risk,危险、风险,nguy cơ
+0602,利点,りてん,Advantage,优点,"ưu thế, ưu điểm"
+0603,了承,りょうしょう,"Accept, understand",了解、谅解,"thông cảm, chấp nhận"
+0604,類似,るいじ,Be similar to,类似、相似,tương tự nhau
+0605,レギュラー,,Regular,通常；正式,thông thường / (thành viên) thường xuyên
+0606,レッテル,,Put a label on,标签,"nhãn hiệu, sự đánh giá"
+0607,連携,れんけい,Team up,合作,hợp tác
+0608,連帯,れんたい,Act together,连带、团结,mối đoàn kết
+0609,労力,ろうりょく,"Toil, effort",劳力,công sức
+0610,技,わざ,Skills,技艺、技术,"kỹ thuật, tay nghề"
+0611,災い,わざわい,Disaster,灾难,tai ương
+0612,アリバイ,,Alibi,不在场证明,bằng chứng ngoại phạm
+0613,暗殺,あんさつ,Assassinate,暗杀,ám sát
+0614,異動,いどう,"Move, relocate",调动、变动,thay đổi (về nhân sự)
+0615,汚職,おしょく,Corruption,贪污,tham nhũng
+0616,解雇,かいこ,"Dismiss, lay off",解雇,sa thải
+0617,改定,かいてい,Revise,重新规定,điều chỉnh
+0618,解約,かいやく,Cancel,解约,hủy hợp đồng
+0619,加害者,かがいしゃ,"Culprit, assailant",加害者,thủ phạm
+0620,過失,かしつ,Mistake,过失、过错,"lỗi, sơ suất"
+0621,過疎,かそ,Depopulation,（人口)过疏、过度稀少,sự suy giảm (về dân số)
+0622,幹部,かんぶ,"Leader, cadre",首脑、团体中的核心人物,thành viên cốt cán
+0623,関与,かんよ,Be involved in,参与,"tham gia, tham dự"
+0624,危害,きがい,Harm,危害,nguy hại
+0625,ききん,,"Famine, drought",饥荒,nạn đói
+0626,偽造,ぎぞう,Counterfeit,伪造,làm giả
+0627,規範,きはん,Norm,规范,"tiêu chuẩn, quy phạm"
+0628,虐待,ぎゃくたい,Mistreat,虐待,ngược đãi
+0629,救済,きゅうさい,"Relieve, remedy",救济,trợ giúp
+0630,寄与,きよ,Contribute,贡献,đóng góp
+0631,脅威,きょうい,"Threat, danger",威胁,mối đe dọa
+0632,協定,きょうてい,Agreement,协定,hiệp định
+0633,脅迫,きょうはく,Threaten,恐吓、胁迫,"đe dọa, dọa nạt"
+0634,業務,ぎょうむ,"Business, service, operations",业务、工作,công việc
+0635,勤労,きんろう,"Work, labor",劳动,lao động
+0636,群衆,ぐんしゅう,"Crowd, mass",群众,đám đông
+0637,刑,けい,"Sentence, penalty",刑罚,hình phạt
+0638,刑罰,けいばつ,"Punishment, penalty",刑罚,hình phạt
+0639,現行,げんこう,"Current, existing",现行、现在正在施行,hiện hành
+0640,検事,けんじ,Prosecutor,检察官,công tố viên
+0641,拘束,こうそく,"Bind, detain",羁押,giam giữ
+0642,交付,こうふ,"Issue, grant",交付、发给,cấp
+0643,護衛,ごえい,Escort,护卫,"bảo vệ, hộ tống"
+0644,雇用,こよう,"Employ, hire",雇用,tuyển dụng
+0645,産休（産前産後休業）,さんきゅう（さんぜんさんごきゅうぎょう）,Maternity leave,产假（产前产后休业）,nghỉ thai sản (nghỉ trước và sau sinh)
+0646,自衛,じえい,Protect yourself,自卫,tự bảo vệ
+0647,自首,じしゅ,Hand yourself in,自首,đầu thú
+0648,辞表,じひょう,Resignation,辞呈,đơn từ chức
+0649,釈放,しゃくほう,Release,释放,phóng thích
+0650,就業,しゅうぎょう,"Start work, gain employment",就业,bắt đầu đi làm
+0651,襲撃,しゅうげき,Attack,袭击、偷袭,đột kích
+0652,従事,じゅうじ,Be engaged in,从事,làm việc liên quan đến
+0653,就任,しゅうにん,Take office,就任、就职,nhận chức
+0654,出動,しゅつどう,Be dispatched,出动,xuất quân
+0655,証言,しょうげん,Testify,证词,làm chứng
+0656,昇進,しょうしん,"Be promoted, be elevated",晋升,được thăng chức
+0657,証人,しょうにん,Witness,证人,nhân chứng
+0658,書記,しょき,Secretary,（会议等的）记录人员,thư ký
+0659,職務,しょくむ,Duties,职务,"công việc, phần việc"
+0660,所帯,しょたい,Household,家庭,hộ gia đình
+0661,処罰,しょばつ,"Punish, sanction",处罚,xử phạt
+0662,庶民,しょみん,Ordinary people,平民、普通人,thường dân
+0663,申告,しんこく,"Declare, state",申报,khai báo
+0664,震災,しんさい,Earthquake disaster,震灾,thảm họa động đất
+0665,心中,しんじゅう,Commit double suicide,殉情、情死,cùng nhau tự sát
+0666,ストーカー,,Stalker,跟踪狂,kẻ bám đuôi
+0667,総会,そうかい,General assembly,大会、全会,đại hội
+0668,捜査,そうさ,"Investigate, probe",搜查、调查,điều tra
+0669,捜索,そうさく,"Investigate, search",搜索、搜寻,khám xét
+0670,騒動,そうどう,Disturbance,闹事、骚动,"vụ ồn ào, vụ huyên náo"
+0671,遭難,そうなん,Get into trouble,遇难,gặp nạn
+0672,訴訟,そしょう,Lawsuit,诉讼,"vụ tố tụng, vụ kiện"
+0673,大衆,たいしゅう,"The public, the masses",大众,đại chúng
+0674,滞納,たいのう,"Be late with (payment), be in arrears",滞纳、拖欠,trễ hạn chi trả
+0675,妥結,だけつ,Reach agreement,谈妥、达成妥协,thỏa thuận
+0676,脱退,だったい,"Leave, quit",脱离、退出,"rút khỏi, rời khỏi"
+0677,徴収,ちょうしゅう,"Levy, collect",征收,"thu (thuế, phí)"
+0678,調停,ちょうてい,Mediate,调停、调解,"hòa giải, điều đình"
+0679,追跡,ついせき,"Track, chase",追踪,"truy đuổi, theo dấu"
+0680,通報,つうほう,Report,通报、通知,"thông báo, báo cáo"
+0681,DV（ドメスティックバイオレンス）,,Domestic violence,受到丈夫或者恋人的暴虐,bạo lực gia đình
+0682,適用,てきよう,Apply,适用,áp dụng
+0683,天災,てんさい,Natural disaster,天灾,thiên tai
+0684,転職,てんしょく,Change job,转职、跳槽,chuyển việc
+0685,転落,てんらく,Fall,滚落、跌落,"lăn xuống, rơi xuống"
+0686,当事者,とうじしゃ,Party or person involved,当事人,"người có liên quan, người trong cuộc"
+0687,逃走,とうそう,"Run away, flee",逃走,đào thoát
+0688,逃亡,とうぼう,"Run away, escape",逃亡,chạy trốn
+0689,認可,にんか,"Authorize, approve",许可、批准,cấp phép
+0690,任期,にんき,Term of service,任期,nhiệm kỳ
+0691,任務,にんむ,"Mission, duty",任务,nhiệm vụ
+0692,任命,にんめい,Appoint,任命,bổ nhiệm
+0693,納税,のうぜい,Pay tax,纳税,nộp thuế
+0694,賠償,ばいしょう,Compensate,赔偿,bồi thường
+0695,迫害,はくがい,Persecute,迫害,bức hại
+0696,白状,はくじょう,"Admit, confess",坦白、招认,thú nhận
+0697,爆破,ばくは,Blow up,爆破、炸毁,làm nổ
+0698,判決,はんけつ,"Sentence, judgment",判决,phán quyết
+0699,非行,ひこう,"Misconduct, delinquency",不良行为,hành vi sai trái
+0700,被災,ひさい,Be a victim of,受灾,hứng chịu (thiên tai)
+0701,人質,ひとじち,Hostage,人质,con tin
+0702,覆面,ふくめん,Mask,蒙面,"mặt nạ, sự che mặt"
+0703,赴任,ふにん,Be appointed,上任,chuyển công tác
+0704,紛争,ふんそう,"Dispute, conflict",纷争,giao tranh
+0705,偏見,へんけん,"Prejudice, bias",偏见,thành kiến
+0706,防衛,ぼうえい,Defend,保卫、防卫,phòng vệ
+0707,放火,ほうか,Commit arson,放火、纵火,phóng hỏa
+0708,法廷,ほうてい,Court,法庭,"pháp đình, tòa án"
+0709,補償,ほしょう,Compensate,补偿,đền bù
+0710,ポスト,,"Post, position",职位、岗位,"vị trí, chức vụ"
+0711,無罪,むざい,Innocence,无罪,sự vô tội
+0712,夜勤,やきん,Night shift,值夜班,ca đêm
+0713,誘拐,ゆうかい,"Kidnap, abduct",诱拐,bắt cóc (do dụ dỗ)
+0714,有罪,ゆうざい,Guilt,有罪,sự có tội
+0715,容疑者,ようぎしゃ,Suspect,犯罪嫌疑人,kẻ tình nghi
+0716,拉致,らち,"Kidnap, abduct",劫持、绑架,bắt cóc (do cưỡng ép)
+0717,リストラ,,Restructure,裁员,tái cấu trúc
+0718,略奪,りゃくだつ,"Loot, plunder",掠夺、抢夺,cướp bóc
+0719,連合,れんごう,"Ally, unite",联合、团结,liên kết
+0720,連盟,れんめい,"Federation, league",联盟、联合会,"liên đoàn, liên minh"
+0721,移民,いみん,"Immigration, emigration",移民,dân nhập cư
+0722,外相,がいしょう,Minister of Foreign Affairs,外务大臣,Ngoại trưởng
+0723,介入,かいにゅう,Intervene,介入,can thiệp
+0724,勧告,かんこく,"Advise, urge",劝告,"khuyến cáo, khuyên bảo"
+0725,官僚,かんりょう,Bureaucrat,官员、国家公务员,công chức
+0726,議案,ぎあん,Bill,议案,"chương trình nghị sự, vấn đề (đem ra bàn tại hội nghị)"
+0727,議決,ぎけつ,"Decide, pass a resolution",决议、表决,quyết định (sau hội nghị)
+0728,棄権,きけん,Abstain,弃权,từ bỏ quyền lợi
+0729,機構,きこう,"Mechanism, organ, agency",机构,cơ cấu / tổ chức
+0730,規制,きせい,Regulate,管制、限制,quy định / hạn chế
+0731,軍,ぐん,Army,军队,quân đội
+0732,軍艦,ぐんかん,Warship,军舰,tàu chiến
+0733,軍事,ぐんじ,Military matters,军事,quân sự
+0734,君主,くんしゅ,Monarch,君主,"vua chúa, người cai trị đất nước"
+0735,軍備,ぐんび,Military readiness,军备,quân bị
+0736,決議,けつぎ,Pass a resolution,决议、表决,ra nghị quyết
+0737,権力,けんりょく,"Authority, power",权力,quyền lực
+0738,言論,げんろん,"Speech, expression",言论,ngôn luận
+0739,広報,こうほう,Public relations,宣传、宣传资料,"thông báo, bản thông cáo"
+0740,公務,こうむ,Public service,公务,công vụ
+0741,国土,こくど,National territory,国土,lãnh thổ
+0742,国防,こくぼう,National defense,国防,quốc phòng
+0743,国有,こくゆう,State-owned,国有,của Nhà nước
+0744,国交,こっこう,Diplomatic relations,邦交,quan hệ ngoại giao
+0745,採決,さいけつ,Vote on,表决,biểu quyết
+0746,採択,さいたく,Adopt,选定、采纳,thông qua / chọn lựa
+0747,施行,しこう/せこう,"Enforce, put into effect",实行、施行,"thi hành, thực thi"
+0748,自治,じち,Autonomy,自治,sự tự trị
+0749,自治体（地方自治体）,じちたい（ちほうじちたい）,Local government,自治体,chính quyền địa phương
+0750,失脚,しっきゃく,Lose your position,失势、下台,mất chức
+0751,主権,しゅけん,Sovereignty,主权,chủ quyền
+0752,首脳,しゅのう,Leader,首脑,người lãnh đạo
+0753,樹立,じゅりつ,Establish,树立、建立,thành lập
+0754,条約,じょうやく,"Treaty, convention",条约,hiệp ước
+0755,植民地,しょくみんち,Colony,殖民地,thuộc địa
+0756,諸国,しょこく,Various countries,诸国、各国,các nước
+0757,審議,しんぎ,"Deliberate, discuss",审议,"bàn thảo, bàn luận"
+0758,侵略,しんりゃく,Invade,侵略,xâm lược
+0759,政権,せいけん,"Administration, government",政权,chính quyền
+0760,制裁,せいさい,Sanction,制裁,trừng phạt
+0761,制定,せいてい,Enact,制定,ban hành
+0762,声明,せいめい,"Statement, declaration",声明,tuyên bố
+0763,戦災,せんさい,War damage,战祸,nạn chiến tranh
+0764,選出,せんしゅつ,Elect,选出、选拔,bầu ra
+0765,戦術,せんじゅつ,Tactics,战术,chiến thuật
+0766,戦闘,せんとう,"Combat, fighting",战斗,"cuộc chiến, trận đánh"
+0767,戦略,せんりゃく,Strategy,战略,chiến lược
+0768,占領,せんりょう,Occupy,占领,"chiếm đóng, chiếm lĩnh"
+0769,措置,そち,Take measures,措施,biện pháp
+0770,治安,ちあん,Public peace and order,治安,"an ninh, an toàn (xã hội)"
+0771,秩序,ちつじょ,Public order,秩序,trật tự
+0772,中枢,ちゅうすう,"Pivot, core",中枢、中心,"trụ cột, trung tâm"
+0773,中東,ちゅうとう,Middle East,中东,Trung Đông
+0774,調印,ちょういん,"Sign, seal",盖印、签字,ký vào
+0775,追放,ついほう,"Banish, drive out",驱逐,"đuổi đi, trục xuất"
+0776,闘争,とうそう,Struggle,斗争,đấu tranh
+0777,統治,とうち,"Govern, rule",统治,cai trị
+0778,同盟,どうめい,Alliance,同盟,đồng minh
+0779,独裁,どくさい,Dictatorship,独裁,chế độ độc tài
+0780,内閣,ないかく,Cabinet,内阁,Nội các
+0781,内戦,ないせん,Civil war,内战,nội chiến
+0782,内乱,ないらん,Civil strife,内乱,nổi loạn trong nước
+0783,難民,なんみん,Refugee,难民,dân tị nạn
+0784,敗戦,はいせん,Defeat,战败,sự bại trận
+0785,反乱,はんらん,Rebellion,叛乱、反叛,cuộc nổi loạn
+0786,票,ひょう,Vote,票、选票,phiếu bầu
+0787,武装,ぶそう,Arm yourself,武装,vũ trang
+0788,武力,ぶりょく,Armed force,武力,vũ lực
+0789,兵器,へいき,Weapon,兵器,vũ khí
+0790,兵隊,へいたい,Soldier,士兵、军人,đội quân
+0791,法案,ほうあん,Bill,法案,dự luật
+0792,暴動,ぼうどう,Rioting,暴动,bạo động
+0793,母国,ぼこく,Mother country,祖国,tổ quốc
+0794,捕虜,ほりょ,Prisoner,俘虏,tù nhân chiến tranh
+0795,滅亡,めつぼう,"Go extinct, vanish",灭亡,"diệt vong, sụp đổ"
+0796,野党,やとう,Opposition party,在野党,đảng đối lập
+0797,有権者,ゆうけんしゃ,Voter,有选举权的人,cử tri đủ điều kiện
+0798,与党,よとう,Ruling party,执政党,đảng cầm quyền
+0799,領海,りょうかい,Territorial waters,领海,"lãnh hải, hải phận"
+0800,領土,りょうど,Territory,领土,"lãnh thổ, lãnh địa"
+0801,連邦,れんぽう,Federation,联邦,liên bang
+0802,愛想,あいそう／あいそ,Friendliness,待人亲切、和蔼的态度,"sự dễ mến, sự thân thiện"
+0803,間柄,あいだがら,Relations,关系,quan hệ
+0804,言い分,いいぶん,"Argument, case",说法、意见,điều muốn nói
+0805,怒り,いかり,Anger,愤怒,cơn giận
+0806,憤り,いきどおり,Indignation,愤慨,sự phẫn nộ
+0807,異性,いせい,Opposite sex,异性,giới tính khác
+0808,うぬぼれ,,Conceit,自负,tính tự phụ
+0809,浮気,うわき,Philander,用情不专、轻浮,ngoại tình
+0810,運命,うんめい,"Fate, destiny",命运,vận mệnh
+0811,縁,えん,Chance / Ties,缘分,cái duyên
+0812,縁談,えんだん,Offer to arrange a marriage partner,说媒,"hôn ước, cuộc nói chuyện về cưới hỏi"
+0813,行い,おこない,"Deed, action",行为,"hành động, việc làm"
+0814,驚き,おどろき,Surprise,震惊、吃惊,sự kinh ngạc
+0815,おふくろ,,Mother (familiar),妈妈（母亲的昵称）,mẹ của mình (cách gọi thân mật)
+0816,おやじ,,Father (familiar),爸爸（父亲的昵称）,cha của mình (cách gọi thân mật)
+0817,恩人,おんじん,"Benefactor, life-saver",恩人,ân nhân
+0818,片思い,かたおもい,One-sided affection,单相思,tình yêu đơn phương
+0819,歓声,かんせい,"Cheer, shout in joy",欢声、欢呼声,tiếng reo hò
+0820,勧誘,かんゆう,Invite,劝诱、邀请,"rủ rê, mời mọc"
+0821,気兼ね,きがね,Feel constrained,顾虑、顾及,"giữ ý, ngại"
+0822,帰省,きせい,Go back to your home area,探亲、返乡探亲,về quê nhà
+0823,気品,きひん,"Dignity, elegance",优雅、风度,sự cao quý
+0824,共感,きょうかん,Sympathize,同感,đồng cảm
+0825,恐縮,きょうしゅく,"Feel obliged, feel indebted",对不起、过意不去,"thấy áy náy, biết ơn, có lỗi"
+0826,協調,きょうちょう,Be cooperative,协调,hợp tác
+0827,郷土,きょうど,Home area,乡土、故土,quê hương
+0828,共鳴,きょうめい,"Resonate, sympathize",共振、共鸣；同感、共鸣,cộng hưởng / đồng tình
+0829,義理,ぎり,Obligation,情理；人情、情面,đạo nghĩa / việc phải làm để giữ quan hệ
+0830,気力,きりょく,Vigor,精力、气力,"năng lượng, sức sống"
+0831,愚痴,ぐち,Complaint,抱怨、牢骚,sự phàn nàn
+0832,苦悩,くのう,Be troubled,苦恼、烦恼,đau khổ
+0833,軽蔑,けいべつ,"Despise, disdain",蔑视、轻蔑,khinh bỉ
+0834,激励,げきれい,Encourage,激励,khích lệ
+0835,結束,けっそく,"Band together, unite",团结,"đoàn kết, đồng lòng"
+0836,決断,けつだん,Make a decision,决断、果断下定决心,quyết định
+0837,謙遜,けんそん,Be modest,谦虚,tỏ ra khiêm tốn
+0838,倹約,けんやく,Economize,节俭,tiết kiệm
+0839,好意,こうい,Goodwill,好感,thiện cảm
+0840,告白,こくはく,Confess,坦白、忏悔,thú nhận
+0841,心地,ここち,"Feeling, mood",心情、感觉,"cảm giác, tâm trạng"
+0842,心構え,こころがまえ,"Attitude, mental readiness",思想准备、思想觉悟,sự chuẩn bị về tinh thần
+0843,志,こころざし,"Aim, ambition",志向,"ý chí, sự quyết tâm"
+0844,孤児,こじ,Orphan,孤儿,trẻ mồ côi
+0845,孤立,こりつ,Be isolated,孤立,bị cô lập
+0846,根気,こんき,Perseverance,耐性、毅力,"sự kiên trì, sự bền chí"
+0847,困惑,こんわく,Be bewildered,困惑、不知所措,bối rối
+0848,再会,さいかい,Meet again,再会、重逢,gặp lại
+0849,思春期,ししゅんき,Puberty,青春期,tuổi dậy thì
+0850,視線,しせん,Line of sight,视线,ánh nhìn
+0851,自尊心,じそんしん,"Self-esteem, self-regard",自尊心,lòng tự trọng
+0852,下心,したごころ,Ulterior motive,用心、企图,ý đồ
+0853,実家,じっか,Parental home,娘家、生身父母家,nhà cha mẹ ruột
+0854,嫉妬,しっと,Be jealous,嫉妒,ganh tị
+0855,謝罪,しゃざい,Apologize,谢罪、道歉,tạ lỗi
+0856,しゅうと,,Father-in-law,公公、岳父,"cha chồng, cha vợ"
+0857,しゅうとめ,,Mother-in-law,婆婆、岳母,"mẹ chồng, mẹ vợ"
+0858,祝福,しゅくふく,"Bless, wish well",祝福,chúc phúc
+0859,宿命,しゅくめい,Fate,宿命,số phận
+0860,助言,じょげん,Advise,忠告、建议,khuyên bảo
+0861,人格,じんかく,Character,人格,nhân cách
+0862,親近感,しんきんかん,Sense of affinity,亲近感,cảm giác gần gũi
+0863,新婚,しんこん,Newly married,新婚,mới cưới
+0864,心情,しんじょう,"Feelings, state of mind",心情,nỗi lòng
+0865,親族,しんぞく,Relatives,亲属,họ hàng
+0866,信念,しんねん,"Belief, conviction",信念,niềm tin
+0867,辛抱,しんぼう,Be patient,忍耐、含辛茹苦,"chịu đựng gian khổ, chịu khó"
+0868,人脈,じんみゃく,Personal connection,人脉,sự kết nối trong nhóm người
+0869,誠意,せいい,"Sincerity, good faith",诚意,thành ý
+0870,成熟,せいじゅく,Mature,成熟,trưởng thành
+0871,説教,せっきょう,"Lecture, scold",训诫、教诲,thuyết giáo
+0872,絶望,ぜつぼう,Despair,绝望,tuyệt vọng
+0873,善意,ぜんい,Good intentions,好意、善心,thiện ý
+0874,知性,ちせい,Intelligence,智慧、思考能力,trí tuệ
+0875,中傷,ちゅうしょう,Slander,中伤、毁谤,"vu khống, phỉ báng"
+0876,同感,どうかん,Feeling the same way,同感、赞同,"đồng cảm, đồng ý"
+0877,同志,どうし,Fellow,志同道合的人、同志,"người cùng chí hướng, đồng chí"
+0878,どうし,,"Fellow, comrade",…们,"(theo sau danh từ, biểu thị ý có cùng quan hệ, cùng loại)"
+0879,戸惑い,とまどい,Confusion,困惑、不知所措,"lạc lối, lúng túng"
+0880,内心,ないしん,Heart (of hearts),内心,trong lòng
+0881,憎しみ,にくしみ,Hatred,憎恶、憎恨,lòng căm ghét
+0882,肉親,にくしん,Blood relation,血亲、骨肉亲,người có quan hệ ruột thịt
+0883,二世,にせい,Second-generation,第二代人、二世；第二代（在日本指移居国外者的子女中已获居住国公民权的人）,đời thứ 2 / người nước ngoài gốc ~
+0884,人情,にんじょう,"Humanity, empathy",人情、情义；人之常情,tình cảm / bản tính con người
+0885,熱意,ねつい,Enthusiasm,热情,sự nhiệt tình
+0886,パートナー,,Partner,伙伴、搭档；配偶,"cộng sự, đối tác / vợ hoặc chồng"
+0887,配偶者,はいぐうしゃ,Spouse,配偶,người phối ngẫu
+0888,恥,はじ,Shame,耻辱,"nỗi xấu hổ, nỗi nhục nhã"
+0889,罰,ばつ,Punishment,惩罚,hình phạt
+0890,晩年,ばんねん,"Late years, later life",晚年,năm tháng cuối đời
+0891,反発,はんぱつ,"Resist, rebel",顶撞、反抗,chống đối
+0892,悲観,ひかん,Be pessimistic,悲观,suy nghĩ bi quan
+0893,人柄,ひとがら,Personality,为人、人品,tính cách
+0894,侮辱,ぶじょく,Insult,侮辱,xúc phạm
+0895,ふり,,"Pretense, feint",姿态、样子,sự giả vờ
+0896,憤慨,ふんがい,Get angry,愤慨,"tức giận, phẫn nộ"
+0897,弁護,べんご,"Defend, plead for",辩护、辩解,"biện hộ, bênh vực"
+0898,真心,まごころ,Sincerity,真心、诚心,chân tình
+0899,身内,みうち,Family member,亲属,thân quyến
+0900,身の上,みのうえ,One's circumstances,身世、境遇,câu chuyện cuộc đời
+0901,名誉,めいよ,Honor,名誉、荣誉,danh dự
+0902,モチベーション,,Motivation,动力,động lực
+0903,野心,やしん,Ambition,野心、雄心,tham vọng
+0904,やる気,やるき,Motivation,干劲,ý muốn (làm gì đó)
+0905,遺言,ゆいごん,Will,遗言,"di chúc, lời trăng trối"
+0906,優越感,ゆうえつかん,Sense of superiority,优越感,cảm giác vượt trội
+0907,養子,ようし,Foster child,养子,con nuôi
+0908,欲望,よくぼう,Desire. appetite,欲望,lòng ham muốn
+0909,理性,りせい,"Reason, sense",理性,lý trí
+0910,良識,りょうしき,Good sense,正确的判断力、卓越的见识,lương tri
+0911,良心,りょうしん,Conscience,良心,lương tâm
+0912,劣等感,れっとうかん,Sense of inferiority,自卑感,"cảm giác yếu kém, sự tự ti"
+0913,浪費,ろうひ,Waste,浪费、糟蹋,phung phí
+0914,和解,わかい,"Settle, reconcile",和解,hòa giải
+0915,明かり,あかり,Light (source),灯、灯火,"ánh sáng, ngọn đèn"
+0916,アクセル,,Accelerator,油门,chân ga (xe hơi)
+0917,脚,あし,"(Lower) leg, foot",腿,chân (bàn ghế)
+0918,遺産,いさん,"Legacy, estate",遗产,gia tài
+0919,衣装,いしょう,Costume,服装、戏装,trang phục
+0920,一同,いちどう,"Everyone, the whole team",全体、大家,cả tập thể
+0921,インターフォン,,Intercom,内线电话,máy liên lạc nội bộ
+0922,器,うつわ,Receptacle,容器,"thùng, lọ chứa đồ"
+0923,柄,え,Handle,柄、把手,"tay cầm, cán cầm"
+0924,エキスパート,,Expert,专家,chuyên gia
+0925,エリート,,Elite,精英,người ưu tú
+0926,宴会,えんかい,Banquet,宴会,bữa tiệc
+0927,園芸,えんげい,Gardening,园艺,nghề làm vườn
+0928,帯,おび,"Belt, band",（和服的）腰带,thắt lưng (kimono)
+0929,顏つき,かおつき,"Look, looks",表情；容貌,vẻ mặt / khuôn mặt
+0930,各位,かくい,All concerned,各位,các vị
+0931,肩書き,かたがき,Title,头衔、身份,"chức vị, danh hiệu"
+0932,機器,きき,Equipment,器材、器械,"thiết bị, máy móc"
+0933,儀式,ぎしき,Ceremony,仪式,nghi lễ
+0934,キャラクター,,"Character, personality; fictional character",性格、人格；人物、角色,tính cách / nhân vật
+0935,キャリア,,Career,经历、经验,sự nghiệp
+0936,ギャンブル,,Gambling,赌博,cờ bạc
+0937,きれ,,"Cloth, fabric",布、布料,mảnh vải
+0938,経歴,けいれき,Career,经历,lý lịch
+0939,現役,げんえき,Being still active,在职、现役,vẫn đang làm việc
+0940,香辛料,こうしんりょう,Spice,香辛料,gia vị
+0941,高齢,こうれい,Old age,高龄,cao tuổi
+0942,故人,こじん,Deceased person,死去的人、故人,người đã khuất
+0943,戸籍,こせき,Family register,户籍,hộ tịch
+0944,柵,さく,Fence,围栏、栅栏,hàng rào
+0945,雑貨,ざっか,Sundries,杂货、日用小商品,vật dụng gia đình
+0946,作法,さほう,"Manners, etiquette",礼法,"cách ứng xử, nghi thức"
+0947,残金,ざんきん,Balance,余额,"số tiền còn lại, số dư"
+0948,シート,,Seat,座位,ghế ngồi
+0949,式場,しきじょう,Venue for ceremony,会场、举行仪式的场所,nơi làm lễ
+0950,しきたり,,Tradition,惯例、习俗,phong tục
+0951,出生,しゅっしょう/しゅっせい,Be born,出生,"chào đời, ra đời"
+0952,生涯,しょうがい,"Life, lifetime",终生、一生,cả đời
+0953,消息,しょうそく,News,情况、音信,tin tức
+0954,裾,すそ,"Hem of dress, bottom of pants",下摆,"gấu quần, gấu váy"
+0955,スペシャリスト,,Specialist,专家,nhà chuyên môn
+0956,生計,せいけい,"Living, livelihood",生计,kế sinh nhai
+0957,姓名,せいめい,Full name,姓名,họ tên
+0958,世帯,せたい,Household,家庭,hộ gia đình
+0959,繊維,せんい,Fiber,纤维,sợi vải
+0960,先方,せんぽう,"Counterpart, other person",对方,"đối phương, đối tác"
+0961,双方,そうほう,Both people,双方,hai phía
+0962,単身,たんしん,"Single, alone",单身、只身,một mình
+0963,ちり,,Dust,尘埃,bụi
+0964,筒,つつ,Cylinder,筒,ống
+0965,適性,てきせい,Aptitude,适合做某项工作的资质或才能,"năng lực, tố chất"
+0966,転居,てんきょ,"Move, relocate",迁居、搬家,chuyển nơi ở
+0967,同期,どうき,Year-on-year / Same grade,同一时期；入学、进公司等的年度相同,cùng thời điểm / cùng khóa
+0968,当人,とうにん,Person in question,当事人、本人,người được đề cập đến
+0969,年頃,としごろ,"Age, time of life / Of marriageable age",大约……的年龄；妙龄,độ tuổi / tuổi cập kê
+0970,扉,とびら,Door,门,cánh cửa
+0971,刃,は,Blade,刃,lưỡi dao
+0972,バッテリー,,Battery,蓄电池,ắc quy
+0973,刃物,はもの,Edged tool,刀具,dao kéo
+0974,ヒーロー,,Hero,英雄,người anh hùng
+0975,日取り,ひどり,Date,日期,ngày tháng
+0976,フィルター,,Filter,过滤装置,bộ lọc
+0977,封,ふう,Seal,封、封闭,dấu niêm phong
+0978,扶養,ふよう,Support,抚养,"nuôi dưỡng, phụng dưỡng"
+0979,付録,ふろく,"Appendix, supplement",附录、增刊,phụ lục
+0980,的,まと,Target,目标、靶子,"đích ngắm, mục tiêu"
+0981,マンホール,,Manhole,窨井,lỗ cống
+0982,溝,みぞ,"Groove, furrow",沟、水沟,cái mương
+0983,道端,みちばた,Roadside,道旁、路边,ven đường
+0984,身なり,みなり,Appearance,衣着打扮、装束,"ngoại hình, trang phục"
+0985,目つき,めつき,Look in one’s eyes,眼神,ánh mắt
+0986,喪服,もふく,Mourning attire,丧服,tang phục
+0987,矢,や,Arrow,箭,mũi tên
+0988,屋敷,やしき,"House, residence",宅邸,dinh thự
+0989,やつ,,"Guy, fellow",家伙、小子,hắn
+0990,ゆとり,,"Leeway, freedom from pressure",宽裕、余裕,sự sung túc
+0991,弓,ゆみ,Bow,弓,cánh cung
+0992,用品,ようひん,"Supplies, accessories",用品、必需的物品,vật dụng
+0993,羊毛,ようもう,Wool,羊毛,len
+0994,余暇,よか,"Leisure, free time",闲暇,thời gian rảnh
+0995,浴室,よくしつ,Bathroom,浴室,phòng tắm
+0996,来客,らいきゃく,"Visitor, guest",来客、来访的客人,khách đến nhà
+0997,連中,れんちゅう,"Group of people, company",伙伴、同伙,đám người
+0998,路地,ろじ,Alley,小巷、胡同,con hẻm
+0999,インター（インターチェンジ）,,Interchange,高速公路出入口,nút giao thông
+1000,インフレ（インフレーション）,,Inflation,通货膨胀、物价上涨,sự lạm phát
+1001,運河,うんが,Canal,运河,kênh đào
+1002,運送,うんそう,"Transportation, delivery",运送、搬运物品,sự chuyên chở
+1003,運輸,うんゆ,Transportation,运输，运送旅客或货物,sự vận chuyển
+1004,外貨,がいか,Foreign currency,外币,ngoại tệ
+1005,開拓,かいたく,"Develop, cultivate",开垦、开拓,"khai khẩn, khai thác"
+1006,街道,かいどう,Highway,大道、街道,"đường chính, đường lớn"
+1007,家計,かけい,Household budget,家计、家庭生计,"ngân sách gia đình, việc chi tiêu gia đình"
+1008,家畜,かちく,Livestock,家畜、牲畜,gia súc
+1009,合併,がっぺい,Merge,企业合并,sáp nhập
+1010,貨幣,かへい,"Money, currency",货币,tiền tệ
+1011,幹線,かんせん,Trunk route,干线、主要线路,tuyến chính
+1012,規格,きかく,Standard,规格,quy cách
+1013,起業,きぎょう,Start a business,创业,khởi nghiệp
+1014,基金,ききん,Fund,基金,quỹ
+1015,技術革新,ぎじゅつかくしん,Technological innovation,技术革新,cải tiến kỹ thuật
+1016,業者,ぎょうしゃ,Tradesman,业者,người chuyên làm một việc nào đó
+1017,金銭,きんせん,Money,金钱,tiền bạc
+1018,金融,きんゆう,Finance,金融,tài chính (dùng cho ngân hàng và các tổ chức tài chính)
+1019,クレーン,,Crane,起重机、吊车,cần cẩu
+1020,経費,けいひ,Expenses,经费、开销,chi phí
+1021,経路,けいろ,Route,过程、途径,"quá trình, lộ trình"
+1022,決算,けっさん,"Settlement of accounts, financial statement",决算、结算,quyết toán
+1023,下落,げらく,"Fall, decline",下降,sụt giá
+1024,兼業,けんぎょう,Have a side job,（从事）副业,làm cùng lúc 2 công việc
+1025,原油,げんゆ,Crude oil,原油,dầu thô
+1026,交易,こうえき,Engage in trading,交易、贸易,giao thương
+1027,航海,こうかい,Go on a voyage,航海、航行,vượt biển
+1028,鉱業,こうぎょう,Mining,矿业,công nghiệp khai khoáng
+1029,鉱山,こうざん,Mine,矿山,mỏ khoáng sản
+1030,控除,こうじょ,"Deduct, exempt",扣除,khấu trừ
+1031,購入,こうにゅう,"Buy in, purchase",购入,"mua vào, mua"
+1032,購買,こうばい,"Buy, purchase",购买,"mua, mua sắm"
+1033,小売り,こうり,Retail,零售,bán lẻ
+1034,採掘,さいくつ,"Mine, exploit",采掘、开采,khai thác
+1035,財源,ざいげん,Financial resources,资金来源,nguồn thu (thường từ thuế)
+1036,在庫,ざいこ,"Stock, inventory",库存,có trong kho
+1037,採算,さいさん,Profitability,核算,khả năng sinh lời
+1038,財政,ざいせい,Finances,财政,tài chính (dùng cho Nhà nước)
+1039,栽培,さいばい,Cultivate,栽培、种植,trồng trọt
+1040,産出,さんしゅつ,Produce,产出,sản xuất
+1041,産物,さんぶつ,Product,物产,sản vật
+1042,事業,じぎょう,"Business, project",事业、实业,"ngành nghề, lĩnh vực"
+1043,資金,しきん,Funding,资金,số tiền (dùng cho việc gì đó)
+1044,資産,しさん,Assets,资产,"của cải, tài sản"
+1045,市場,しじょう,Market,市场,thị trường
+1046,下取り,したどり,Trade in,折旧换新,mua lại
+1047,実業家,じつぎょうか,Businessperson,实业家,doanh nhân
+1048,実費,じっぴ,Actual cost,实际费用,chi phí thực
+1049,市販,しはん,Market commercially,上市销售,bán ra thị trường
+1050,車両,しゃりょう,"Car, rolling stock",车辆,toa tàu
+1051,収益,しゅうえき,"Revenue, proceeds",收益,lợi nhuận
+1052,収支,しゅうし,Income and expenditure; balance of trade,收支,thu chi
+1053,十字路,じゅうじろ,Crossroads,十字路、十字路口,ngã tư
+1054,出荷,しゅっか,"Ship, deliver",出货、发货,xuất hàng
+1055,出資,しゅっし,"Invest, finance",出资,bỏ vốn
+1056,出費,しゅっぴ,Make an outlay,花费、开销,chi ra
+1057,徐行,じょこう,Go slowly,减速、慢行,"đi chậm, giảm tốc độ"
+1058,振興,しんこう,"Promotion, development",振兴,"sự đẩy mạnh, sự thúc đẩy"
+1059,人材,じんざい,"Human resources, talent",人才,nhân tài
+1060,水産業,すいさんぎょう,Marine produce industry,水产业,công nghiệp thủy sản
+1061,水田,すいでん,Paddy field,水田,ruộng lúa
+1062,スポンサー,,Sponsor,赞助者、赞助商,nhà tài trợ
+1063,生産高,せいさんだか,Total output,生产量、出产量、产值,"mức sản xuất, sản lượng"
+1064,製鉄,せいてつ,Iron-making,炼铁、制铁,sản xuất thép
+1065,船舶,せんぱく,Ship,船舶、船,tàu thuyền
+1066,走行,そうこう,"Travel, run",行驶,"(tàu xe) di chuyển, chạy"
+1067,操縦,そうじゅう,"Steer, handle",驾驶、操纵,"điều khiển (máy móc, tàu xe)"
+1068,相場,そうば,Market price,市价、行情,giá thị trường
+1069,損失,そんしつ,Loss,损失、亏,"tổn thất, thua lỗ"
+1070,ターミナル,,Terminal,终点站、始发站,"bến tàu, xe"
+1071,大金,たいきん,"Large sum of money, a fortune",巨款,khoản tiền lớn
+1072,畜産,ちくさん,Animal husbandry,畜产,chăn nuôi
+1073,貯蓄,ちょちく,"Save, deposit",储蓄,để dành
+1074,賃貸,ちんたい,Rental,出租,sự cho thuê
+1075,提携,ていけい,Partner with,合作,liên kết
+1076,ディスカウント,,Discount,打折、减价,giảm giá
+1077,鉄鋼,てっこう,"Iron and steel, steelmaking",钢铁,sắt thép
+1078,デフレ（デフレーション）,,Deflation,通货紧缩,sự giảm phát
+1079,店舗,てんぽ,"Store, outlet",店铺,cửa hàng
+1080,投資,とうし,Invest,投资,đầu tư
+1081,当社,とうしゃ,Our company,本公司,công ty chúng tôi (mang sắc thái bình thường)
+1082,独占,どくせん,Monopolize,独占、垄断,độc quyền
+1083,特許,とっきょ,Patent,专利权,bằng sáng chế
+1084,土木,どぼく,Civil engineering,土木工程,xây dựng dân dụng
+1085,富,とみ,"Wealth, riches",财富,"sự giàu có, của cải"
+1086,取引,とりひき,"Trade, transact",交易、买卖,"giao dịch, buôn bán"
+1087,農耕,のうこう,Farming,农耕,việc canh tác
+1088,農場,のうじょう,Farm,农场,nông trường
+1089,農地,のうち,Farmland,农地,đất nông nghiệp
+1090,納入,のうにゅう,Make payment,缴纳,nộp phí
+1091,売却,ばいきゃく,Sell (off),出售、卖掉,bán đi
+1092,買収,ばいしゅう,"Buy, acquire",收购；拉拢、收买,mua vào / hối lộ
+1093,破産,はさん,Go bankrupt,破产,phá sản
+1094,パッケージ,,"Package, packaging",包装,bao bì
+1095,伐採,ばっさい,"Log, fell timber",砍伐、采伐,phá rừng
+1096,不況,ふきょう,"Recession, slowdown",不景气、萧条,sự suy thoái
+1097,負債,ふさい,"Debt, liabilities",负债,món nợ
+1098,不動産,ふどうさん,"Real estate, property",不动产、房地产,bất động sản
+1099,返金,へんきん,Refund,还钱、退款,hoàn tiền
+1100,返済,へんさい,Repay,归、偿还,trả nợ
+1101,弁償,べんしょう,"Compensate, pay for damage",赔偿,bồi thường
+1102,ベンチャー,,Venture,冒险、投机,việc kinh doanh mạo hiểm
+1103,返品,へんぴん,Return (item),退货,trả hàng
+1104,報酬,ほうしゅう,"Fee, reward",报酬,"thù lao, phần thưởng"
+1105,舗装,ほそう,Pave,铺路、铺砌,lát đường
+1106,民宿,みんしゅく,"Guesthouse, <i>minshuku</i>",民宿、家庭旅店,nhà nghỉ tư nhân
+1107,明細,めいさい,"Itemized list, details",明细,chi tiết
+1108,最寄り,もより,Nearest,最近的地方、附近,gần nhất
+1109,ユーザー,,"User, customer",用户,người dùng
+1110,融資,ゆうし,"Lend, finance",融资,xuất vốn cho vay
+1111,遊牧民,ゆうぼくみん,Nomad,游牧民族,dân du mục
+1112,養殖,ようしょく,"Cultivate, rear",养殖,nuôi trồng thủy sản
+1113,酪農,らくのう,"Dairying, dairy",乳畜业,ngành chăn nuôi bò sữa
+1114,利潤,りじゅん,Profit,利润、利益,lợi nhuận
+1115,リゾート,,Resort,疗养地、度假地,khu nghỉ dưỡng
+1116,利息,りそく,Interest,利息,lãi suất
+1117,流通,りゅうつう,"Be distributed, circulate",（商品、货币等的）流通、流动,phân phối / lưu thông
+1118,旅客,りょかく,Passenger,旅客、乘客,hành khách
+1119,林業,りんぎょう,Forestry,林业,lâm nghiệp
+1120,ルート,,Route,路线、路径,lộ trình
+1121,レンタカー,,Rental car,租赁汽车,xe hơi thuê
+1122,相づち,あいづち,Interjections to show attention,帮腔、附和,từ đệm (cho thấy mình đang lắng nghe đối phương)
+1123,圧縮,あっしゅく,Compress,压缩,nén lại
+1124,粗筋,あらすじ,"Outline, summary",故事梗概,bản tóm tắt
+1125,育成,いくせい,"Foster, train",培育、培养,"nuôi dưỡng, đào tạo"
+1126,イデオロギー,,Ideology,意识形态,hệ tư tưởng
+1127,閲覧,えつらん,Read,阅览,"xem qua, đọc qua"
+1128,オリエンテーション,,Orientation,入学教育、新员工培训,buổi định hướng
+1129,オンライン,,Online,在线、联机,trực tuyến
+1130,改訂,かいてい,Revise,修订,"chỉnh sửa, hiệu đính"
+1131,概念,がいねん,Concept,概念,khái niệm
+1132,箇条書き,かじょうがき,Itemization,一条条写、逐条写,sự viết ra theo từng mục
+1133,仮説,かせつ,Hypothesis,假说,giả thuyết
+1134,片言,かたこと,Halting speech,只言片语,bập bẹ
+1135,課程,かてい,Course,课程,chương trình học
+1136,カテゴリー,,Category,范畴、种类,thể loại
+1137,記載,きさい,"State, note",记载、写,ghi vào
+1138,記述,きじゅつ,"Record, describe",记述,"miêu tả, trình bày"
+1139,共学,きょうがく,Coeducation,男女同校,nam nữ học chung
+1140,口調,くちょう,Tone of voice,口吻、腔调,giọng điệu
+1141,掲載,けいさい,"Post, place, insert",刊登、登载,"đăng lên (báo, tạp chí)"
+1142,口頭,こうとう,"Oral, verbal",口头,nói miệng
+1143,事柄,ことがら,Matter,事情,sự việc
+1144,言づて,ことづて,Message,口信、传话,tin nhắn
+1145,コメント,,"Comment, remark",评论、解说,bình luận
+1146,コラム,,Column,专栏,"cột báo, góc tin tức"
+1147,根拠,こんきょ,"Grounds, basis",根据、依据,căn cứ
+1148,座談会,ざだんかい,"Symposium, round-table talk",座谈会,buổi tọa đàm
+1149,参照,さんしょう,Refer to,参阅、参看,tham chiếu
+1150,志願,しがん,Apply to / for,志愿,nguyện vọng
+1151,下調べ,したしらべ,Do preparatory research,预先调查,tìm hiểu trước
+1152,質疑,しつぎ,Questioning,质疑、质询,thắc mắc
+1153,しつけ,,Bring up properly,教育、管教,kỷ luật
+1154,執筆,しっぴつ,"Write, author",执笔、写作,viết bài
+1155,習得,しゅうとく,"Learn, master",学会、掌握,"học tập, làm chủ kiến thức"
+1156,修了,しゅうりょう,Finish (course),学完、修完,hoàn thành
+1157,主題,しゅだい,"Main theme, subject matter",主题,chủ đề
+1158,消去,しょうきょ,"Erase, delete",消去、删去,xóa bỏ
+1159,初心者,しょしんしゃ,Beginner,初学者,"người mới học, người mới bắt đầu"
+1160,書物,しょもつ,Book,书籍,sách
+1161,進度,しんど,Rate of progress,进度,tiến độ
+1162,シンポジウム,,Symposium,专题讨论会、研讨会,hội nghị chuyên đề
+1163,説,せつ,Theory,说法,thuyết
+1164,説得,せっとく,"Persuade, win over",说服,thuyết phục
+1165,セミナー,,Seminar,研讨班,hội thảo
+1166,創刊,そうかん,Launch (publication),创刊,phát hành lần đầu
+1167,題材,だいざい,"Theme, material",题材,tư liệu chính
+1168,対話,たいわ,Engage in dialogue,对话、交谈,đối thoại
+1169,断言,だんげん,"Assert, declare",断言,"quả quyết, khẳng định"
+1170,著書,ちょしょ,"Book, writings",著作,sách (do người được đề cập viết)
+1171,手本,てほん,"Model, example",字帖、样板,mẫu
+1172,伝達,でんたつ,"Pass on, notify",传达、转达,truyền đạt
+1173,討議,とうぎ,"Discuss, debate",讨论、商议,tranh luận
+1174,匿名,とくめい,Anonymous,匿名,"ẩn danh, nặc danh"
+1175,トピック,,Topic,话题、论题,chủ đề
+1176,ニュアンス,,Nuance,语感,sắc thái
+1177,年表,ねんぴょう,Chronology,年表,niên biểu
+1178,バージョン,,Version,版本,phiên bản
+1179,反論,はんろん,"Object to, argue against",反论、反驳,"bác bỏ, phản bác"
+1180,皮肉,ひにく,"Irony, sarcasm",挖苦、嘲讽,sự mỉa mai
+1181,プレゼン（プレゼンテーション）,,"Present, give presentation",发表（策划方案）,thuyết trình
+1182,文献,ぶんけん,"The literature, documents",文献,tài liệu tham khảo
+1183,文書,ぶんしょ,Documents,文件,văn bản
+1184,ベストセラー,,Bestseller,（最）畅销书,sách bán chạy nhất
+1185,保育,ほいく,"Bring up, raise (a child)",保育,"trông giữ, chăm sóc (trẻ em)"
+1186,褒美,ほうび,Reward,奖励、褒奖,"phần thưởng, giải thưởng"
+1187,前置き,まえおき,Make introductory remarks,（做）开场白,lời dẫn nhập
+1188,結び,むすび,"Close, conclusion",结尾、结语,lời kết
+1189,メディア,,"Media, news outlet",媒体、手段,phương tiện truyền thông
+1190,要旨,ようし,"Gist, summary",要点、要旨,"điểm chính, ý chính"
+1191,養成,ようせい,"Train, educate",培训、培养,đào tạo
+1192,論議,ろんぎ,"Discuss, debate",讨论、议论,"bàn bạc, bàn thảo"
+1193,論争,ろんそう,"Dispute, argue, debate",争论,"tranh cãi, tranh luận"
+1194,論理,ろんり,Logic,逻辑,lý luận
+1195,あか,,Dirt (on skin),污垢,"bụi bẩn, chất bẩn"
+1196,安静,あんせい,"Rest, repose",静养,sự tịnh dưỡng
+1197,移植,いしょく,Transplant,（植物）移植；（组织、器官）移植,đem trồng nơi khác / cấy ghép
+1198,栄養失調,えいようしっちょう,"Malnutrition, nutritional deficiency",营养不良,suy dinh dưỡng
+1199,往診,おうしん,Make home (medical) visit,出诊,đến khám tại nhà
+1200,お産,おさん,Childbirth,分娩、生产,việc sinh nở
+1201,介抱,かいほう,"Care for, nurse",照顾、护理,chăm sóc
+1202,解剖,かいぼう,Dissect,解剖,"giải phẫu, khám nghiệm tử thi"
+1203,カウンセリング,,Counseling,咨询、咨询指导,tư vấn
+1204,かかと,,Heel,脚后跟,gót chân
+1205,カルテ,,Medical record,病历卡,bệnh án
+1206,看護,かんご,Nurse,护理、看护,chăm sóc
+1207,器官,きかん,Organ,器官,cơ quan (trong cơ thể)
+1208,空腹,くうふく,Hunger,空腹、肚子饿,cảm giác đói
+1209,後遺症,こういしょう,"Sequela, after-effect",后遗症,di chứng
+1210,告知,こくち,"Inform, give notice",告知,thông báo
+1211,再発,さいはつ,"Recur, have a relapse",复发,tái phát
+1212,産後,さんご,"Postpartum, after childbirth",产后,hậu sản
+1213,視覚,しかく,Sense of sight,视觉,thị giác
+1214,人体,じんたい,Human body,人体,cơ thể người
+1215,診療,しんりょう,"Treat, give medical care",诊疗、看诊,khám chữa bệnh
+1216,筋,すじ,"Muscle / Plot, thread",肌肉、筋；脉络，情节,"gân / mạch truyện, cốt truyện"
+1217,生死,せいし,Life and / or death,生死,sống chết
+1218,体格,たいかく,Physique,体格,vóc dáng
+1219,体質,たいしつ,Constitution,体质,thể trạng
+1220,ダウン,,Decline / Be down,下降；病倒、患病,giảm / ngã bệnh
+1221,窒息,ちっそく,Suffocate,窒息,nghẹt thở
+1222,中毒,ちゅうどく,Poisoning,中毒,ngộ độc
+1223,聴覚,ちょうかく,Sense of hearing,听觉,thính giác
+1224,つば,,Spittle,口水、唾沫,nước bọt
+1225,手遅れ,ておくれ,Too late,为时已晚,"sự muộn màng (không kịp chữa trị, xử lý)"
+1226,手のひら,てのひら,Palm,手掌,lòng bàn tay
+1227,胴,どう,Torso,胴体、躯干,thân mình
+1228,内臓,ないぞう,Internal organs,内脏,nội tạng
+1229,肉体,にくたい,Body,肉体,thể xác
+1230,発育,はついく,"Develop, grow",发育,tăng trưởng
+1231,発病,はつびょう,"Fall ill, show symptoms",发病、生病,phát bệnh
+1232,瞳,ひとみ,(Eye) pupil,瞳、瞳孔,con ngươi
+1233,負傷,ふしょう,Be injured,负伤、受伤,bị thương
+1234,発作,ほっさ,"Seizure, attack",发作,sự lên cơn đột ngột
+1235,膜,まく,"Membrane, film",膜,lớp màng
+1236,麻酔,ますい,Anesthetize,麻醉,sự gây tê
+1237,まばたき,,Blink,眨眼,chớp mắt
+1238,まひ,,"Be numbed, paralyzed",失去知觉、麻痹；瘫痪,bị liệt / bị tê liệt
+1239,慢性,まんせい,Chronic,慢性,mãn tính
+1240,味覚,みかく,Sense of taste,味觉,vị giác
+1241,免疫,めんえき,Immunity,免疫,miễn dịch
+1242,病,やまい,"Disease, illness",病、疾病,bệnh
+1243,リハビリ,,Have rehabilitation,康复,phục hồi chức năng
+1244,リフレッシュ,,Refresh,放松、恢复精神,"làm tươi mới, sảng khoái"
+1245,療養,りょうよう,Recuperate,疗养,điều trị và nghỉ dưỡng
+1246,頂,いただき,"Peak, summit",顶、顶端,đỉnh
+1247,稲光,いなびかり,Lightning flash,闪电,sét
+1248,稲,いね,Rice,稻子,lúa
+1249,雨季,うき,Rainy season,雨季,mùa mưa
+1250,渦,うず,Whirlpool,漩涡,"xoáy nước, vòng xoáy"
+1251,雨天,うてん,Rainy weather,雨天,trời mưa
+1252,衛星,えいせい,Satellite,卫星,vệ tinh
+1253,液,えき,Liquid,液体,"chất dịch, chất lỏng"
+1254,獲物,えもの,Prey,猎物,con mồi
+1255,尾,お,Tail,尾巴,cái đuôi
+1256,雄,おす,Male,雄性,giống đực
+1257,貝殻,かいがら,Shell,贝壳,vỏ sò ốc
+1258,海峡,かいきょう,Strait,海峡,eo biển
+1259,海抜,かいばつ,(Above) sea level,海拔,độ cao của đất liền tính từ mặt nước biển
+1260,海洋,かいよう,"Ocean, sea",海洋,đại dương
+1261,回路,かいろ,Circuit,回路、线路,mạch điện
+1262,崖,がけ,"Cliff, precipice",崖、悬崖,vách đá
+1263,化合,かごう,Compound with,化合、反应,kết hợp (về hóa học)
+1264,化石,かせき,Fossil,化石,hóa thạch
+1265,河川,かせん,River,河川、河流,sông ngòi
+1266,花粉,かふん,Pollen,花粉,phấn hoa
+1267,岩石,がんせき,Rock,岩石,đá
+1268,干ばつ,かんばつ,Drought,干旱、旱灾,hạn hán
+1269,気象,きしょう,Weather,气象,khí tượng
+1270,軌道,きどう,Orbit,轨道,quỹ đạo
+1271,起伏,きふく,"Undulations, ups and down",起伏,sự gồ ghề
+1272,菌,きん,"Fungus, bacteria",菌,vi khuẩn
+1273,屈折,くっせつ,Refract,折射,khúc xạ
+1274,結晶,けっしょう,Crystallize,结晶,kết tinh
+1275,獣,けもの,Beast,野兽,dã thú
+1276,元素,げんそ,Element,元素,nguyên tố
+1277,合成,ごうせい,"Synthesize, compose",合成,tổng hợp
+1278,鉱物,こうぶつ,Mineral,矿物,khoáng sản
+1279,細菌,さいきん,Bacteria,细菌,vi khuẩn
+1280,細胞,さいぼう,Cell,细胞,tế bào
+1281,酸,さん,Acid,酸,axit
+1282,山岳,さんがく,Mountain,山岳、险峻的山,núi non
+1283,山頂,さんちょう,Summit,山顶,đỉnh núi
+1284,飼育,しいく,"Keep, rear",饲养,nuôi (súc vật)
+1285,潮,しお,Tide,潮水、潮汐,thủy triều
+1286,磁気,じき,Magnetism,磁力、磁性,từ tính
+1287,滴,しずく,Drop,滴、水滴,giọt
+1288,斜面,しゃめん,Slope,斜面,con dốc
+1289,種,しゅ,Species,种、物种,loài
+1290,樹木,じゅもく,Tree,树木,cây cối
+1291,水滴,すいてき,Drop of water,水滴,giọt nước
+1292,制御,せいぎょ,"Control, regulate",控制、调节,kiểm soát
+1293,生息,せいそく,"Live in, inhabit",生活、生息,cư trú
+1294,生理,せいり,Physiology,生理（现象）,sinh lý
+1295,絶滅,ぜつめつ,Go extinct,灭绝,tuyệt chủng
+1296,地質,ちしつ,Geology,地质,địa chất
+1297,角,つの,Horn,角,sừng
+1298,つぼみ,,Bud,花苞、花蕾,nụ
+1299,露,つゆ,Dew,露水,sương
+1300,テクノロジー,,Technology,科学技术,công nghệ
+1301,天体,てんたい,Heavenly body,天体,thiên thể
+1302,峠,とうげ,"Mountain pass / Peak, critical point",山口、岭；关键、难关,đỉnh đèo / phần gay go nhất
+1303,冬眠,とうみん,Hibernate,冬眠,ngủ đông
+1304,動力,どうりょく,"Motive power, driving force",动力,lực chạy (dùng cho máy móc)
+1305,土壌,どじょう,Soil,土壤,đất
+1306,土手,どて,Embankment,堤、堤坝,"bờ kè, bờ đê"
+1307,内陸,ないりく,Inland,内陆,bên trong lục địa
+1308,雪崩,なだれ,Avalanche,雪崩,tuyết lở
+1309,鉛,なまり,Lead,铅,chì
+1310,西日,にしび,Westering sun,夕阳、西晒阳光,nắng chiều
+1311,燃焼,ねんしょう,Burn,燃烧,cháy
+1312,年輪,ねんりん,Tree ring,年轮,vòng tuổi (của cây)
+1313,バイオ（バイオテクノロジー）,,"Bio-, biotechnology",生命工程、生物技术,công nghệ sinh học
+1314,浜辺,はまべ,Beach,海滨,bãi biển
+1315,原っぱ,はらっぱ,Patch of grassland,（杂草丛生的）空地,cánh đồng
+1316,反射,はんしゃ,Reflect,反射,"phản xạ, phản chiếu"
+1317,繁殖,はんしょく,"Breed, proliferate",繁殖,"sinh sôi, nảy nở"
+1318,反動,はんどう,Reaction,反作用；反动,sự nảy lại / tác dụng ngược
+1319,日陰,ひかげ,Shade,阴凉处、背阴处,bóng râm
+1320,比重,ひじゅう,Specific gravity / Weighting,比重；分量,trọng lượng riêng / độ quan trọng
+1321,微生物,びせいぶつ,Microorganism,微生物,vi sinh vật
+1322,ひなた,,Sunny spot,向阳处,chỗ nắng
+1323,品種,ひんしゅ,"Breed, strain",品种、种类,chủng loại
+1324,風土,ふうど,Culture,水土、风土,phong thổ
+1325,麓,ふもと,Foothill,山麓、山脚,chân núi
+1326,噴出,ふんしゅつ,"Spout, gush",喷出、喷射,"phun ra, bốc lên"
+1327,膨張,ぼうちょう,Expand,膨胀,"nở ra, phồng lên"
+1328,ほとり,,"Shore, bank",畔、边,"bờ (sông, hồ)"
+1329,盆地,ぼんち,Basin,盆地,"lòng chảo, bồn địa"
+1330,岬,みさき,"Cape, promontory",海角、岬,mũi đất
+1331,水け,みずけ,"Moisture, wet",水分,"độ ẩm, nước"
+1332,雌,めす,Female,雌性,giống cái
+1333,野生,やせい,Wild,野生,hoang dã
+1334,溶液,ようえき,Solution,溶液,dung dịch
+1335,溶岩,ようがん,Lava,熔岩、岩浆,dung nham
+1336,流域,りゅういき,(River) basin,流域,lưu vực
+1337,惑星,わくせい,Planet,行星,hành tinh
+1338,アレンジ,,Arrange,改编,"phối âm, chuyển thể"
+1339,アンコール,,Encore,（要求）重演、再来一次,biểu diễn thêm lần nữa
+1340,遺跡,いせき,"Remains, ruins",遗迹、遗址,tàn tích
+1341,映像,えいぞう,"Picture, image",画面,hình ảnh (động)
+1342,英雄,えいゆう,Hero,英雄,anh hùng
+1343,エッセー／エッセイ,,Essay,随笔,tiểu luận
+1344,演出,えんしゅつ,"Produce, direct",导演,đạo diễn
+1345,オペラ,,Opera,歌剧,opera
+1346,観衆,かんしゅう,Audience,观众,khán giả
+1347,喜劇,きげき,Comedy,喜剧,hài kịch
+1348,逆転,ぎゃくてん,Come from behind,逆转,đảo ngược
+1349,宮殿,きゅうでん,Palace,宫殿,cung điện
+1350,芸能,げいのう,"Entertainment, performing art",表演艺术,nghệ thuật biểu diễn
+1351,傑作,けっさく,Masterpiece,杰作,kiệt tác
+1352,原作,げんさく,Original work,原著,nguyên tác
+1353,工芸,こうげい,Crafts,工艺,thủ công
+1354,古典,こてん,"Ancient work, classic",古典,cổ điển
+1355,細工,さいく,Finely work,（做）手工艺、工艺,chế tác
+1356,作,さく,"Work, fruit",作品、作,tác phẩm
+1357,サポーター,,Supporter,支持者、后援者,cổ động viên
+1358,参拝,さんぱい,Go to worship,参拜,"viếng (đền Thần đạo, chùa)"
+1359,色彩,しきさい,Color,色彩、色,màu sắc
+1360,シナリオ,,Scenario,脚本、剧本,kịch bản
+1361,ジャンル,,Genre,类型、种类,thể loại
+1362,主演,しゅえん,Take the lead role,主演,đóng vai chính
+1363,出品,しゅっぴん,"Exhibit, show",展出、展销,"gửi bài, gửi tác phẩm"
+1364,守備,しゅび,Defense,守卫,sự phòng thủ
+1365,上演,じょうえん,"Stage, perform",公演、上演,diễn trên sân khấu
+1366,神殿,しんでん,"Temple, shrine",神殿,đền thờ
+1367,僧,そう,Monk,僧侣,nhà sư
+1368,魂,たましい,Soul,灵魂,linh hồn
+1369,彫刻,ちょうこく,"Sculpture, carving",雕刻,tượng điêu khắc
+1370,庭園,ていえん,Garden,庭院,khu vườn
+1371,伝記,でんき,Biography,传记,tiểu sử
+1372,伝説,でんせつ,Legend,传说,truyền thuyết
+1373,童話,どうわ,Children’s stories,童话,truyện đồng thoại
+1374,ドキュメンタリー,,Documentary,纪实、纪录,phim tài liệu
+1375,音色,ねいろ,"Timbre, tone",音色,âm sắc
+1376,ノンフィクション,,Non-fiction,非虚构作品,chuyện thật
+1377,美,び,Beauty,美,cái đẹp
+1378,描写,びょうしゃ,Describe,描写,miêu tả
+1379,フィクション,,Fiction,虚构（作品）,chuyện hư cấu
+1380,風習,ふうしゅう,Custom,风俗,phong tục
+1381,風俗,ふうぞく,Manners and customs,风俗、风情习俗,nếp sống
+1382,仏像,ぶつぞう,Buddhist statue,佛像,tượng Phật
+1383,文化財,ぶんかざい,Cultural asset,文化财产、文化遗产,di sản văn hóa
+1384,みこし,,Portable shrine,神轿,kiệu
+1385,民俗,みんぞく,Folkways,民俗,phong tục dân gian
+1386,役者,やくしゃ,Actor,演员,nghệ sĩ kịch
+1387,横綱,よこづな,Yokozuna (grand sumo champion),横纲（相扑力士的最高等级）,Yokozuna (cấp bậc cao nhất trong môn sumo)
+1388,合間,あいま,Interval,间歇、间隙,khoảng thời gian ngắn giữa hai sự việc
+1389,明け方,あけがた,"Dawn, break of day",天亮、拂晓,rạng đông
+1390,値,あたい,Value,数值、值,trị số
+1391,一昨年,いっさくねん,The year before  last,前年,năm kia
+1392,一帯,いったい,"Area, tract",一带、附近的整个地区,"cả vùng, cả khu vực"
+1393,奥行き,おくゆき,Depth,进深、纵深,chiều sâu
+1394,折,おり,"Occasion, time (when)",时候、当儿,"dịp, lúc"
+1395,角,かく,Square,方块,khối vuông
+1396,傍ら,かたわら,Beside,旁边,bên cạnh
+1397,かなた,,Far off,远处,"phía xa, bên kia"
+1398,間隔,かんかく,Interval,间隔,cách quãng
+1399,換算,かんさん,Convert,换算,chuyển đổi
+1400,元年,がんねん,First year (in traditional year numbering system),元年,năm đầu tiên (của một thời đại)
+1401,近郊,きんこう,Suburbs,市郊、郊区,"vùng phụ cận, ngoại ô"
+1402,均衡,きんこう,"Balance, equilibrium",均衡、平衡,sự cân bằng
+1403,近年,きんねん,Recent years,近年,những năm gần đây
+1404,空間,くうかん,Space,空间,không gian
+1405,傾斜,けいしゃ,"Slope, incline",倾斜、倾斜度,nghiêng
+1406,系列,けいれつ,Corporate group,系列、体系,nhóm các doanh nghiệp liên kết
+1407,後方,こうほう,Back,后方、后面,phía sau
+1408,誤差,ごさ,Error,误差,phạm vi sai số
+1409,古代,こだい,Ancient times,古代,cổ đại
+1410,最小限,さいしょうげん,Minimum,最低限度,mức tối thiểu
+1411,さきおととい,,Three days previously,大前天,3 ngày trước
+1412,さなか,,In the midst of,正当中、最盛期,ngay giữa
+1413,しあさって,,In three days,大后天,ngày kia (3 ngày sau tính từ hiện tại)
+1414,事前,じぜん,"Advance, preliminary",事前,trước (việc được đề cập)
+1415,時点,じてん,Point in time,时候、时刻,thời điểm
+1416,周期,しゅうき,"Cycle, period",周期,chu kỳ
+1417,上位,じょうい,The top-ranking (in a list),上位、更高位,thứ hạng cao
+1418,上空,じょうくう,"Sky, skies above, mid-air",上空,khoảng không phía trên
+1419,数値,すうち,"Numerical value, reading",数值,chỉ số
+1420,隙,すき,"Gap, chance, unguarded moment",空隙、疏忽,"sơ hở, sự lơ là, thời cơ"
+1421,セクション,,Section,部门、科,bộ phận (của tổ chức)
+1422,前年,ぜんねん,"Previous year, last year",前一年,năm trước
+1423,早朝,そうちょう,Early morning,清晨、清早,sáng sớm
+1424,側面,そくめん,Side,侧面,mặt bên
+1425,そろい,,Matching,同一款式,đồng bộ
+1426,対称,たいしょう,symmetry,对称,đối xứng
+1427,他方,たほう,On the other hand,另一方面、别的方面,mặt khác
+1428,頂点,ちょうてん,"Summit, peak",顶尖、顶端；顶点、极限,đỉnh
+1429,重複,ちょうふく／じゅうふく,Be duplicated,重复,trùng lặp
+1430,対,つい,Pair,成对,một cặp
+1431,つかの間,つかのま,For a short while,转瞬间、短暂,một khoảnh khắc / sự ngắn ngủi
+1432,てっぺん,,Top,顶,"đỉnh, điểm cao nhất"
+1433,度合い,どあい,"Degree, rate",程度,mức độ
+1434,等級,とうきゅう,Grade,等级,"cấp bậc, thứ hạng"
+1435,当初,とうしょ,"Initially, at the beginning",当初、最初,ban đầu
+1436,トータル,,Total,总计、合计,tổng cộng
+1437,並,なみ,"Average, ordinary",普通、平常,"trung bình, bình thường"
+1438,延べ,のべ,Total,总计,tổng cộng
+1439,背後,はいご,Behind,背后,sau lưng
+1440,倍率,ばいりつ,Magnification,倍率,độ phóng đại
+1441,果て,はて,End,终了、尽头,"sự chấm dứt, sự kết thúc"
+1442,バロメーター,,Barometer,标准、指针,"phong vũ biểu, thước đo"
+1443,びり,,"Worst, last",倒数第一、最后一名,"cuối, chót"
+1444,比率,ひりつ,Ratio,比率、比例,tỉ lệ
+1445,平年,へいねん,Normal year,常年、普通的年份,thường niên
+1446,ペース,,Pace,速度,nhịp độ
+1447,冒頭,ぼうとう,Beginning,开头、起首,phần mở đầu
+1448,ほうぼう,,"Here and there, everywhere",到处,"khắp nơi, mọi hướng"
+1449,間際,まぎわ,"Just before, at short notice",正要……的时候,ngay trước lúc
+1450,末期,まっき,"Late stage, final years",末期,giai đoạn cuối
+1451,末端,まったん,"End, extremity",末端,đầu mút
+1452,密度,みつど,Density,密度,mật độ
+1453,未明,みめい,Just before dawn,黎明、凌晨,tờ mờ sáng
+1454,目盛り,めもり,Scale,刻度、度数,vạch chia
+1455,目前,もくぜん,At hand,（近在）眼前,gần xảy ra
+1456,目下,もっか,At the moment,眼下,"ngay lúc này, hiện tại"
+1457,夕暮れ,ゆうぐれ,Dusk,傍晚、日暮,hoàng hôn
+1458,夜更け,よふけ,Late at night,深夜,đêm khuya
+1459,領域,りょういき,Field,领域,"lĩnh vực, địa hạt"
+1460,連日,れんじつ,"Spell, string of days",连日,liên tiếp nhiều ngày
+1461,枠,わく,"Frame, framework",框、框子；范围,khung / giới hạn
+1462,相次ぐ,あいつぐ,Follow in succession,相继、接连不断,nối tiếp nhau
+1463,仰ぐ,あおぐ,Look up,仰望、抬头看,ngước nhìn
+1464,明かす,あかす,Reveal / Pass,泄露；通宵达旦,tiết lộ / qua đêm
+1465,欺く,あざむく,Deceive,欺骗、蒙骗,đánh lừa
+1466,あせる,,Fade,褪色,phai nhạt
+1467,値する,あたいする,"Deserve, be worth",值得、有价值,xứng đáng
+1468,操る,あやつる,"Manipulate, control",掌握、熟练运用；操纵,sử dụng thành thạo / thao túng
+1469,誤る,あやまる,Make a mistake,弄错、误,mắc sai lầm
+1470,歩む,あゆむ,Walk,走过、经历,sống cuộc đời
+1471,荒らす,あらす,Devastate,糟蹋、破坏,phá hoại
+1472,改まる,あらたまる,Change,变好；客气、正式,được sửa đổi / có thái độ trang trọng
+1473,ありふれる,,Be commonplace,常有、到处都有,"phổ biến, đâu cũng có"
+1474,言い付ける,いいつける,"Tell, order",吩咐、命令；告状、告发,chỉ thị / kể tội
+1475,意気込む,いきごむ,Be enthusiastic,意气风发、干劲十足,"nhiệt tình, quyết tâm"
+1476,いじる,,Mess (around) with,摆弄、动,sờ mó
+1477,傷める,いためる,Damage,弄伤、损坏,làm hư hỏng
+1478,営む,いとなむ,"Organize, run, lead (a life)",营（生）；经营,sống / điều hành
+1479,挑む,いどむ,Take on a challenge,挑战,thách thức
+1480,癒す,いやす,"Heal, comfort",治愈,"chữa lành, xoa dịu"
+1481,いらだつ,,Get irritated,急躁、焦躁,sốt ruột
+1482,受け継ぐ,うけつぐ,"Inherit, carry on",继承、承受,kế thừa
+1483,受け止める,うけとめる,Accept,接受、理解,tiếp thu
+1484,薄れる,うすれる,Fade,变弱、变淡薄,nhạt dần
+1485,打ち明ける,うちあける,Confide,坦白,kể ra
+1486,打ち上げる,うちあげる,Launch,发射,phóng lên
+1487,打ち切る,うちきる,Discontinue,中止、停止,ngưng
+1488,打ち込む,うちこむ,"Drive in, apply yourself",砸进、打进；埋头、全神贯注,"đánh vào, đóng vào / tập trung"
+1489,促す,うながす,"Prompt, urge",催促,thúc giục
+1490,うなる,,Growl,吼、嗥,gầm gừ
+1491,うぬぼれる,,Be conceited,自负、自我陶醉,tự phụ
+1492,埋まる,うまる,Be buried,埋着、掩埋,"bị chôn, bị lấp"
+1493,敬う,うやまう,"Honor, respect",尊敬、尊重,tôn kính
+1494,潤う,うるおう,"Moisten, enrich",湿润、滋润；富裕,"được làm ẩm, ướt / được lợi"
+1495,うろつく,,"Wander, loiter",徘徊、彷徨,"đi loanh quanh, thơ thẩn, lảng vảng"
+1496,うんざりする,,Be sick of,彻底厌倦、厌烦,ngán
+1497,演じる/演ずる,えんじる/えんずる,"Play, take the role of",演、饰演,đóng vai
+1498,追い込む,おいこむ,Drive (into),赶进、撵入,dồn đuổi
+1499,老いる,おいる,"Age, grow old",衰老、上年纪,già đi
+1500,負う,おう,"Carry (on your back), shoulder",背、负；承担（义务、责任等）、担负,mang vác / gánh vác
+1501,犯す,おかす,Commit (a crime),犯,phạm (tội)
+1502,侵す,おかす,"Invade, encroach",侵入、侵犯；侵害、侵权,xâm phạm
+1503,遅らせる/遅らす,おくらせる/おくらす,"Delay, put off",延迟、推迟,"dời lại, làm trễ đi"
+1504,怠る,おこたる,Neglect,疏忽,trễ nải
+1505,抑える,おさえる,Suppress,压制、压住,đè nén
+1506,押し切る,おしきる,"Overcome, break down barrier",不顾、坚持到底,"vượt qua, bất chấp"
+1507,押し込む,おしこむ,Cram into,塞进、硬塞,"dồn, nhét vào"
+1508,押し付ける,おしつける,"Press on, foist",强加、硬推,ép làm
+1509,惜しむ,おしむ,Regret,可惜、惋惜,tiếc nuối
+1510,押し寄せる,おしよせる,Surge,蜂拥而至,"kéo đến, dồn đến"
+1511,襲う,おそう,Attack,袭击,tấn công
+1512,陥る,おちいる,"Fall, sink",陷入,rơi vào
+1513,落ち込む,おちこむ,"Fall, slump",下降；低落、消沉,giảm sút / buồn chán
+1514,脅す,おどす,Threaten,恐吓、威胁,đe dọa (làm đối phương sợ)
+1515,衰える,おとろえる,Wane,衰退,"yếu đi, giảm đi"
+1516,おびえる,,Be frightened,害怕、恐惧,sợ hãi
+1517,脅かす,おびやかす,"Threaten, jeopardize",威胁,đe dọa (gây ra tình trạng nguy hiểm)
+1518,帯びる,おびる,"Take on, assume",含有、带有,có tính chất
+1519,思い当たる,おもいあたる,Call to mind,想到、想出,đoán ra
+1520,重んじる/重んずる,おもんじる/おもんずる,"Respect, value",注重、重视,xem trọng
+1521,及ぶ,およぶ,"Affect, reach",波及,đến phạm vi
+1522,折り返す,おりかえす,"Turn back, double back",折回、折返,quay đầu
+1523,織る,おる,Weave,织,dệt
+1524,害する,がいする,Harm,危害,gây hại
+1525,省みる,かえりみる,Reflect on,反省、反思,nghĩ lại
+1526,掲げる,かかげる,Raise / Set (goal),悬挂、高举；提出,giương lên / trưng ra
+1527,関わる,かかわる,"Be involved with, touch on",有关系,liên quan đến
+1528,かき回す,かきまわす,Stir,搅拌,khuấy
+1529,欠く,かく,Lack,欠缺,thiếu sót
+1530,賭ける,かける,Bet,赌,đặt cược
+1531,駆ける,かける,Run,跑、奔跑,"chạy nhanh, chạy vụt"
+1532,かさばる,,Be bulky,体积大,cồng kềnh
+1533,かすむ,,"Be faint, be hazy",朦胧,mờ ảo
+1534,稼ぐ,かせぐ,Earn,挣（钱）,kiếm (tiền)
+1535,かばう,,"Cover, protect",庇护、维护,"bênh vực, che chở"
+1536,かぶれる,,Come out in a rash,皮肤红肿,nổi mẩn đỏ
+1537,からかう,,Tease,开玩笑、戏弄,chọc ghẹo
+1538,絡む,からむ,"Involve, entwine",缠住、缠上；密切相关、牵涉,bị rối / liên quan mật thiết
+1539,刈る,かる,Mow,割,"cắt, tỉa"
+1540,交わす,かわす,Exchange,互相交换,trao đổi
+1541,築く,きずく,Build,修筑、修建；建立,xây dựng
+1542,傷つく,きずつく,Get hurt,受伤、负伤；（精神上）受创伤,bị tổn thương
+1543,競う,きそう,Compete,竞赛、比赛,cạnh tranh
+1544,鍛える,きたえる,"Train, hone",锻炼,rèn luyện
+1545,気遣う,きづかう,Worry about,担心、挂念,lo lắng
+1546,興じる/興ずる,きょうじる/きょうずる,Amuse yourself,感兴趣、玩在兴头上,"thích thú, hứng thú"
+1547,ぎょっとする,,Be startled,大吃一惊、吓一跳,kinh sợ
+1548,切り替える,きりかえる,Switch over,换、切换,"thay đổi, chuyển đổi, thay thế"
+1549,食い違う,くいちがう,Disagree,有分歧、不一致,mâu thuẫn
+1550,悔いる,くいる,Regret,懊悔、后悔,hối hận
+1551,くぐる,,"Go through, go under",穿过、钻过,chui qua
+1552,下す,くだす,"Issue, hand down",下达、决断,"hạ xuống, đưa ra"
+1553,口ずさむ,くちずさむ,"Sing to oneself, hum",随口、哼唱,ngân nga
+1554,覆す,くつがえす,Overturn,推翻、彻底改变,lật ngược
+1555,くつろぐ,,Feel relaxed,放松,thư giãn
+1556,くむ,,Scoop,舀、汲,múc lên
+1557,悔やむ,くやむ,Regret,后悔,hối tiếc
+1558,企てる,くわだてる,Plan,图谋、企图,"âm mưu, có ý định"
+1559,汚す,けがす,"Sully, pollute",玷污、损害,làm ô danh
+1560,蹴飛ばす,けとばす,Kick,踢飞、踢,đá tung
+1561,心掛ける,こころがける,Take care to,留心、注意,"lưu tâm, lưu ý, nỗ lực"
+1562,志す,こころざす,Aim to,志愿、立志,quyết chí
+1563,試みる,こころみる,Try,尝试,"thử, thí điểm"
+1564,こじれる,,Get complicated,不顺利、事态恶化,"gặp trục trặc, trở nên rắc rối"
+1565,応える,こたえる,Respond,响应、反应,đáp ứng
+1566,こだわる,,Be particular,拘泥、介意；追求、讲究,lo lắng quá mức / chú trọng
+1567,こなす,,Handle,做好、处理好,làm tốt
+1568,拒む,こばむ,Refuse,拒绝,từ chối
+1569,ごまかす,,Misrepresent,隐瞒、糊弄,lừa dối
+1570,凝らす,こらす,"Be inventive, elaborate",凝、讲究,tập trung vào
+1571,凝る,こる,Stiffen / Devote yourself,肌肉僵硬；入迷、热衷,bị cứng lại / say mê
+1572,遮る,さえぎる,"Interrupt, block",遮挡、遮蔽；干扰、打断,che chắn / cắt ngang
+1573,さえる,,Be clear / Be wakeful,（头脑）清晰、敏锐；精神兴奋,nhanh nhạy / tỉnh táo
+1574,さかのぼる,,Go upstream / Go back to,逆流而上；追溯、回溯,đi ngược dòng
+1575,裂ける,さける,Tear,裂开,rách
+1576,ささげる,,"Dedicate, offer",献上、敬奉；献出、奉献,dâng (lên thần linh) / cống hiến
+1577,差し支える,さしつかえる,"Hinder, hamper",妨碍、影响,gây cản trở
+1578,差し引く,さしひく,"Subtract, deduct",扣除、减去,trừ ra
+1579,授ける,さずける,Give,授予、赐予,"tặng thưởng, ban thưởng"
+1580,さする,,Rub,轻抚、摩挲,chà
+1581,定める,さだめる,"Determine, set",规定、订立,đặt ra
+1582,察する,さっする,Sympathize,体谅、体察,đoán biết
+1583,悟る,さとる,"Realize, grasp",领悟；觉察,giác ngộ / nhận thức
+1584,裁く,さばく,Judge,审判、裁判,xét xử
+1585,妨げる,さまたげる,Obstruct,妨碍、阻碍,cản trở
+1586,障る,さわる,"Hamper, hinder",妨碍、危害,gây hại
+1587,強いる,しいる,Force,强制、迫使,ép buộc
+1588,仕入れる,しいれる,"Stock up, buy in",进货、采购,"thu mua, nhập hàng"
+1589,慕う,したう,"Admire, dote on",景仰、敬慕,quấn quýt
+1590,親しむ,したしむ,Be fond of,喜欢、爱好,yêu thích
+1591,しなびる,,Shrivel,枯萎、蔫,"teo lại, héo úa"
+1592,しぼむ,,Wither / Deflate,枯萎、凋谢；瘪、松弛软缩,úa tàn / bị xẹp
+1593,染みる,しみる,Stain / Sting,渗、浸；刺痛,"thấm ướt / buốt, xót"
+1594,熟す,じゅくす,"Ripen, mature",熟透、成熟,(trái cây) chín
+1595,準じる/準ずる,じゅんじる/じゅんずる,Conform to,按照、依照,theo chuẩn
+1596,称する,しょうする,Call,称、称呼,"gọi là, tự xưng là"
+1597,退く,しりぞく,Retreat / Retire,倒退、退；退位、辞职,lùi lại / từ chức
+1598,退ける,しりぞける,Reject,拒绝、排斥,bác bỏ
+1599,記す,しるす,Write down,写下来、写,ghi chép
+1600,据え付ける,すえつける,Install,安装,"gắn vào, lắp đặt"
+1601,すすぐ/ゆすぐ,,Rinse,冲洗、漂洗,"xả sạch, rửa sạch"
+1602,廃れる,すたれる,"Go out of use, go out of fashion",不再流行、不受欢迎,"lỗi thời, suy yếu"
+1603,擦る,する,Rub,擦、划,đánh (diêm)
+1604,擦れる,すれる,Wear down,磨、摩擦,"trầy xước, mòn vì cọ xát"
+1605,制する,せいする,"Control, keep in check",压制、控制,chặn đứng
+1606,せかす,,"Rush, hurry somebody",催、催促,thúc giục
+1607,損なう,そこなう,Damage,损害、损伤,gây tổn hại
+1608,備わる,そなわる,Be equipped with,设有、备有,được trang bị
+1609,そびえる,,"Rise, soar",耸立、矗立,vươn cao
+1610,背く,そむく,Disobey,违背,làm ngược lại
+1611,反る,そる,"Curve, warp",弯曲、翘曲,cong lại
+1612,それる,,"Veer, swerve",偏离,chệch hướng
+1613,題する,だいする,Title,题为、名为,có tựa đề
+1614,絶える,たえる,"Tail off, come to an end",断绝,"ngưng, kết thúc"
+1615,耐える,たえる,"Endure, undergo",忍耐、忍受,chịu đựng
+1616,高まる,たかまる,"Increase, grow",高涨、增高,"trở nên cao hơn, được nâng cao"
+1617,耕す,たがやす,Plow,耕作,"cày xới, canh tác"
+1618,託する/託す,たくする/たくす,"Commit, entrust",托付、拜托,ủy thác
+1619,携える,たずさえる,"Carry, bear",携带,cầm đi theo
+1620,携わる,たずさわる,Engage in,参与、从事,tham gia vào
+1621,漂う,ただよう,"Drift, float",漂浮、飘荡,trôi nổi
+1622,立ち去る,たちさる,Leave,离开、起身离去,rời đi
+1623,立ち向かう,たちむかう,"Confront, face",抗击、抵抗,chống lại
+1624,立ち寄る,たちよる,Stop by,顺便到、顺路去,"ghé qua, ghé vào"
+1625,断つ,たつ,Cut off,截断、切断,cắt đứt (vật)
+1626,絶つ,たつ,"Cut off, give up",断送、断绝,kết thúc
+1627,脱する,だっする,Get out of,脱离,thoát khỏi
+1628,尊 （貴）ぶ,たっとぶ/とうとぶ,"Respect, value",尊重、珍视,"tôn trọng, quý trọng"
+1629,たどり着く,たどりつく,Finally arrive,好不容易走到,"đến được, có được"
+1630,束ねる,たばねる,Bundle,捆、扎,"buộc, bó lại"
+1631,ためらう,,Hesitate,犹豫、踌躇,"do dự, lưỡng lự"
+1632,たるむ,,"Slacken, sag",松弛；松懈,"bị giãn, bị xệ / lơi lỏng"
+1633,垂れる,たれる,"Drip, dangle",下垂,thòng xuống
+1634,縮まる,ちぢまる,Shrink,缩小,"co lại, thu lại"
+1635,ちらつく,,"Flicker, flutter",闪烁恍惚、忽明忽暗；纷飞、飘舞,"nhấp nháy, chập chờn / lất phất"
+1636,散らばる,ちらばる,Scatter,散乱、凌乱,"vương vãi, tứ tán"
+1637,費やす,ついやす,"Spend, take",消耗、花费,tiêu tốn
+1638,使い分ける,つかいわける,Have separate uses for,区别使用,phân biệt để dùng đúng
+1639,尽きる,つきる,Run out,用尽、耗尽,cạn đi do sử dụng
+1640,継ぐ,つぐ,Succeed to,继承,kế thừa
+1641,償う,つぐなう,Compensate,赔偿、补偿,bồi thường
+1642,告げる,つげる,Tell,告诉,thông báo
+1643,つつく,,"Peck, pick at",啄、戳,"mổ vào (bằng mỏ), gõ vào (bằng đầu ngón tay)"
+1644,慎む,つつしむ,Be discreet about,谨慎、注意,cẩn trọng
+1645,つねる,,Pinch,掐、捏,nhéo
+1646,募る,つのる,"Recruit, gather / Intensify",招募、募集；越来越严重、强烈,"tuyển người, gây quỹ / trở nên nặng hơn"
+1647,つぶやく,,Mutter,嘟囔、嘀咕,lẩm bẩm
+1648,つまむ,,"Pick at, taste",捏、搛（用手或筷子取食）,nhúm lấy một ít
+1649,摘む,つむ,Pick,摘、采,"hái, bứt"
+1650,貫く,つらぬく,"Pierce / Be consistent, stick to",贯穿、穿过；贯彻、坚持到底,xuyên qua / làm xong từ đầu chí cuối
+1651,連ねる,つらねる,Align,排成行、排列,xếp thành hàng
+1652,徹する,てっする,"Devote yourself to, do (something) thoroughly",贯彻、彻底做到,toàn tâm
+1653,照れる,てれる,Be shy,害羞,"xấu hổ, ngượng ngùng"
+1654,転じる/転ずる,てんじる/てんずる,"Turn, change",转、转变,chuyển
+1655,問う,とう,"Ask, question",问、询问；当作问题、考查,hỏi / truy cứu
+1656,遠ざかる,とおざかる,Move away,远去、远离,"rời xa, xa lánh"
+1657,途切れる,とぎれる,"Break off, cut out",中断、间断,bị ngắt quãng
+1658,説く,とく,Explain,阐述、说明,thuyết giảng
+1659,研ぐ,とぐ,Sharpen,磨快,mài
+1660,遂げる,とげる,Achieve,取得、达到,"hoàn thành, đạt được"
+1661,とじる,,Gather together (papers),订上,đóng thành tập
+1662,途絶える,とだえる,"Cease, end",中断、断绝,ngừng lại
+1663,滞る,とどこおる,"Be delayed, leave undone / Be overdue",延迟、耽误；拖欠,đình trệ / trễ hạn trả tiền
+1664,整える,ととのえる,Make neat / Prepare,整理；准备好、调整好,chỉnh sửa / chuẩn bị
+1665,唱える,となえる,Intone / Advocate,诵念；提倡、主张,nói thành lời / cương quyết
+1666,とぼける,,Play dumb,装傻、佯装不知,giả ngơ
+1667,富む,とむ,Abound in,富有、丰富,"có rất nhiều, giàu về"
+1668,取り込む,とりこむ,Take in,收进、拿入,lấy vào trong
+1669,取り締まる,とりしまる,Crack down,取缔,"quản lý, chỉ đạo, kiểm soát"
+1670,取り調べる,とりしらべる,Investigate,详细调查、审讯,"điều tra, xét hỏi"
+1671,取り立てる,とりたてる,"Collect, wring out (a payment) / Appoint",催缴、征收；提拔、提升,thu tiền / bổ nhiệm
+1672,取り次ぐ,とりつぐ,"Act as agent for, transfer (a call)",传达、转达,"báo lại với, chuyển điện thoại cho"
+1673,取り除く,とりのぞく,Remove,去除、剔掉,"lấy ra, bỏ ra"
+1674,取り巻く,とりまく,Surround,包围、围住,bao vây
+1675,取り寄せる,とりよせる,"Order, send away for",索取、订购,kéo lại gần / đặt mua
+1676,嘆く,なげく,"Sigh, lament",哀叹、叹息,đau buồn / thương tiếc
+1677,投げ出す,なげだす,"Throw out / Throw up, abandon",丢、扔出去；放弃,ném ra / từ bỏ
+1678,和む,なごむ,Be calmed,缓和、平静,"trở nên bình lặng, dịu lại"
+1679,なす,,"Be, constitute",形成、构成,"hình thành, tạo nên, đạt được"
+1680,懐く,なつく,Be attached to,亲近,"gần gũi với, thân với"
+1681,名付ける,なづける,Name,命名、起名,đặt tên
+1682,涙ぐむ,なみだぐむ,Be moved to tears,含泪,"rưng rưng, rớm lệ"
+1683,悩ます,なやます,"Torment, plague",折磨、令人烦恼,"hành hạ, gây phiền hà, quấy rối"
+1684,倣う,ならう,"Follow, copy",模仿、仿照,"đi theo, làm theo"
+1685,握り締める,にぎりしめる,Hold tightly onto,紧握、握紧,"nắm chặt, xiết chặt"
+1686,にぎわう,,Bustle with,热闹,nhộn nhịp
+1687,担う,になう,"Bear, shoulder",肩负、担负,gánh vác
+1688,鈍る,にぶる,Lose your edge,变得迟钝、迟缓,"cùn, chậm đi, yếu đi"
+1689,抜かす,ぬかす,Leave out,漏掉,"bỏ qua, bỏ sót"
+1690,抜け出す,ぬけだす,"Bunk, run away",溜走,lẻn ra / rụng
+1691,ねだる,,Pester,强求、死乞白赖地要求,"dụ dỗ, nài nỉ"
+1692,粘る,ねばる,Be sticky / Stick at,黏；坚持不懈,dính vào / kiên trì trong thời gian dài
+1693,逃す,のがす,Miss out on,错过,bỏ lỡ
+1694,臨む,のぞむ,Face,面临、面朝；参加、出席,hướng ra / đối mặt
+1695,乗っ取る,のっとる,"Take over, seize, hijack",劫持、夺取,thâu tóm / đánh chiếm
+1696,乗り越える,のりこえる,"Get over, overcome",越过、跨过；战胜、克服,leo qua / vượt qua
+1697,はう,,Crawl,爬,bò
+1698,映える,はえる,"Shine, stand out",映照；耀眼、夺目,sáng lên / nổi bật
+1699,はかどる,,Make progress,进展顺利,tiến triển thuận lợi
+1700,図る,はかる,"Plan, aim to",计划、谋求,lên kế hoạch
+1701,諮る,はかる,Consult,咨询,"hỏi ý kiến, tham vấn"
+1702,励む,はげむ,Work hard,勤奋、卖力,"phấn đấu, toàn tâm cho"
+1703,化ける,ばける,Be transformed into,变、化,biến thành
+1704,はじく,,Pluck (string) / Flick (fingers),弹,"búng, gảy"
+1705,恥じる,はじる,Feel ashamed,羞愧,thấy xấu hổ
+1706,弾む,はずむ,Bounce,弹起、反弹,nảy lên
+1707,発する,はっする,Emit,发出、散发；发布,"xuất phát, bắt nguồn / phát đi"
+1708,ばてる,,Be exhausted,累垮、筋疲力尽,kiệt sức
+1709,跳ねる,はねる,"Bound, hop, spatter",跳、跳跃；溅、飞溅,nhảy / văng ra
+1710,はまる,,Be suited for / Be absorbed in,嵌入；陷入、沉迷,gắn vào vừa khít / ghiền
+1711,早める,はやめる,Bring forward,提前、提早,dời lên sớm hơn
+1712,ばらす,,Take apart,拆开、拆解,tháo rời
+1713,ばらまく,,"Scatter, spread around",散布、撒（钱等）,rải / vung tiền
+1714,ばれる,,Be found out,败露、暴露,"bị lộ ra, bị phát hiện"
+1715,引き上げる,ひきあげる,Raise,拉上来、打捞；提高,trục vớt / nâng lên
+1716,率いる,ひきいる,Lead,带领、率领,dẫn đi
+1717,引きこもる,ひきこもる,Hide yourself away,闷、窝,ở lì trong nhà / lui về ở
+1718,引き下げる,ひきさげる,Lower,降低,"cắt giảm, hạ thấp"
+1719,引き締める,ひきしめる,Tighten,拉紧、勒紧；紧缩、缩减,"xiết chặt / căng thẳng, thắt chặt"
+1720,引きずる,ひきずる,"Drag / Never forget, dwell on",拖、拽；无法忘记、一直处于……的阴影中,"kéo lê, lôi đi / day dứt mãi"
+1721,引き継ぐ,ひきつぐ,Take over,接替、继承,"đảm nhận, kế thừa"
+1722,引き取る,ひきとる,Retire / Take in and care for,回去；赡养、领到身边来,"lấy lại, rời khỏi / đón nhận"
+1723,びくびくする,,Tremble,战战兢兢、提心吊胆,lo sợ
+1724,潜む,ひそむ,Lurk,隐藏、躲藏,ẩn núp
+1725,浸す,ひたす,Immerse,浸、浸泡,"ngâm, làm ướt"
+1726,冷やかす,ひやかす,Tease,戏弄、取笑,trêu chọc
+1727,ひらめく,,Hit upon (an idea),闪念、闪现,(ý nghĩ) hiện ra trong đầu
+1728,膨れる,ふくれる,"Swell, bulge",鼓出、膨胀,phồng lên
+1729,老ける,ふける,Age,上年纪,già đi
+1730,更ける,ふける,Go on till late (at night),（夜）深、（夜）阑,"khuya, muộn"
+1731,ふさがる,,Be blocked,阻塞、堵塞,bị chặn
+1732,伏せる,ふせる,Lie down,趴下,"úp xuống, cúi xuống"
+1733,踏まえる,ふまえる,Base on,根据、依据,dựa trên
+1734,踏み切る,ふみきる,"Take a step, embark, jump",决意；起跳,quyết định / dậm nhảy
+1735,踏み込む,ふみこむ,Step into / Go into in depth,用力踩；深入,đạp chân xuống / đi sâu vào trọng tâm
+1736,振るう,ふるう,"Show, display",施展、发挥,"sử dụng, thể hiện (sức mạnh), phát huy đầy đủ"
+1737,振る舞う,ふるまう,"Behave, act",动作、呈现出……的举动,hành xử
+1738,触れ合う,ふれあう,Come into contact,互相接触,kết thân
+1739,隔たる,へだたる,Be distant,相隔,cách xa / cách biệt lớn
+1740,へりくだる,,Be humble,谦虚、谦逊,"khiêm tốn, khiêm nhường"
+1741,経る,へる,"Elapse, pass through",历经；经由,trải qua / đi qua
+1742,報じる/報ずる,ほうじる/ほうずる,Report,报告、报道,đưa tin
+1743,葬る,ほうむる,Bury,埋葬、安葬,chôn cất
+1744,放り込む,ほうりこむ,Throw in,丢进、扔入,ném vào
+1745,放り出す,ほうりだす,Throw out / Quit,丢出、抛出；丢开、丢下,ném ra ngoài / bỏ bê
+1746,ぼける,,"Be confused, befuddled",迟钝、恍惚,"mụ mị, lơ mơ"
+1747,誇る,ほこる,"Be proud, boast",骄傲、自豪,"tự hào, vinh dự"
+1748,施す,ほどこす,Apply / Perform,施与、施舍；施加,"ban tặng, thực hiện, đính thêm vào"
+1749,ぼやく,,Grumble,嘟囔、发牢骚,phàn nàn
+1750,ぼやける,,Blur,模糊、模糊不清,mờ đi
+1751,滅びる,ほろびる,Die out,消失、灭绝,sụp đổ / tuyệt chủng / thất truyền
+1752,舞う,まう,Dance,舞、跳舞,múa
+1753,巻き込む,まきこむ,Involve,牵连、连累,cuốn vào
+1754,紛れる,まぎれる,Get mixed in with,混淆、混杂,lẫn vào
+1755,まごつく,,Be confused,张皇失措、慌慌张张,"lúng túng, bối rối"
+1756,勝る,まさる,Outperform,胜过,vượt hơn
+1757,交える,まじえる,Mix in,掺杂、夹杂,"pha lẫn, trao đổi"
+1758,交わる,まじわる,Cross / Associate with,相交、交叉；交往,giao nhau / giao du
+1759,またがる,,"Sit astride, straddle",骑、跨；横跨、跨越,ngồi dạng chân 2 bên / trải dài qua 2 nơi
+1760,またぐ,,Straddle,跨过,bước qua
+1761,待ち望む,まちのぞむ,Anticipate,盼望、殷切希望,mong ngóng
+1762,祭る,まつる,Enshrine,供奉,thờ cúng
+1763,惑わす,まどわす,Mislead,迷惑、欺骗,"làm lạc hướng, gây nhầm lẫn"
+1764,免れる,まぬかれる/まぬがれる,"Escape, be spared",避免、免受,"thoát khỏi, tránh được"
+1765,丸める,まるめる,Make a ball,弄圆、揉成团,vo tròn
+1766,見合わせる,みあわせる,"Put off, postpone",延期、延迟,"bị hoãn, bị hủy"
+1767,見失う,みうしなう,Lose sight of,看丢,mất dấu
+1768,見落とす,みおとす,"Miss, overlook",看漏、忽略,nhìn sót
+1769,見せびらかす,みせびらかす,Show off,炫耀、显摆,khoe khoang
+1770,満たす,みたす,Fill,填满、装满,rót đầy
+1771,乱す,みだす,"Disturb, disrupt",弄乱、打乱,gây rối
+1772,導く,みちびく,Lead,指导、教导；指引,chỉ dẫn / đưa...đến
+1773,見積もる,みつもる,Estimate,估算,"ước tính, ước lượng"
+1774,見なす,みなす,Regard as,视作、当作,xem là
+1775,見習う,みならう,Emulate,仿效、学习,học theo
+1776,見逃す,みのがす,Miss / Turn blind eye to,看漏、视而不见；饶恕、放过,bỏ lỡ / làm ngơ cho
+1777,見計らう,みはからう,Choose your time,适当估计、估摸,lựa chọn thời cơ hay đồ vật thích hợp
+1778,見張る,みはる,Watch out for / Open eyes wide,监视；瞠目而视、瞪大眼睛看,"canh giữ, mở to mắt"
+1779,見分ける,みわける,Distinguish,辨别、鉴别,phân biệt
+1780,見渡す,みわたす,Look over,环视,nhìn khắp
+1781,結び付ける,むすびつける,Tie up,系、拴上,cột vào / tạo mối liên hệ
+1782,群がる,むらがる,Cluster,聚集、成群,"tụ họp, nhóm lại"
+1783,恵む,めぐむ,"Bestow, bless",施舍、周济,"ban ơn, bố thí"
+1784,めくる,,Turn over,翻,lật
+1785,巡る,めぐる,Go around,巡游、寻访,đi vòng quanh
+1786,設ける,もうける,"Provide, set up",设置、设立,"cung cấp, tổ chức, lập ra"
+1787,申し入れる,もうしいれる,Propose,提议、要求,"đề nghị, đề xuất"
+1788,申し出る,もうしでる,Offer,提出、申述,"ngỏ ý, đề xuất (nguyện vọng, ý kiến, yêu cầu)"
+1789,もがく,,"Writhe, struggle",挣扎,giãy giụa
+1790,もたらす,,"Bring, cause",带来,"mang đến, dẫn đến"
+1791,もたれる,,Lean back / Have a heavy feeling (stomach),倚靠；积食、不消化,dựa vào / làm đầy bụng
+1792,もつれる,,Get entangled,不听使唤；纠纷、纠葛,vướng vào nhau / rối rắm
+1793,もてなす,,"Welcome, host",招待、接待,tiếp đãi
+1794,もめる,,Fall out with,发生纠纷、发生争执,"bất hòa, cãi vã"
+1795,催す,もよおす,"Hold, organize / Have a feeling",举办、主办；感觉要……,tổ chức / cảm thấy
+1796,漏らす,もらす,Wet / Leak,尿床、尿裤子；泄露、透露,làm rò rỉ / để lộ
+1797,養う,やしなう,"Support, nurture / Build up (skill)",养活、供养；培养,nuôi / trau dồi
+1798,病む,やむ,"Ail, suffer",生病、得病,mắc bệnh
+1799,やり遂げる,やりとげる,"Accomplish, complete",完成、干到最后,"làm xong, hoàn thành"
+1800,和らげる,やわらげる,Relieve,使缓和、缓解,"làm dịu, an ủi, tiết chế"
+1801,有する,ゆうする,"Have, possess",有、具备,"có, sở hữu"
+1802,ゆがむ,,Warp,歪、变形,"méo mó, biến dạng, cong vênh"
+1803,行き詰まる,ゆきづまる,"Bog down, be going nowhere",停滞不前、陷入僵局,bế tắc
+1804,揺るがす,ゆるがす,Shake,震撼、撼动,"rung lắc, chấn động"
+1805,緩める,ゆるめる,"Loosen, relax / Slow down",松、松缓；放缓、放慢,nới lỏng / chậm lại
+1806,要する,ようする,"Take, require",需要、必须,cần
+1807,よける,,"Dodge, avoid",躲避、避开,"tránh, né"
+1808,横たわる,よこたわる,Lie down,横躺、横卧,nằm xuống
+1809,装う,よそおう,Dress / Feign,打扮、穿戴；装、假装,"mặc, phục sức / giả vờ, tỏ vẻ"
+1810,酔っぱらう,よっぱらう,Get drunk,烂醉、酩酊大醉,say xỉn
+1811,よみがえる,,"Revive, bring back to life",复苏、苏醒；恢复,hồi sinh / hồi phục
+1812,よる,,Be caused by,因、由于,do
+1813,弱る,よわる,Weaken / Have trouble,衰弱、虚弱；为难,"yếu đi / lúng túng, khốn đốn"
+1814,論じる/論ずる,ろんじる/ろんずる,"Argue, discuss",论述、阐述,"luận về, diễn giải"
+1815,湧く,わく,"Bubble, crop up",涌、喷；产生,"chảy ra / trào dâng, hiện lên trong lòng"
+1816,患う,わずらう,"Suffer from, be ill with",患病、生病,mắc bệnh
+1817,わびる,,Apologize,谢罪、道歉,xin lỗi
+1818,割り当てる,わりあてる,Assign,分配、分摊,"phân bổ, chia phần"
+1819,割り切る,わりきる,Take a clear-cut attitude to,想开、想通,suy nghĩ rạch ròi (không lẫn tình cảm cá nhân vào)
+1820,割り切れる,わりきれる,Divide,除尽、整除,chia hết cho
+1821,割り込む,わりこむ,"Break in, interrupt",插嘴、插队,chen vào
+1822,愛らしい,あいらしい,Adorable,可爱的,đáng yêu
+1823,厚かましい,あつかましい,"Forward, presumptuous",厚颜无耻的、厚脸皮的,"trơ trẽn, mặt dày"
+1824,あっけない,,Disappointing,草率的、不尽兴的,"gây thất vọng, hụt hẫng"
+1825,危うい,あやうい,"In danger, at risk",危险的、危急的,nguy hiểm
+1826,荒っぽい,あらっぽい,Rough,粗暴的、粗野的,"thô bạo, cẩu thả"
+1827,勇ましい,いさましい,Brave,勇敢的、勇猛的,"can trường, bạo gan, hùng tráng"
+1828,痛ましい,いたましい,Tragic,惨不忍睹的、令人痛心的,"bi thảm, thảm khốc"
+1829,著しい,いちじるしい,Remarkable,明显的、显著的,đáng chú ý
+1830,卑しい,いやしい,Wretched,卑鄙的、品质恶劣的,"tham lam, đê tiện"
+1831,いやらしい,,Loathesome,讨厌的、令人不快的,"đáng ghét, gây khó chịu"
+1832,疑わしい,うたがわしい,Doubtful,不可信的、靠不住的,"đáng nghi, không chắc chắn"
+1833,うっとうしい,,Dismal / Annoying,阴沉的、郁闷的；令人厌烦的、麻烦的,"ảm đạm, mù mịt / vướng víu, phiền phức"
+1834,思いがけない,おもいがけない,Unexpected,意想不到的、意外的,"không ngờ, không mong đợi"
+1835,堅苦しい,かたくるしい,"Starchy, formal",死板的、拘谨的,"cứng nhắc, căng thẳng"
+1836,かなわない,,Be no match for,敌不过的、不能匹敌的,"không tương xứng, không bằng"
+1837,くすぐったい,,Tickle,痒痒的,nhột
+1838,くどい,,Tedious,唠叨的、喋喋不休的,"tẻ nhạt, dài dòng"
+1839,汚らわしい,けがらわしい,Filthy,污秽的、恶心的,"kinh tởm, khả ố"
+1840,煙たい,けむたい,Smoky / Feel uncomfortable around,呛人、熏人的；令人发怵的,mù mịt (do khói) / khó chịu
+1841,心地よい,ここちよい,Comfortable,舒畅的、舒适的,"khoan khoái, dễ chịu"
+1842,心強い,こころづよい,Reassuring,心里有底的、胆壮的,"vững dạ, yên lòng"
+1843,心細い,こころぼそい,"Feel helpless, alone",心中不安的、心中没底的,cô đơn
+1844,快い,こころよい,Pleasant,心情舒畅的、心旷神怡的；爽快的,"thoải mái, du dương / sẵn lòng"
+1845,好ましい,このましい,Favorable,令人喜欢的、感觉良好的,"tốt, đẹp, dễ chịu"
+1846,渋い,しぶい,Bitter / Sober,涩口的；素雅的,"chát / (màu) nền nã, giản dị"
+1847,すがすがしい,,"Refreshing, bracing",清爽的、凉爽的,mát mẻ
+1848,すさまじい,,"Awesome, terrific",猛烈的、惊人的,"ghê sợ, khủng khiếp"
+1849,素早い,すばやい,Quick,迅速的、敏捷的,nhanh chóng
+1850,切ない,せつない,"Sad, painful",难受的、痛苦的,đau buồn
+1851,そっけない,,"Brusque, curt",冷淡的,"lạnh lùng, cộc lốc"
+1852,たくましい,,"Strong, sturdy",健壮的；旺盛的,"có cơ bắp, cường tráng / bất khuất, kiên cường"
+1853,頼りない,たよりない,Unreliable,靠不住的、不可靠的,không đáng tin
+1854,だるい,,Listless,懒倦的、疲软的,uể oải
+1855,でかい,,Huge,大的（口语）,to bự (dùng trong văn nói)
+1856,手早い,てばやい,Quick,麻利的、敏捷的,nhanh nhạy
+1857,尊 （貴）い,とうとい/たっとい,"Noble, valuable",尊贵的、值得尊敬的；珍贵的、贵重的,"cao quý, đáng trân trọng / quý giá"
+1858,乏しい,とぼしい,"Scarce, limited",不足的、缺乏的,"hiếm, ít"
+1859,とんでもない,,"Unbelievable, outrageous / Not at all",岂有此理的、极其荒唐的；哪里的话,"thái quá, tàn nhẫn / đâu có, không sao"
+1860,情けない,なさけない,Deplorable,无法同情的、可悲可叹的,đáng thất vọng
+1861,情け深い,なさけぶかい,Compassionate,富于同情心的、热心肠的,"từ bi, nhân từ"
+1862,名高い,なだかい,"Famous, noted",有名的、著名的,nổi danh
+1863,何気ない,なにげない,"Casual, nonchalant",无意的、无心的,"hờ hững, thờ ơ, vô tình"
+1864,悩ましい,なやましい,Vexing / Captivating,烦恼的、愁人的；迷人的、令人神魂颠倒的,khổ sở / quyến rũ
+1865,なれなれしい,,Over-familiar,熟不拘礼的、过分亲昵的,"thân thiết, thân mật"
+1866,根強い,ねづよい,"Firmly rooted, deep-seated",深的、不易动摇的,"bền bỉ, ngoan cường"
+1867,粘り強い,ねばりづよい,Tenacious,坚持不懈的、有毅力的,kiên trì
+1868,望ましい,のぞましい,Desirable,符合希望的、理想的,"được khuyên, được mong muốn"
+1869,ばかばかしい,,"Silly, foolish",毫无价值的、非常愚蠢的,ngốc nghếch
+1870,甚だしい,はなはだしい,"Severe, heavy, great",很、非常,"cực độ, to lớn"
+1871,華々しい,はなばなしい,"Spectacular, magnificent",华丽的、轰轰烈烈的,"rực rỡ, vinh quang"
+1872,久しい,ひさしい,Long time (since),好久的、许久的,lâu
+1873,平たい,ひらたい,Flat,平坦的,phẳng
+1874,分厚い,ぶあつい,Thick,很厚的,dày
+1875,紛らわしい,まぎらわしい,Confusing,容易混淆的、易弄错的,"dễ nhầm lẫn, mơ hồ"
+1876,見苦しい,みぐるしい,"Unworthy, shabby",不体面的、丢脸的,đáng xấu hổ
+1877,みっともない,,"Unbecoming, shabby",不像样的、难看的,"đáng xấu hổ, khó coi"
+1878,むなしい,,"In vain, ineffectual, empty",空虚的、无意义的,tuyệt vọng
+1879,目覚ましい,めざましい,Remarkable,惊人的、特别突出的,"ấn tượng, đáng kể"
+1880,もろい,,"Fragile, frangible",脆的、易碎的,"giòn, dễ vỡ, mỏng manh"
+1881,安っぽい,やすっぽい,"Cheap-looking, tawdry",不值钱的、看起来像便宜货的,trông rẻ tiền
+1882,やむをえない,,Unavoidable,不得已的、不得不的,không tránh khỏi
+1883,煩わしい,わずらわしい,Bothersome,烦琐的、麻烦的,"khó chịu, phiền hà"
+1884,鮮やか,あざやか,"Vivid, bright",鲜艳的、鲜明的,"tươi sáng, sống động"
+1885,あべこべ,,"Wrong way round, back to front",颠倒的、相反的,"ngược, nhầm"
+1886,あやふや,,"Unsure, hazy",不清楚的、模棱两可的,"mơ hồ, không chắc chắn"
+1887,いいかげん,,"Sloppy, irresponsible",马马虎虎的、敷衍的,"bất cẩn, vô trách nhiệm"
+1888,違法,いほう,Illegal,违法的,trái luật
+1889,陰気,いんき,Gloomy,阴暗的、阴沉的,ảm đạm
+1890,インターナショナル,,International,国际的,tính quốc tế
+1891,エレガント,,Elegant,高雅的、优雅的,thanh lịch
+1892,円滑,えんかつ,Smooth,顺畅的、顺利的,"thông suốt, thuận lợi"
+1893,円満,えんまん,"Amicable, happy",圆满的,"hòa hợp, tốt đẹp"
+1894,大柄,おおがら,"Heavily built, of large stature / Large pattern",身材高大的；大花样的、大花纹的,to con / to bản
+1895,大げさ,おおげさ,Exaggerated,夸张的、夸大的,"phóng đại, cường điệu"
+1896,大まか,おおまか,"Rough, general",粗略的,"tổng thể, khái quát"
+1897,おおらか,,Easy-going,大度的、豁达的,"hào phóng, rộng lượng"
+1898,臆病,おくびょう,Timid,胆小的、胆怯的,"nhút nhát, hèn nhát"
+1899,厳か,おごそか,"Dignified, solemn",庄严的、严肃的,trang nghiêm
+1900,愚か,おろか,Stupid,愚蠢的,"ngu ngốc, khờ dại"
+1901,おろそか,,Negligent,敷衍的、马虎的,"bê bối, cẩu thả"
+1902,温厚,おんこう,Good-natured,温厚的,"tốt bụng, hiền dịu"
+1903,温和,おんわ,"Mild, genial",温和的,ôn hòa
+1904,格別,かくべつ,Exceptional,格外的、特别的,"đặc biệt, khác biệt"
+1905,過激,かげき,"Radical, extreme",过激的,"quyết liệt, cao độ, gay gắt"
+1906,過剰,かじょう,Excessive,过剩的,dư thừa
+1907,かすか,,"Vague, faint",微小的、微弱的,"mờ nhạt, nhẹ nhàng"
+1908,画期的,かっきてき,Epochal,划时期的、划时代的,"mở mang thời đại, có tính bước ngoặt"
+1909,過密,かみつ,"Congested, tight",过密的、过满的,"đông đúc, chật chội / dày đặc"
+1910,簡易,かんい,Simple,简易的,"đơn giản, đơn sơ"
+1911,簡潔,かんけつ,Concise,简洁的,"súc tích, khúc chiết"
+1912,頑丈,がんじょう,Sturdy,坚固的,chắc chắn
+1913,肝心,かんじん,Vital,重要的,"cần thiết, quan trọng"
+1914,簡素,かんそ,Simple,简朴的、简单朴素的,"đơn sơ, giản dị"
+1915,寛大,かんだい,Magnanimous,宽大的,"khoan dung, rộng lượng"
+1916,完璧,かんぺき,Perfect,完美的、完美无缺的,hoàn hảo
+1917,きちょうめん,,Methodical,一丝不苟的、规规矩矩的,"chính xác, ngăn nắp, có phương pháp"
+1918,気まぐれ,きまぐれ,Capricious,心情易变的、随性的,"thất thường, dễ thay đổi"
+1919,凶悪,きょうあく,Heinous,穷凶极恶的、凶恶的,"hung ác, tàn nhẫn, dã man"
+1920,驚異的,きょういてき,Astonishing,惊人的、令人瞠目的,"kỳ diệu, thần kỳ"
+1921,強硬,きょうこう,"Firm, strong",强硬的、坚决的,"vững chắc, cứng rắn"
+1922,強烈,きょうれつ,"Intense, fierce, pungent",强烈的,"khốc liệt, nghiêm trọng, mạnh"
+1923,清らか,きよらか,"Clean, pure",清澈的,tinh khiết
+1924,クール,,"Cool, impassive",冷静的、不为所动的,trầm tĩnh
+1925,グローバル,,Global,全球的,có tính toàn cầu
+1926,軽快,けいかい,Light,轻快的,nhẹ nhàng
+1927,軽率,けいそつ,Reckless,轻率的、草率的,"bất cẩn, khinh suất"
+1928,劇的,げきてき,Dramatic,戏剧性的、扣人心弦的,kịch tính
+1929,厳格,げんかく,Strict,严格的、严肃的,nghiêm khắc
+1930,健在,けんざい,In good health,健在的,(sống) mạnh khỏe
+1931,健全,けんぜん,Sound,健全的,vững mạnh
+1932,幻想的,げんそうてき,Fantastical,幻想的、梦幻般的,"mơ mộng, huyền ảo"
+1933,厳密,げんみつ,"Strict, rigorous",严密的、严格的,"nghiêm ngặt, (nghĩa) hẹp, đen"
+1934,強情,ごうじょう,"Obstinate, stubborn",固执的、顽固的,"ương ngạnh, cố chấp"
+1935,好調,こうちょう,"In good condition, strong, buoyant",顺利的、良好的,"thuận lợi, (thể trạng) tốt"
+1936,巧妙,こうみょう,Ingenious,巧妙的,"tinh xảo, tinh vi"
+1937,小柄,こがら,Of small stature,小个子的、身材矮小的,nhỏ con
+1938,孤独,こどく,Lonely,孤独的,cô độc
+1939,細やか,こまやか,"Fine, detailed (attention)",细致的,"nồng hậu, nhiệt tình"
+1940,根本的,こんぽんてき,Fundamental,根本的,"căn nguyên, căn bản"
+1941,ささやか,,"Modest, small",微薄的,"nhỏ, khiêm tốn"
+1942,早急,さっきゅう/そうきゅう,Urgent,尽早的,"nhanh chóng, gấp"
+1943,残酷,ざんこく,"Cruel, brutal",残酷的,"tàn khốc, khốc liệt"
+1944,自主的,じしゅてき,"Voluntary, independent",自主的,"tự chủ, tự phát"
+1945,実質的,じっしつてき,"Substantive, de facto",实质性的,"thực chất, thực tế"
+1946,質素,しっそ,"Plain, frugal",朴素的,"thanh đạm, giản dị"
+1947,しなやか,,"Lissom, graceful",柔畅的、柔顺而优美的,uyển chuyển
+1948,従順,じゅうじゅん,Obedient,顺从的、听话的,"ngoan ngoãn, phục tùng"
+1949,柔軟,じゅうなん,"Flexible, supple",柔软的；灵活的、适应性强的,dẻo dai / linh hoạt
+1950,主観的,しゅかんてき,Subjective,主观的,mang tính chủ quan
+1951,詳細,しょうさい,Detailed,详细的,"chi tiết, tường tận"
+1952,初歩的,しょほてき,Elementary,初步的、入门的,"vỡ lòng, sơ đẳng"
+1953,神聖,しんせい,Sacred,神圣的,"thiêng liêng,  tôn nghiêm, thành kính"
+1954,迅速,じんそく,"Fast, prompt",迅速的,"mau chóng, tức thời"
+1955,健やか,すこやか,Healthy,健壮的、健康的,khỏe mạnh
+1956,速やか,すみやか,"Prompt, quick",快速的、火速的,lập tức
+1957,スムーズ/スムース,,Smooth,顺畅的、顺利的,"trôi chảy, thuận lợi"
+1958,精巧,せいこう,Exquisite,精巧的,"kỹ lưỡng, tinh tế"
+1959,誠実,せいじつ,Sincere,诚实的,chân thật
+1960,盛大,せいだい,"Grand, splendid",盛大的、规模宏大的,hoành tráng
+1961,正当,せいとう,"Right, legitimate",正当的,"chính đáng, đúng đắn"
+1962,精密,せいみつ,Precise,精密的,"chính xác, tỉ mỉ, nghiêm ngặt"
+1963,繊細,せんさい,Delicate,纤细的、细腻的,tinh tế
+1964,先天的,せんてんてき,"Innate, hereditary",先天的,bẩm sinh
+1965,全面的,ぜんめんてき,"Full, comprehensive",全面的,"toàn diện, toàn bộ"
+1966,善良,ぜんりょう,"Decent, good",善良的,lương thiện
+1967,相応,そうおう,"Suitable, fitting",相应的,"hợp lý, phù hợp"
+1968,壮大,そうだい,Magnificent,宏大的、宏伟的,"vĩ đại, oai nghiêm"
+1969,相対的,そうたいてき,Relative,相对的,tương đối
+1970,素朴,そぼく,"Artless, simple",单纯的、天真的,"chất phác, ngây thơ, đơn giản"
+1971,大胆,だいたん,Bold,大胆的、无畏的,"bạo dạn, táo bạo"
+1972,対等,たいとう,Equal,对等的,"ngang bằng, bình đẳng"
+1973,怠慢,たいまん,Negligent,怠慢的、玩忽职守的,lơ là
+1974,巧み,たくみ,Ingenious,巧的、巧妙的,"khéo léo, điêu luyện"
+1975,多彩,たさい,Varied,丰富多彩的、多样的,"đa sắc, đa dạng"
+1976,妥当,だとう,Reasonable,妥当的、妥善的,hợp lý
+1977,タフ,,Tough,顽强的、强壮的,cứng cỏi
+1978,多忙,たぼう,Very busy,繁忙的、忙碌的,bận rộn
+1979,短気,たんき,Short-tempered,性急的、急性子的,"nóng tính, thiếu kiên nhẫn"
+1980,単調,たんちょう,Monotonous,单调的,"đơn điệu, tẻ nhạt"
+1981,着実,ちゃくじつ,Steady,切实的、牢靠的,"vững chắc, đáng tin cậy"
+1982,忠実,ちゅうじつ,Faithful,忠实的,trung thành
+1983,著名,ちょめい,Famous,著名的,nổi tiếng
+1984,定期的,ていきてき,Regular,定期的,định kỳ
+1985,手近,てぢか,"Handy, at hand",手边的、普通常见的,"gần gũi, quen thuộc"
+1986,独創的,どくそうてき,Creative,独创的,"sáng tạo, độc đáo"
+1987,鈍感,どんかん,"Insensitive, obtuse",（感觉）迟钝的,"vô cảm, tối dạ"
+1988,和やか,なごやか,Friendly,和谐的、其乐融融的,"bình yên, hòa hợp"
+1989,なだらか,,Gentle (slope),平缓的,(dốc) thoai thoải
+1990,にこやか,,Smiling,和蔼的、笑容满面的,tươi cười
+1991,熱狂的,ねっきょうてき,Passionate,狂热的,cuồng nhiệt
+1992,のどか,,"Idyllic, tranquil",恬静的、宁静的,"tĩnh lặng, bình yên"
+1993,バーチャル,,Virtual,假想的、虚拟的,ảo
+1994,ばくだい,,Enormous,庞大的、莫大的,"khổng lồ, to lớn"
+1995,万全,ばんぜん,"Complete, perfect",万无一失的,"kỹ lưỡng, xong"
+1996,半端,はんぱ,Odd (sum),不上不下的、不彻底的,"dư, lẻ, nửa chừng"
+1997,悲惨,ひさん,"Miserable, wretched",悲惨的,bi thảm
+1998,ひそか,,Secret,暗中的、偷偷的,"bí mật, riêng tư"
+1999,貧困,ひんこん,"Poor, hard up",贫困的,nghèo khổ
+2000,貧弱,ひんじゃく,"Poor, weak",贫弱的,yếu ớt
+2001,頻繁,ひんぱん,Frequent,频繁的,thường xuyên
+2002,不快,ふかい,Unpleasant,不愉快的、不快的,"khó chịu, không thoải mái"
+2003,不可欠,ふかけつ,"Essential, indispensable",不可欠缺的、不可或缺的,không thể thiếu
+2004,不振,ふしん,"Slumping, in a trough",不佳的,"sa sút, đình trệ"
+2005,不審,ふしん,Suspicious,可疑的,khả nghi
+2006,物騒,ぶっそう,Unsafe,不安宁的、不太平的,"bất ổn, hỗn loạn, nguy hiểm"
+2007,不当,ふとう,Unfair,不正当的、不合理的,"bất công, quá đáng, không chính đáng"
+2008,無難,ぶなん,"Acceptable, safe",说得过去的、无功无过的,"ổn, chấp nhận được"
+2009,不服,ふふく,Dissatisfied,不服的、不满的,"không hài lòng, không phục"
+2010,普遍的,ふへんてき,Universal,普遍的,phổ quát
+2011,膨大,ぼうだい,"Huge, enormous",庞大的、大量的,khổng lồ
+2012,保守的,ほしゅてき,Conservative,保守的,bảo thủ
+2013,前向き,まえむき,Forward-looking,乐观的、积极的,"hướng về phía trước, tích cực"
+2014,まちまち,,"Mixed, not uniform",各式各样的、形形色色的,"đa dạng, khác nhau"
+2015,まとも,,"Head-on / Decent, straight-dealing",迎面的、正对面的；正派的、认真的,"thẳng, trực tiếp / chân chính"
+2016,まれ,,Rare,稀少的、很少的,"hiếm, đặc biệt"
+2017,惨め,みじめ,Miserable,悲惨的、凄惨的,"khốn khổ, đáng thương"
+2018,未熟,みじゅく,Immature,不成熟的、经验不够的,"còn xanh, non nớt, chưa có kinh nghiệm"
+2019,無意味,むいみ,Meaningless,无意义的、没有价值的,vô nghĩa
+2020,無効,むこう,Invalid,无效的、失效的,"vô giá trị, vô hiệu lực"
+2021,無残,むざん,"Pitiful, distressing",悲惨的、凄惨的,bi thảm
+2022,無邪気,むじゃき,Innocent,天真无邪的,ngây thơ
+2023,無神経,むしんけい,Insensitive,少根筋的、感觉迟钝的,"vô cảm, vô tình"
+2024,無知,むち,Ignorant,无知的,ngu dốt
+2025,むちゃ,,"Absurd, reckless",荒唐的、乱来的,"vớ vẩn, vô lý"
+2026,むちゃくちゃ,,Incoherent,毫无条理的,"rời rạc, tan tành, bừa bãi"
+2027,無能,むのう,Incompetent,无能的,"bất tài, không hiệu quả"
+2028,無用,むよう,Unneeded,不用的、无需的,không cần thiết
+2029,無力,むりょく,"Powerless, helpless",无力的、弱小的,bất lực
+2030,明白,めいはく,"Obvious, clear",明显的、明白的,"rõ ràng, rành rành"
+2031,明瞭,めいりょう,"Clear, intelligible",明了的,"rành rọt, rõ ràng"
+2032,メンタル,,Mental,精神的,về tinh thần
+2033,猛烈,もうれつ,"Ferocious, wild",猛烈的,"dữ dội, khủng khiếp"
+2034,厄介,やっかい,"Troublesome, nuisance",麻烦的、难缠的,phiền phức
+2035,優位,ゆうい,"Superior, leading",有优势的,"có ưu thế, cao hơn"
+2036,有意義,ゆういぎ,"Meaningful, helpful",有意义的,"có nghĩa, hữu ích"
+2037,憂鬱,ゆううつ,Depressing,忧郁的、愁闷的,"suy sụp, chán nản, ảm đạm"
+2038,有益,ゆうえき,"Beneficial, useful",有益的、有用的,hữu ích
+2039,優雅,ゆうが,"Elegant, graceful",优雅的,"duyên dáng, thanh lịch"
+2040,勇敢,ゆうかん,Brave,勇敢的,dũng cảm
+2041,優勢,ゆうせい,"Superior, having the edge",有优势的,chiếm ưu thế
+2042,雄大,ゆうだい,"Glorious, magnificent",雄伟的、宏大的,hùng vĩ
+2043,裕福,ゆうふく,"Wealthy, affluent",富裕的,"sung túc, dư dả"
+2044,有望,ゆうぼう,Promising,有希望的、有前途的,có triển vọng
+2045,緩やか,ゆるやか,Loose,平缓的、缓和的,thoai thoải
+2046,楽天的,らくてんてき,"Optimistic, carefree",乐天派的、乐天的,"lạc quan, tích cực"
+2047,楽観的,らっかんてき,"Optimistic, hopeful",乐观的,lạc quan (với việc chưa xảy ra)
+2048,ラフ,,Rough,不加修饰的,giản đơn
+2049,リアル,,"Real, realistic",栩栩如生的,giống thật
+2050,立体的,りったいてき,Three-dimensional,立体的,ba chiều
+2051,良好,りょうこう,Good,良好的,tốt đẹp
+2052,ルーズ,,Loose,自由散漫的、松懈的,cẩu thả
+2053,ろく,,Decent,（不）理想的、（不）像样的,đàng hoàng
+2054,露骨,ろこつ,"Open, plain, overt",露骨的、明显的,"thẳng thừng, trắng trợn"
+2055,あいにく,,Unfortunately,不凑巧、扫兴,không may là
+2056,あえて,,"Dare, venture",敢、偏要,cố tình
+2057,あしからず,,"Please understand that ~, I'm sorry but ~",（请）不要见怪、（请）原谅,"xin thông cảm, xin đừng để bụng"
+2058,あたかも,,"As if, like",宛如、好像,như thể
+2059,あらかじめ,,In advance,事先、预先,trước
+2060,ありありと,,Vividly,历历在目地、清晰地,rõ mồn một
+2061,案の定,あんのじょう,"As expected, sure enough",果不其然、不出所料,"như dự đoán, y như rằng"
+2062,いかに,,How,如何、怎样,làm thế nào
+2063,いかにも,,"Undisguised, distinctly",完全、的确,"đúng là, cứ như là"
+2064,幾分,いくぶん,"Somewhat, some",多少、几分,"đôi chút, đôi phần"
+2065,いずれ,,"Some day, sooner or later",迟早、反正,sớm muộn gì
+2066,依然,いぜん,"Still, yet",依然,vẫn như trước
+2067,至って,いたって,"Very much, terribly",极其、甚为,"rất, cực kỳ"
+2068,一概に,いちがいに,Sweepingly (say),笼统地、无区别地,"chung chung, vơ đũa cả nắm"
+2069,一様に,いちように,"Uniformly, equally",一样地、一同地,"giống nhau, đều…như nhau"
+2070,一律,いちりつ,"Uniformly, flat (rate), without exceptions",一律,như nhau
+2071,一挙に,いっきょに,"At once, in one go",一举、一下子,cùng một lúc
+2072,一切,いっさい,"(not) at all, (not) ever",全然、完全,hoàn toàn
+2073,一心に,いっしんに,With all your heart,专心地、拼命地,"toàn tâm toàn ý, với cả tấm lòng"
+2074,いっそ,,Rather,索性、干脆,chẳng thà
+2075,今更,いまさら,Too late to,事到如今、事已至此,"đến nước này, bây giờ thì"
+2076,いまだ,,"Still, even now",仍然、尚未,đến giờ vẫn
+2077,今や,いまや,Now,现在、当今,"hiện giờ, chính lúc này"
+2078,いやに,,"Awfully, terribly",特别地、异常地,một cách lạ thường
+2079,いわば,,So to speak,可以说、就好比是,"nói ví von là, nói nôm na là"
+2080,遅くとも,おそくとも,At the latest,最迟、最晚,chậm nhất là
+2081,恐る恐る,おそるおそる,Fearfully,战战兢兢地,"run rẩy, rụt rè, sợ sệt"
+2082,おのずから,,"Naturally, automatically",自然而然地,"tự động, tự nhiên"
+2083,がっくり,,In disappointment,突然无力地,gục hẳn xuống
+2084,がっしり,,"Sturdy, stocky",健硕、结实,cứng cáp
+2085,かつて,,Once,曾经、以前,"đã từng, một thời"
+2086,かねてから/かねてより,,"Long-standing, for a long time",一直以来,"bao lâu nay, từ lâu"
+2087,がらりと,,Radically,完全地、剧变地,"hoàn toàn, đột nhiên"
+2088,がらんと,,"Bare, empty",空荡荡地,"trống trải, trống vắng"
+2089,辛うじて,かろうじて,"Barely, only just",总算、勉勉强强地,vừa đủ
+2090,代わる代わる,かわるがわる,In turn,交替地、轮流地,"lần lượt, thay nhau"
+2091,元来,がんらい,"Originally, by nature",本来、原来,"về bản chất, vốn"
+2092,きっかり,,"Exactly, on time",整、正好,một cách chính xác
+2093,急きょ,きゅうきょ,Hurriedly,急忙地、匆忙地,gấp rút
+2094,極めて,きわめて,Extremely,极其、非常,cực kỳ
+2095,均等に,きんとうに,"Evenly, equally",均等地,"một cách bình đẳng, đều nhau"
+2096,くっきり,,"Clear, crisp, sharp",清晰地、鲜明地,rõ ràng
+2097,ぐっと,,"Much, significantly [intensifier]",越发,hơn hẳn
+2098,けっこう,,"Rather, considerably",相当,khá
+2099,現に,げんに,Actually,实际上,"thực tế là, ngay trước mắt"
+2100,交互に,こうごに,In alternation,交错地,"luân phiên, lẫn nhau"
+2101,後日,ごじつ,At a later date,日后,"sau này, trong tương lai"
+2102,こつこつ,,"Diligently, tirelessly",孜孜不倦地,"chăm chỉ, cần mẫn"
+2103,こっそり,,Secretly,偷偷地,lén lút
+2104,殊に,ことに,Particularly,特别是,"nhất là, đặc biệt là"
+2105,粉々に,こなごなに,In pieces,粉碎、稀巴烂,thành mảnh vụn
+2106,再三,さいさん,Repeatedly,再三、屡次,năm lần bảy lượt
+2107,差し当たり/差し当たって,さしあたり/さしあたって,For the time being,当前、眼下,"ngay lúc này, hiện thời"
+2108,さぞ,,Surely,想必、一定,ắt hẳn
+2109,さほど,,(Not) so much,（没有）如此、（没有）那么,"đến thế, như thế (theo sau là phủ định)"
+2110,さも,,"Evident, obvious",很、非常,thấy rõ
+2111,散々,さんざん,Thoroughly bad,狠狠地、彻底地,"thậm tệ, tệ hại, mức độ nhiều"
+2112,強いて,しいて,Compulsorily,硬、勉强,bắt buộc
+2113,じかに,,"In person, directly",直接地、当面地,trực tiếp
+2114,直に/直,じきに/じき,"In a bit, soon",很快、马上,"sắp sửa, nhanh chóng"
+2115,しきりに,,Frequently,不停地、频繁地,"thường, suốt"
+2116,渋々,しぶしぶ,"Unwillingly, reluctantly",勉勉强强地、不情愿地,miễn cưỡng
+2117,若干,じゃっかん,"Certain, some",若干、多少,"một ít, một vài, hơi"
+2118,随時,ずいじ,Any time,随时,"bất kỳ lúc nào, khi cần"
+2119,せんだって,,The other day,前几天、前些日子,hôm nọ
+2120,即座に,そくざに,Immediately,即刻、当场,"tức thì, tại chỗ"
+2121,そもそも,,"In the first place, originally",说起来、最初,vốn dĩ / trạng thái ban đầu
+2122,それとなく,,In a roundabout way,委婉地,"gián tiếp, bóng gió"
+2123,近々,ちかぢか,Soon,近期,"sớm, sắp sửa"
+2124,ちらほら,,"Here and there, sporadically",星星点点地、稀稀落落地,lác đác
+2125,つくづく,,"Thoroughly, deeply",痛切地、深切地,thấm thía
+2126,適宜,てきぎ,Properly,恰当地、适宜地,"thích hợp, đúng chỗ"
+2127,てきぱき,,Quickly and efficiently,麻利地、敏捷地,"mau lẹ, rốt ráo"
+2128,てっきり,,Surely,肯定、一定,chắc mẩm
+2129,転々と,てんてんと,From place to place,辗转、转来转去,hết chỗ này tới chỗ khác
+2130,到底,とうてい,(Not) at all,怎么也、无论如何也,dù gì thì
+2131,どうにか,,Somehow,总算、勉强,"(làm) cái gì đó, bằng cách nào đó"
+2132,どうも,,Somehow,总觉得,có gì đó
+2133,どうやら,,Apparently,似乎、好像,"dường như, có vẻ, bằng cách nào đó"
+2134,とかく,,Tend to,动不动、总是,có xu hướng
+2135,時折,ときおり,Now and again,有时、偶尔,"thỉnh thoảng, thi thoảng"
+2136,とっさに,,"Suddenly, instantly",刹那、立刻,"tức khắc, tức thì"
+2137,突如,とつじょ,Suddenly,突然、突如其来,đột ngột
+2138,とりわけ,,Particularly,特别地、格外地,"nhất là, hơn cả"
+2139,どんより,,"Overcast, cloudy",（天空）阴沉沉地,u ám
+2140,なおさら,,All the more,更加、越发,lại càng
+2141,なにしろ,,"After all, as you know",不管怎么说、总之,dù sao đi nữa
+2142,なんだかんだ,,"This or that, this and that",这个那个,này nọ
+2143,何なりと,なんなりと,"Whatever, anything",无论如何、无论什么,bất kể là gì
+2144,日夜,にちや,Day and night,日以继夜地,"ngày đêm, luôn luôn"
+2145,にやにや,,"Grinning, smiling",暗笑、偷乐,tủm tỉm
+2146,にわかに,,Suddenly,骤然、一下子,"đột ngột, bỗng dưng"
+2147,軒並み,のきなみ,"Across the board, in lockstep",一律、统统,"cái nào cũng, đồng loạt"
+2148,漠然と,ばくぜんと,Vaguely,茫然地、模糊地,mơ hồ
+2149,甚だ,はなはだ,"Very, deeply",非常、极其,rất nhiều
+2150,はるか,,Far,遥远地,"xa xôi, xa xưa"
+2151,はるかに,,"Far, much more",远远地、（差距）很大地,(mức độ) nhiều
+2152,ひいては,,After all,甚至、进而,"hơn thế nữa, không những…mà còn, nhờ vậy"
+2153,ひそひそ,,Whispering,嘁嘁喳喳地、悄悄地,thì thầm
+2154,ひたすら,,"Earnestly, in a heartfelt way",一心一意地、一个劲儿地,"tha thiết, hết lòng, một lòng"
+2155,びっしり,,"Tightly, packed",满满地,"chật kín, chen chúc"
+2156,ひとまず,,For the time being,暂时,"tạm thời, trong lúc này"
+2157,不意に,ふいに,Unexpectedly,意外、突然,bất chợt
+2158,へとへとに,,Exhausted,疲惫不堪地、筋疲力尽地,rã rời
+2159,ぼうぜんと,,"With a stunned, vacant look",愕然、发愣,ngây dại
+2160,誠に,まことに,Sincerely,真、实在,"thực lòng, thực sự"
+2161,まさしく,,"Really, truly",的确、确实,"chắc chắn, đúng như"
+2162,まして,,Still more,何况、更不用说,"hơn thế nữa, khỏi phải nói, hiển nhiên là"
+2163,丸ごと,まるごと,Whole,整个儿地、完整地,"cả, trọn"
+2164,むっと,,"Take offence / Be close, stuffy",怒上心头；（空气）闷、（气味）熏得慌,hờn dỗi / hầm hập
+2165,むやみに,,"Unreasonably, recklessly",胡乱、随便,thiếu suy nghĩ
+2166,むろん,,Of course,当然、不用说,tất nhiên
+2167,めきめき,,"Visibly, rapidly (progress)",显著地、迅速地,"đáng kể, vượt bậc"
+2168,めっきり,,"Remarkably, appreciably",明显地、显著地,"thấy rõ, đáng chú ý"
+2169,専ら,もっぱら,Solely,专门、主要,chuyên tâm
+2170,もはや,,No longer,已经,"đã…rồi, đã không còn"
+2171,悠々と,ゆうゆうと,In a leisurely way,悠闲地,"ung dung, điềm tĩnh"
+2172,ゆったり,,"Loose, comfortable / Relaxing",宽松地；从容地、悠闲自得地,rộng rãi / thư thái
+2173,ゆらゆら,,[Denotes to-and-fro or side-to-side movement],轻轻地（摇动）,"lắc lư, đu đưa"
+2174,よろよろ,,In a tottering or staggering  way,摇摇晃晃地、东倒西歪地,lảo đảo
+2175,わいわい,,"Noisily, loudly",吵吵闹闹地,"ồn ào, rôm rả"
+2176,来る,きたる,"Coming, next",下一个、即将来临的一个,"kế đến, sắp đến"
+2177,とんだ,,"Terribly, awfully / Irreversible",不可挽回的,"quá thể, quá mức / vô phương cứu chữa"
+2178,および,,And,以及,"và, cũng như là"
+2179,かつ,,"As well as, moreover",且、并且,"bên cạnh đó, hơn nữa, đồng thời"
+2180,しかしながら,,However,然而、但是,tuy nhiên
+2181,それにしては,,"Even so, yet",相比起、同……不相合适,"mặc dù vậy, vậy mà"
+2182,それにしても,,"Nonetheless, even so",尽管如此、话虽如此,dù vậy đi nữa
+2183,それゆえ,,"Therefore, for that reason",因此,"vậy nên, chính vì vậy"
+2184,ちなみに,,By the way,顺便、附带（说一下）,"nhân tiện, tiện thể"
+2185,ないし,,Or (as used to express a range),至、从……到……,từ…đến…
+2186,ならびに,,And,及、与,"và, cùng"
+2187,もしくは,,Or,或、或者,hoặc
+2188,ゆえに,,Therefore,因此,"vậy nên, theo đó"
+2189,よって,,"Therefore, accordingly",故而、因此,"cho nên, vậy nên"
+2190,御社,おんしゃ,Your company (spoken),贵司（口语）,quý công ty (văn nói)
+2191,貴校,きこう,Your school,贵校,quý trường
+2192,貴社,きしゃ,Your company (written),贵司（书面语）,quý công ty (văn viết)
+2193,小社,しょうしゃ,"Our company, we, our (corporate)",敝司,công ty chúng tôi
+2194,拝見する,はいけんする,See,看,xem
+2195,拝借する,はいしゃくする,Borrow,拜借、借,mượn
+2196,弊社,へいしゃ,"Our company, we, our (corporate)",敝司,công ty chúng tôi
+2197,恐れ入ります,おそれいります,I am sorry to trouble you / Thank you,谢谢、非常感谢；真对不起、实在抱歉,cảm ơn / xin thứ lỗi
+2198,敬具,けいぐ,Yours sincerely,谨启,kính thư
+2199,前略,ぜんりゃく,"Forgive me for omitting the preliminaries, but ..",前略,lược phần đầu thư (hàm ý xin phép vào thẳng ý chính)
+2200,拝啓,はいけい,"Dear Sir(s), Dear Madam",敬启,kính gửi

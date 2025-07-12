@@ -1,0 +1,1001 @@
+﻿no,tango,kana,en,zh,vi
+0001,挨拶,あいさつ,greet,打招呼,chào hỏi
+0002,返事,へんじ,"answer, reply",回复、回答,trả lời
+0003,会話,かいわ,"converse, talk",交谈,nói chuyện
+0004,自己紹介,じこしょうかい,self-introduce,做自我介绍,tự giới thiệu
+0005,紹介,しょうかい,"introduce, present",介绍,giới thiệu
+0006,招待,しょうたい,invite,邀请,mời
+0007,約束,やくそく,promise,约定,hứa
+0008,デート,,date,约会,hẹn hò
+0009,結婚式,けっこんしき,wedding ceremony,婚礼,lễ kết hôn
+0010,プレゼント,,give a present,送礼物,tặng quà
+0011,贈り物,おくりもの,gift,礼物,quà tặng
+0012,（お）祝い,（お）いわい,celebration,庆祝,sự ăn mừng
+0013,お礼,おれい,thanks,感谢,sự cảm ơn
+0014,相談,そうだん,consult,请教、商量,nhờ tư vấn
+0015,アドバイス,,advise,提建议,cho lời khuyên
+0016,注意,ちゅうい①,warn,提醒,nhắc nhở
+0017,競争,きょうそう,compete,竞争,thi đua
+0018,けんか,,"fight, quarrel",吵架、打架,"đánh nhau, cãi nhau"
+0019,うそ,,lie,谎话,lời nói dối
+0020,いじめ,,bullying,欺凌,sự bắt nạt
+0021,夫,おっと,my husband,我的丈夫,chồng mình
+0022,妻,つま,my wife,我的妻子,vợ mình
+0023,（ご）主人,（ご）しゅじん,husband,男主人,chồng người khác
+0024,パパ,,daddy,爸爸,ba
+0025,ママ,,mummy,妈妈,mẹ
+0026,子,こ,child,孩子,"con, đứa trẻ"
+0027,息子（さん）,むすこ（さん）,son,儿子,con trai
+0028,娘（さん）,むすめ（さん）,daughter,女儿,con gái
+0029,祖父,そふ,my grandfather,我的爷爷、姥爷,ông mình
+0030,祖母,そぼ,my grandmother,我的奶奶、姥姥,bà mình
+0031,おじ（さん）,,uncle,伯伯、叔叔、舅舅,"chú, bác (trong gia đình)"
+0032,おば（さん）,,aunt,姑妈、姨妈,"cô, dì (trong gia đình)"
+0033,赤ちゃん,あかちゃん,baby,小宝宝,em bé
+0034,赤ん坊,あかんぼう,baby,婴儿,trẻ sơ sinh
+0035,大人,おとな,adult,成年人,người lớn
+0036,おじさん,,middle-aged man,叔叔,"chú, bác (người quen)"
+0037,おばさん,,middle-aged woman,阿姨,"cô, dì (người quen)"
+0038,お年寄り,おとしより,elderly person,老年人,người lớn tuổi
+0039,先輩,せんぱい,senior,前辈,tiền bối
+0040,客,きゃく,guest / customer,访客；顾客,khách
+0041,（お）金持ち,（お）かねもち,rich person,有钱人,người giàu có
+0042,人々,ひとびと,people,人们,người (số nhiều)
+0043,男性,だんせい,male,男性,nam giới
+0044,女性,じょせい,female,女性,nữ giới
+0045,男女,だんじょ,men and women,男女,nam và nữ
+0046,彼,かれ,he / boyfriend,他；男朋友,từ chỉ người nam ngôi thứ 3 / bạn trai
+0047,彼女,かのじょ,she / girlfriend,她；女朋友,từ chỉ người nữ ngôi thứ 3 / bạn gái
+0048,彼ら,かれら,they,他们,họ
+0049,君,きみ,you,你,từ chỉ ngôi thứ 2
+0050,僕,ぼく,I,我,từ chỉ mình
+0051,皆,みな,everyone,各位,mọi người
+0052,日,ひ①,day,天,ngày
+0053,午前中,ごぜんちゅう,morning,上午,buổi sáng
+0054,昼間,ひるま,daytime,白天,ban ngày
+0055,今夜,こんや,this evening,今晚,đêm nay
+0056,ゆうべ,,last night,昨晚,tối hôm qua
+0057,明日,あす,tomorrow,明天,ngày mai
+0058,週末,しゅうまつ,weekend,周末,cuối tuần
+0059,再来週,さらいしゅう,the week after next,下下周,tuần sau nữa
+0060,再来月,さらいげつ,the month after next,下下个月,tháng sau nữa
+0061,半年,はんとし,half a year,半年,nửa năm
+0062,将来,しょうらい,future,将来,tương lai
+0063,久しぶり,ひさしぶり,after a long time,隔了很久,lâu rồi mới
+0064,昔,むかし,the old days,以前,ngày xưa
+0065,時代,じだい,"time, period",时代,thời đại
+0066,先,さき,ahead,先,trước
+0067,最初,さいしょ,"beginning, first",一开始,đầu tiên
+0068,最後,さいご,last,最后,cuối cùng
+0069,終わり,おわり,end,结束,"cuối, kết"
+0070,交通,こうつう,transportation,交通,giao thông
+0071,乗り物,のりもの,vehicle,交通工具,phương tiện giao thông
+0072,新幹線,しんかんせん,bullet train,新干线,tàu siêu tốc
+0073,チケット,,ticket,票,vé
+0074,バイク,,motorbike,摩托车,xe máy
+0075,運転,うんてん,drive,驾驶,lái
+0076,バック,,back,后退,lùi lại
+0077,ガソリン,,"gasoline, petrol",汽油,xăng
+0078,乗り場,のりば,"stand, stop",搭乘交通工具的地点,chỗ đón xe
+0079,空港,くうこう,airport,机场,sân bay
+0080,港,みなと,port,港口,cảng
+0081,船,ふね,"ship, boat",船,"tàu, thuyền"
+0082,アクセス,,access,地理位置上的便利性,"sự đến gần, sự lui tới"
+0083,出発,しゅっぱつ,depart,出发,xuất phát
+0084,帰国,きこく,return to one’s country,回国,về nước
+0085,一時帰国,いちじきこく,return temporarily to one’s country,临时回国,về nước một thời gian
+0086,行き,いき,going,去程,"sự đi, đường đi"
+0087,帰り,かえり,return,返程,"sự về, đường về"
+0088,途中,とちゅう,on the way,中途,trên đường
+0089,各駅停車,かくえきていしゃ,local train,各站停车的列车,tàu dừng mỗi ga
+0090,急行,きゅうこう,express,快车,tàu nhanh
+0091,特急,とっきゅう,limited express,特快车,tàu tốc hành
+0092,アジア,,Asia,亚洲,châu Á
+0093,アフリカ,,Africa,非洲,châu Phi
+0094,アメリカ,,America,美洲,châu Mỹ
+0095,ヨーロッパ,,Europe,欧洲,châu Âu
+0096,北海道,ほっかいどう,,,
+0097,四国,しこく,,,
+0098,九州,きゅうしゅう,,,
+0099,沖縄,おきなわ,,,
+0100,東京,とうきょう,,,
+0101,横浜,よこはま,,,
+0102,名古屋,なごや,,,
+0103,大阪,おおさか,,,
+0104,京都,きょうと,,,
+0105,広島,ひろしま,,,
+0106,長崎,ながさき,,,
+0107,富士山,ふじさん,Mt. Fuji,富士山,núi Phú Sĩ
+0108,体,からだ,body,身体,cơ thể
+0109,背,せ／せい,height,身高,chiều cao
+0110,両手,りょうて,both hands,双手,hai tay
+0111,喉,のど,throat,喉咙,cổ họng
+0112,ひげ,,"beard, mustache",胡须,râu
+0113,運動,うんどう,exercise,运动,tập thể dục
+0114,ジョギング,,jog,慢跑,chạy bộ
+0115,血,ち,blood,血液,máu
+0116,熱,ねつ,fever,热度,nhiệt độ
+0117,体温計,たいおんけい,thermometer,体温计,nhiệt kế
+0118,具合,ぐあい,condition,状况,tình trạng
+0119,ストレス,,stress,压力,sự căng thẳng
+0120,アレルギー,,allergy,过敏,sự dị ứng
+0121,熱中症,ねっちゅうしょう,heatstroke,中暑,chứng say nắng
+0122,けが,,be injured,受伤,bị thương
+0123,保険証 （健康保険証）,ほけんしょう<br />（けんこうほけんしょう）,health insurance card,保险证<br />（健康保险证）,thẻ bảo hiểm y tế
+0124,予防接種,よぼうせっしゅ,vaccination,预防针接种,sự chủng ngừa
+0125,注射,ちゅうしゃ,inject,打针,tiêm vào
+0126,入院,にゅういん,be hospitalized,住院,nhập viện
+0127,お見舞い,おみまい,visiting someone who is ill,看望,sự thăm bệnh
+0128,退院,たいいん,be discharged,出院,xuất viện
+0129,背中,せなか,back,背部,lưng
+0130,髪,かみ,hair,头发,tóc
+0131,首,くび,neck,脖子,cổ
+0132,おなか,,stomach,肚子,bụng
+0133,指,ゆび,finger,手指,ngón tay
+0134,右手,みぎて,right hand,右手,tay phải
+0135,腕,うで,arm,手腕,cánh tay
+0136,心,こころ,"heart, mind",内心、心灵,tấm lòng
+0137,気持ち,きもち,feeling,感受；心情,"cảm xúc, cảm giác"
+0138,気分,きぶん,mood,心情,tâm trạng
+0139,楽しみ,たのしみ,looking forward,期待,sự háo hức
+0140,興味,きょうみ,interest,兴趣,hứng thú
+0141,チャレンジ,,challenge,挑战,thử thách
+0142,注意,ちゅうい②,be careful,谨慎,chú ý
+0143,遠慮,えんりょ,be reserved,客气,ngại
+0144,心配,しんぱい,worry,担心,lo lắng
+0145,考え,かんがえ,idea,想法、看法,"tư duy, tư tưởng"
+0146,意見,いけん,opinion,意见,ý kiến
+0147,反対,はんたい,be opposed,反对,phản đối
+0148,教育,きょういく,educate,教育,giáo dục
+0149,小学校,しょうがっこう,primary school,小学,trường cấp 1
+0150,中学校,ちゅうがっこう,junior high school,初中,trường cấp 2
+0151,高校／ 高等学校,こうこう／<br />こうとうがっこう,high school,高中,trường cấp 3
+0152,専門学校,せんもんがっこう,vocational school,专修学校,trường dạy nghề
+0153,小学生,しょうがくせい,primary school student,小学生,học sinh cấp 1
+0154,中学生,ちゅうがくせい,junior high school student,初中生,học sinh cấp 2
+0155,高校生,こうこうせい,high school student,高中生,học sinh cấp 3
+0156,大学生,だいがくせい,university student,大学生,sinh viên đại học
+0157,同級生,どうきゅうせい,classmate,同学,bạn cùng lớp
+0158,担任,たんにん,homeroom teacher,班主任,chủ nhiệm
+0159,校長,こうちょう,principal,校长,hiệu trưởng
+0160,入学試験,にゅうがくしけん,entrance examination,入学考试,kỳ thi tuyển sinh
+0161,入学,にゅうがく,enter school,入学,nhập học
+0162,卒業,そつぎょう,graduate,毕业,tốt nghiệp
+0163,出席,しゅっせき,attend,出席,tham dự
+0164,早退,そうたい,leave early,早退,về sớm
+0165,予習,よしゅう,prepare for a lesson,预习,chuẩn bị bài
+0166,復習,ふくしゅう,"review, revise",复习,ôn tập
+0167,テキスト,,text,教材,sách giáo khoa
+0168,数学,すうがく,mathematics,数学,môn Toán
+0169,発音,はつおん,pronounce,发音,phát âm
+0170,辞典,じてん,dictionary,辞典,tự điển
+0171,国語辞典,こくごじてん,Japanese dictionary,国语辞典,tự điển quốc ngữ
+0172,字,じ,"character, letter",字,chữ
+0173,文法,ぶんぽう,grammar,语法,ngữ pháp
+0174,試験,しけん,examination,考试,kỳ thi
+0175,答え,こたえ,answer,答案,câu trả lời
+0176,レポート／ リポート,,report,报告,bài báo cáo
+0177,講義,こうぎ,lecture,讲课,thuyết giảng
+0178,研究,けんきゅう,"research, study",研究,nghiên cứu
+0179,研究室,けんきゅうしつ,"laboratory, office",研究室,phòng nghiên cứu
+0180,専門,せんもん,specialty,专业,chuyên môn
+0181,成績証明書,せいせきしょうめいしょ,"transcript, copy of a student’s educational record",成绩单,bảng điểm
+0182,学費,がくひ,tuition fees,学费,học phí
+0183,学割,がくわり,student discount,学生优惠,sự giảm giá cho sinh viên
+0184,社会,しゃかい,society,社会,xã hội
+0185,市民,しみん,citizen,市民,cư dân thành phố
+0186,経済,けいざい,economy,经济,kinh tế
+0187,産業,さんぎょう,industry,产业,ngành sản xuất
+0188,生産,せいさん,produce,生产,sản xuất
+0189,工業,こうぎょう,manufacturing industry,工业,công nghiệp
+0190,工場,こうじょう,factory,工厂,nhà máy
+0191,機械,きかい,machinery,机器,máy móc
+0192,日本製,にほんせい,made in Japan,日本制造,sản xuất tại Nhật
+0193,貿易,ぼうえき,trade,贸易,thương mại
+0194,輸出,ゆしゅつ,export,出口,xuất khẩu
+0195,輸入,ゆにゅう,import,进口,nhập khẩu
+0196,政治,せいじ,politics,政治,chính trị
+0197,法律,ほうりつ,law,法律,pháp luật
+0198,規則,きそく,rule,规章（制度）,quy định
+0199,戦争,せんそう,be at war,战争,chiến tranh
+0200,人口,じんこう,population,人口,dân số
+0201,環境,かんきょう,environment,环境,môi trường
+0202,エコ （エコロジー）,,ecology,环保,vì môi trường
+0203,リサイクル,,recycle,回收利用,tái chế
+0204,地理,ちり,geography,地理,địa lý
+0205,世界,せかい,world,世界,thế giới
+0206,世界中,せかいじゅう,all over the world,全世界,toàn thế giới
+0207,国際社会,こくさいしゃかい,international community,国际社会,cộng đồng quốc tế
+0208,国内,こくない,domestic,国内,trong nước
+0209,都,と,metropolis,都,thủ đô
+0210,県,けん,prefecture,县,tỉnh
+0211,市,し,city,市,thành phố
+0212,市役所,しやくしょ,city office,市政府,ủy ban thành phố
+0213,区役所,くやくしょ,ward office,区政府,ủy ban quận
+0214,保健所,ほけんじょ／ほけんしょ,health center,卫生所,trạm y tế
+0215,大使館,たいしかん,embassy,大使馆,đại sứ quán
+0216,ＩＴ,アイティー,IT,信息技术,công nghệ thông tin
+0217,科学,かがく,science,科学,khoa học
+0218,技術,ぎじゅつ,technology / technique,技术；技艺,kỹ thuật
+0219,コンピューター／ コンピュータ,,computer,计算机,máy tính
+0220,ロボット,,robot,机器人,người máy
+0221,パソコン,,"personal computer, PC",电脑,máy tính cá nhân
+0222,キー,,key,按键,phím
+0223,ソフト,,software,软件,phần mềm
+0224,ネット （インターネット）,,Net (Internet),网络,mạng (internet)
+0225,サイト （ウェブサイト）,,site (website),网站,trang (mạng)
+0226,検索,けんさく,search,搜索,tìm kiếm
+0227,ダウンロード,,download,下载,tải về
+0228,パスワード,,password,密码,mật khẩu
+0229,アプリ,,app,应用软件,ứng dụng
+0230,充電,じゅうでん,charge,充电,sạc pin
+0231,携帯電話／ ケータイ,けいたいでんわ,mobile phone,手机,điện thoại di động
+0232,スマホ （スマートフォン）,,smartphone,智能手机,điện thoại thông minh
+0233,メール,,email,发邮件,gửi email
+0234,パート（パートタイム）,,part-time work,兼职,việc làm bán thời gian
+0235,バイト（アルバイト）,,part-time work,打工,việc làm thêm
+0236,履歴書,りれきしょ,"résumé, CV",简历,sơ yếu lý lịch
+0237,給料,きゅうりょう,salary,工资,lương
+0238,会議,かいぎ,"meeting, conference",会议,hội nghị
+0239,ミーティング,,meeting,会议,cuộc họp
+0240,残業,ざんぎょう,do overtime,加班,làm thêm giờ
+0241,公務員,こうむいん,civil servant,公务员,công chức
+0242,課長,かちょう,manager,科长,trưởng nhóm
+0243,部長,ぶちょう,general manager,主任,trưởng phòng
+0244,社長,しゃちょう,president,总经理,giám đốc
+0245,アナウンサー,,announcer,播音员,phát thanh viên
+0246,運転手,うんてんしゅ,driver,司机,tài xế
+0247,駅員,えきいん,station employee,站务员,nhân viên nhà ga
+0248,音楽家,おんがくか,musician,音乐家,nhạc sĩ
+0249,看護師,かんごし,nurse,护士,y tá
+0250,警官,けいかん,police officer,警察,cảnh sát
+0251,政治家,せいじか,politician,政治家,chính trị gia
+0252,店員,てんいん,sales clerk,店员,nhân viên cửa hàng
+0253,歯医者,はいしゃ,dentist,牙医,nha sĩ
+0254,駅前,えきまえ,in front of the station,车站前,khu vực trước ga
+0255,美術館,びじゅつかん,art gallery,美术馆,bảo tàng mỹ thuật
+0256,保育所,ほいくしょ／ほいくじょ,nursery school,托儿所,nhà trẻ
+0257,教会,きょうかい,church,教堂,nhà thờ
+0258,坂,さか,hill,坡,con dốc
+0259,郊外,こうがい,suburb,郊外,ngoại ô
+0260,田舎,いなか,countryside,乡下,vùng quê
+0261,神社,じんじゃ,shrine,神社,đền Thần đạo
+0262,交差点,こうさてん,"intersection, crossing",十字路口,ngã tư
+0263,美容院,びよういん,"beauty parlor, hairdresser&apos;s",美发店,tiệm làm tóc
+0264,カフェ,,café,咖啡馆,quán cà-phê
+0265,角,かど,corner,拐角,góc
+0266,床屋,とこや,barber,理发店,tiệm cắt tóc
+0267,コインランドリー,,"laundromat, launderette",自助洗衣房,tiệm giặt tự động
+0268,ＡＴＭ,エーティーエム,ATM,自动取款机,máy ATM
+0269,自転車置き場,じてんしゃおきば,bicycle parking space,自行车停车场,bãi để xe đạp
+0270,ポスト,,mailbox,邮筒,thùng thư
+0271,バス停,バスてい,bus stop,公交车站,trạm xe buýt
+0272,動物園,どうぶつえん,zoo,动物园,sở thú
+0273,自動販売機,じどうはんばいき,vending machine,自动售货机,máy bán hàng tự động
+0274,ガソリンスタンド,,gas/petrol station,加油站,cây xăng
+0275,寺,てら,temple,寺庙,chùa
+0276,スーパー （スーパーマーケット）,,supermarket,超市,siêu thị
+0277,駐車場,ちゅうしゃじょう,car park,停车场,bãi đậu xe
+0278,通り,とおり,street,路,con đường
+0279,コンビニ,,convenience store,便利店,cửa hàng tiện lợi
+0280,建物,たてもの,building,建筑物,tòa nhà
+0281,マンション,,condominium,公寓,căn hộ chung cư
+0282,門,もん,gate,大门,cổng
+0283,玄関,げんかん,entranceway,玄关,"gian ngoài, lối đi vào"
+0284,洗面所,せんめんじょ,washroom,洗手间,phòng rửa mặt
+0285,お手洗い,おてあらい,toilet,厕所,nhà vệ sinh
+0286,暖房,だんぼう,heater,暖气,máy sưởi
+0287,冷房,れいぼう,cooler,冷气,máy lạnh
+0288,ガス,,gas,煤气,ga
+0289,水道,すいどう,water supply,自来水,hệ thống cấp nước
+0290,電灯,でんとう,light,电灯,đèn điện
+0291,ビル,,building,大楼,cao ốc
+0292,事務所,じむしょ,office,办公室,văn phòng
+0293,案内所,あんないじょ,information office,问讯处,phòng hướng dẫn
+0294,戸,と,door,门,cửa
+0295,棚,たな,shelf,架子,kệ
+0296,引き出し,ひきだし,drawer,抽屉,ngăn kéo
+0297,ボタン,,button,按钮,nút bấm
+0298,エアコン,,air conditioner,空调,máy điều hòa
+0299,リビング （リビングルーム）,,living room,起居室,phòng khách
+0300,カーテン,,curtain,窗帘,màn cửa
+0301,リモコン,,remote control,遥控器,thiết bị điều khiển từ xa
+0302,ピアノ,,piano,钢琴,dương cầm
+0303,押し入れ,おしいれ,closet,壁橱,tủ đựng đồ
+0304,壁,かべ,wall,墙,tường
+0305,布団,ふとん,futon,被子、褥子,bộ chăn nệm
+0306,畳,たたみ,tatami,榻榻米,chiếu Nhật
+0307,会議室,かいぎしつ,meeting room,会议室,phòng họp
+0308,屋上,おくじょう,rooftop,屋顶,sân thượng
+0309,階段,かいだん,stairs,楼梯,thang bộ
+0310,受付,うけつけ,reception,接待处,quầy tiếp tân
+0311,エスカレーター,,escalator,自动扶梯,thang cuốn
+0312,生活,せいかつ,live,生活,sống
+0313,家庭,かてい,family,家庭,gia đình
+0314,習慣,しゅうかん,habit,习惯,thói quen
+0315,支度,したく,get ready,准备,chuẩn bị
+0316,世話,せわ,care,照顾,sự chăm sóc
+0317,用,よう,"business, something to do",事情,"việc, chuyện"
+0318,用事,ようじ,"business, something to do",事情,"công việc, công chuyện"
+0319,留守,るす,being away,不在家,sự vắng mặt
+0320,寝坊,ねぼう,oversleep,睡过头,ngủ quên
+0321,忘れ物,わすれもの,forgotten item,遗忘物品,đồ để quên
+0322,日記,にっき,diary,日记,nhật ký
+0323,遊び,あそび,play,游戏,trò chơi
+0324,おもちゃ,,toy,玩具,đồ chơi
+0325,ペット,,pet,宠物,thú nuôi
+0326,毛,け,hair,毛发,lông
+0327,（お）湯,（お）ゆ,hot water,热水,nước nóng
+0328,鏡,かがみ,mirror,镜子,gương
+0329,道具,どうぐ,tool,用具,dụng cụ
+0330,ベビーカー,,stroller,婴儿车,xe đẩy em bé
+0331,電気代,でんきだい,electricity bill,电费,tiền điện
+0332,カード,,card,卡,thẻ
+0333,暗証番号,あんしょうばんごう,"PIN, personal identification number",密码,số mật khẩu
+0334,カタログ,,catalog,商品目录,ca-ta-lô
+0335,セール （バーゲンセール）,,sale (bargain sale),大减价,đợt bán hạ giá
+0336,売り場,うりば,sales floor / area,卖场,quầy hàng
+0337,品物,しなもの,goods,商品,hàng hóa
+0338,値段,ねだん,price,价格,giá cả
+0339,お釣り,おつり,change,找零,tiền thừa hoàn lại
+0340,レジ,,"cash register, checkout counter",收银机、收银台,"máy tính tiền, quầy thu ngân"
+0341,レシート,,receipt,收据,hóa đơn
+0342,チャージ,,charge,充值,nạp thêm
+0343,段ボール,だんボール,cardboard box,纸板箱,thùng cạc-tông
+0344,ごみ,,trash,垃圾,rác
+0345,ごみ箱,ごみばこ,trash can,垃圾桶,thùng rác
+0346,掃除機,そうじき,vacuum cleaner,吸尘器,máy hút bụi
+0347,洗濯機,せんたくき,washing machine,洗衣机,máy giặt
+0348,タオル,,towel,毛巾,khăn lau
+0349,電池,でんち,battery,电池,pin
+0350,シャンプー,,shampoo,洗发水,dầu gội đầu
+0351,トイレットペーパー,,toilet paper,厕纸,giấy vệ sinh
+0352,カッター,,cutter,美工刀,dao rọc giấy
+0353,消しゴム,けしゴム,eraser,橡皮,"gôm, tẩy"
+0354,シャーペン （シャープペンシル）,,mechanical pencil,自动铅笔,bút chì bấm
+0355,セロテープ,,Scotch tape,透明胶带,băng keo
+0356,はさみ,,scissors,剪刀,kéo
+0357,ホッチキス,,stapler,订书机,cái dập ghim
+0358,ヘッドホン,,headphones,头戴式耳机,tai nghe
+0359,イヤホン,,earphones,耳机,tai nghe trong
+0360,ＣＤ,シーディー,CD,光盘,dĩa CD
+0361,ボール,,ball,球,quả bóng
+0362,食事,しょくじ,have a meal,吃饭,dùng bữa
+0363,お昼,おひる,lunch,午饭,bữa trưa
+0364,ごちそう,,treat,请客,thết đãi
+0365,味,あじ,taste,味道,vị
+0366,食料品,しょくりょうひん,groceries,食品,thực phẩm
+0367,アルコール,,alcohol,酒精,cồn
+0368,しょうゆ,,soy sauce,酱油,nước tương
+0369,ジャム,,jam,果酱,mứt
+0370,トースター,,toaster,烤面包机,máy nướng bánh mì
+0371,電子レンジ,でんしレンジ,microwave oven,微波炉,lò vi sóng
+0372,米,こめ,rice,大米,gạo
+0373,みそ,,miso,味噌（日式大豆酱）,tương miso
+0374,チーズ,,cheese,芝士,phô-mai
+0375,ハム,,ham,火腿,giăm-bông
+0376,カップラーメン,,cup noodles,杯装泡面,mì ly
+0377,みそ汁,みそしる,miso soup,味噌汤（日式大酱汤）,súp miso
+0378,サラダ,,salad,沙拉,xa-lát
+0379,ハンバーグ,,hamburger steak,汉堡肉饼,bít-tết Hamburg
+0380,ケーキ,,cake,蛋糕,bánh ngọt
+0381,チョコレート,,chocolate,巧克力,sô-cô-la
+0382,日本酒,にほんしゅ,"rice wine, sake",日本酒,rượu Nhật
+0383,ペットボトル,,PET bottle,塑料瓶,chai nhựa
+0384,紙パック,かみパック,paper carton,纸盒,hộp giấy
+0385,上着,うわぎ,jacket,外套,áo khoác
+0386,下着,したぎ,underwear,内衣,đồ lót
+0387,着物,きもの,kimono,和服,ki-mô-nô
+0388,手袋,てぶくろ,gloves,手套,găng tay
+0389,指輪,ゆびわ,ring,戒指,nhẫn
+0390,ポケット,,pocket,口袋,"túi (quần, áo)"
+0391,コート,,coat,大衣,áo bành tô
+0392,スーツ,,suit,西装,bộ vét
+0393,セーター,,sweater,毛衣,áo len
+0394,靴下,くつした,socks,袜子,"vớ, tất"
+0395,サンダル,,sandals,凉鞋,xăng-đan
+0396,スリッパ,,slippers,拖鞋,dép đi trong nhà
+0397,スニーカー,,sneakers,运动鞋,giày thể thao
+0398,アクセサリー,,accessory,饰品,phụ kiện
+0399,イエロー,,yellow,黄色,màu vàng
+0400,オレンジ,,orange,橘黄色、橙黄色,màu cam
+0401,グリーン,,green,绿色,màu xanh lá
+0402,グレー,,grey,灰色,màu xám
+0403,ゴールド,,gold,金色,màu vàng kim
+0404,シルバー,,silver,银色,màu bạc
+0405,ピンク,,pink,粉红色,màu hồng
+0406,ブラック,,black,黑色,màu đen
+0407,ブルー,,blue,蓝色,màu xanh dương
+0408,ベージュ,,beige,米黄色,màu be
+0409,ホワイト,,white,白色,màu trắng
+0410,レッド,,red,红色,màu đỏ
+0411,警察,けいさつ,police,警察,cảnh sát
+0412,交番,こうばん,police box,派出所,đồn cảnh sát
+0413,泥棒,どろぼう,robber,小偷,kẻ trộm
+0414,すり,,pickpocket,扒手,tên móc túi
+0415,事故,じこ,accident,事故,tai nạn
+0416,火事,かじ,fire,火灾、失火,vụ cháy
+0417,非常口,ひじょうぐち,emergency exit,紧急出口,cửa thoát hiểm
+0418,消火器,しょうかき,fire extinguisher,灭火器,bình chữa cháy
+0419,救急車,きゅうきゅうしゃ,ambulance,救护车,xe cấp cứu
+0420,地震,じしん,earthquake,地震,động đất
+0421,震度,しんど,earthquake intensity,地震烈度,cường độ địa chấn
+0422,台風,たいふう,typhoon,台风,bão
+0423,懐中電灯,かいちゅうでんとう,"flashlight, torch",手电筒,đèn pin
+0424,お巡りさん,おまわりさん,policeman,巡警,nhân viên cảnh sát
+0425,１１０番,ひゃくとおばん,phone 110 and report (something) to the police,打110报警,gọi 110 báo cảnh sát
+0426,１１９番,ひゃくじゅうきゅうばん,119,119,số 119
+0427,文化,ぶんか,culture,文化,văn hóa
+0428,歴史,れきし,history,历史,lịch sử
+0429,小説,しょうせつ,novel,小说,tiểu thuyết
+0430,文学,ぶんがく,literature,文学,văn học
+0431,コンサート,,concert,音乐会,buổi hòa nhạc
+0432,展覧会,てんらんかい,exhibition,展览,buổi triển lãm
+0433,（お）花見,（お）はなみ,cherry-blossom viewing,赏花,sự ngắm hoa
+0434,桜,さくら,cherry blossom,樱花,anh đào
+0435,ゴールデンウィーク,,Golden Week,黄金周,kỳ nghỉ Tuần Lễ Vàng
+0436,（お）正月,（お）しょうがつ,New Year,新年,Tết (dương lịch)
+0437,（お）祭り,（お）まつり,festival,庙会、节庆活动,lễ hội
+0438,運動会,うんどうかい,"sports day, athletic meet",运动会,hội thao
+0439,趣味,しゅみ,hobby,兴趣爱好,sở thích
+0440,アニメ （アニメーション）,,"anime, animation",动漫,phim hoạt hình
+0441,イラスト,,illustration,插图,tranh minh họa
+0442,人形,にんぎょう,doll,人偶,búp bê
+0443,踊り,おどり,dance,舞蹈,điệu múa
+0444,見物,けんぶつ,sightsee,游览参观,tham quan
+0445,景色,けしき,scenery,景色,phong cảnh
+0446,スキー場,スキーじょう,ski area,滑雪场,khu trượt tuyết
+0447,旅館,りょかん,Japanese inn,旅馆,lữ quán
+0448,スーツケース,,suitcase,行李箱,va-li
+0449,（お）土産,（お）みやげ,souvenir,特产、纪念品,quà lưu niệm
+0450,クリスマス,,Christmas,圣诞节,Giáng sinh
+0451,ゲーム,,game,游戏,trò chơi điện tử
+0452,漫画,まんが,"manga, comic",漫画,truyện tranh
+0453,カラオケ,,karaoke,卡拉OK,karaoke
+0454,ダンス,,dance,舞蹈,sự nhảy múa
+0455,釣り,つり,fishing,钓鱼,sự câu cá
+0456,サッカー,,"soccer, football",足球,bóng đá
+0457,柔道,じゅうどう,judo,柔道,võ judo
+0458,水泳,すいえい,swimming,游泳,môn bơi lội
+0459,スキー,,skiing,滑雪,môn trượt tuyết
+0460,スケート,,skating,滑冰,môn trượt băng
+0461,テニス,,tennis,网球,quần vợt
+0462,野球,やきゅう,baseball,棒球,bóng chày
+0463,ゴルフ,,golf,高尔夫,môn đánh gôn
+0464,案内,あんない,guide someone,向导、引路,hướng dẫn
+0465,連絡,れんらく,contact,联系,liên lạc
+0466,天気予報,てんきよほう,weather forecast,天气预报,dự báo thời tiết
+0467,放送,ほうそう,broadcast,播出,phát sóng
+0468,番組,ばんぐみ,program,节目,chương trình
+0469,お知らせ,おしらせ,information,通知,thông báo
+0470,パンフレット,,pamphlet,小册子、宣传册,tờ quảng cáo
+0471,ファックス,,fax,传真,bản fax
+0472,電報,でんぽう,telegram,电报,bức điện tín
+0473,航空便,こうくうびん,airmail,航空邮件、空运,bưu chính hàng không
+0474,計画,けいかく,plan,规划、计划,lập kế hoạch
+0475,予定,よてい,plan,准备、计划,dự định
+0476,予定表,よていひょう,schedule,计划表,lịch trình
+0477,予約,よやく,reserve,预订,đặt trước
+0478,準備,じゅんび,prepare,准备、筹备,chuẩn bị
+0479,用意,ようい,prepare,准备、预备,"chuẩn bị, sắp xếp"
+0480,利用,りよう,use,利用,sử dụng
+0481,キャンセル,,cancel,取消,hủy bỏ
+0482,中止,ちゅうし,cancel,中止,hủy
+0483,経験,けいけん,experience,经历,"kinh qua, trải qua"
+0484,失敗,しっぱい,fail,失败,thất bại
+0485,説明,せつめい,explain,说明、解释,giải thích
+0486,理由,りゆう,reason,理由,lý do
+0487,訳,わけ,reason,缘由,nguyên cớ
+0488,原因,げんいん,cause,原因,nguyên nhân
+0489,仕方,しかた,"way, how to do",办法,cách làm
+0490,やり方,やりかた,"way, how to do",办法,cách làm
+0491,翻訳,ほんやく,translate,翻译,dịch
+0492,チェック,,check,检查,kiểm tra
+0493,故障,こしょう,break down,故障,hư hỏng
+0494,問題,もんだい,problem,问题,vấn đề
+0495,場合,ばあい,"event, case",情况,trường hợp
+0496,関係,かんけい,relationship,关系,quan hệ
+0497,都合,つごう,convenience,方便、合适,sự thuận tiện
+0498,機会,きかい,opportunity,机会,cơ hội
+0499,こと,,thing,事情,chuyện
+0500,普通,ふつう①,normal,普通、正常,sự bình thường
+0501,別,べつ,separate,另外、不同,khác
+0502,片方,かたほう,one (of two),（两个中的）一个、一只,một (trong 2 thứ)
+0503,両方,りょうほう,both,两者、双方,cả hai thứ
+0504,住所,じゅうしょ,address,住址,địa chỉ
+0505,近所,きんじょ,neighborhood,邻居、附近,hàng xóm
+0506,場所,ばしょ,location,地方,địa điểm
+0507,置き場,おきば,place (for),放置处,chỗ đặt
+0508,会場,かいじょう,venue,会场,hội trường
+0509,席,せき,seat,座位,chỗ ngồi
+0510,試合,しあい,"game, match",比赛,trận thi đấu
+0511,スクリーン,,screen,屏幕,màn hình
+0512,ガラス,,glass,玻璃,kính
+0513,昼休み,ひるやすみ,lunch break,午休,giờ nghỉ trưa
+0514,ベル,,bell,铃,chuông
+0515,音,おと,"sound, noise",声音,"âm thanh, tiếng động"
+0516,匂い／臭い,におい,smell,气味；臭味,mùi
+0517,火,ひ,fire,火,lửa
+0518,光,ひかり,light,光,ánh sáng
+0519,力,ちから,power,力气、力量,sức lực
+0520,格好,かっこう,appearance,打扮,sự ăn mặc
+0521,ヘアスタイル,,hairstyle,发型,kiểu tóc
+0522,タイプ,,type,种类,loại
+0523,西洋,せいよう,the West,西方,phương Tây
+0524,よさ,,goodness,好处,cái hay
+0525,夢,ゆめ,dream,梦；梦想,giấc mơ / ước mơ
+0526,隅,すみ,corner,角落,góc
+0527,真ん中,まんなか,middle,正中间,chính giữa
+0528,間,あいだ,between,之间,khoảng cách
+0529,辺,へん,area,附近,khu vực
+0530,方,ほう,toward,方向,phía
+0531,周り,まわり,around,周围,chung quanh
+0532,遠く,とおく,far away,远处,phía xa
+0533,右側,みぎがわ,right side,右侧,bên phải
+0534,あっち,,over there,那边,bên kia
+0535,こっち,,here,这边,bên này
+0536,そっち,,there,那边,bên đó
+0537,どっち,,"which, where",哪边、哪个,"bên nào, cái nào"
+0538,以上,いじょう,or more,以上,trên
+0539,以下,いか,or less,以下,dưới
+0540,以外,いがい,apart from,以外,ngoài
+0541,以内,いない,within,以内,trong vòng
+0542,うち,,"between, among",内、中,trong
+0543,倍,ばい,twice,（两）倍,gấp đôi
+0544,多く,おおく,many,许多,nhiều
+0545,重さ,おもさ,weight,重量,độ nặng
+0546,高さ,たかさ,height,高度,độ cao
+0547,長さ,ながさ,length,长度,chiều dài
+0548,広さ,ひろさ,area,宽度、广度,chiều rộng
+0549,このくらい,,about this (size),这种（大小）,cỡ này
+0550,点,てん,dot / point,点；分数,cái chấm / điểm số
+0551,線,せん,line,线,đường
+0552,形,かたち,shape,形状,hình dáng
+0553,縦,たて,vertical,纵向,dọc
+0554,横,よこ,width,横向,ngang
+0555,表,おもて,front,表面、正面,mặt trước
+0556,裏,うら,back,背面,mặt sau
+0557,日,ひ②,sun,太阳,Mặt trời
+0558,月,つき,moon,月亮,Mặt trăng
+0559,星,ほし,star,星星,sao
+0560,雲,くも,cloud,云,mây
+0561,曇り,くもり,cloudy,多云,trời mây mù
+0562,空気,くうき,air,空气,không khí
+0563,季節,きせつ,season,季节,mùa
+0564,梅雨,つゆ,rainy season,梅雨,mùa mưa
+0565,島,しま,island,岛,đảo
+0566,海岸,かいがん,seashore,海岸,"bờ biển, bãi biển"
+0567,湖,みずうみ,lake,湖,hồ
+0568,森,もり,forest,森林,rừng rậm
+0569,林,はやし,woods,树林,rừng
+0570,枝,えだ,branch,树枝,cành
+0571,葉／葉っぱ,は／はっぱ,leaf,叶子,lá
+0572,草,くさ,grass,草,cỏ
+0573,石,いし,stone,石,đá
+0574,砂,すな,sand,沙子,cát
+0575,小鳥,ことり,small bird,小鸟,chim nhỏ
+0576,虫,むし,insect,虫子,côn trùng
+0577,あげる,,give,给,"cho, tặng"
+0578,上げる,あげる,raise,举起,"giơ lên, nâng lên"
+0579,上がる,あがる,"increase, rise",上升,tăng
+0580,下げる,さげる,lower,降低,hạ xuống
+0581,下がる,さがる,reduce,下降,giảm
+0582,ある,,have,来,có
+0583,急ぐ,いそぐ,hurry,快、赶紧,"gấp lên, mau lên"
+0584,要る,いる,need,需要,cần
+0585,写す,うつす,take (a picture) / copy,拍摄；抄写,chụp (ảnh) / sao chép
+0586,選ぶ,えらぶ,choose,挑选,chọn
+0587,送る,おくる,send / drive,发送；送行,gửi / đưa đi
+0588,遅れる,おくれる,be late / be delayed,迟到；延误,muộn / chậm trễ
+0589,起こす,おこす①,wake up,叫醒,đánh thức
+0590,押す,おす,"press, push",按下、压,"nhấn, đẩy"
+0591,落とす,おとす,drop / lose,使掉下；丢失,đánh rơi / làm mất
+0592,落ちる,おちる,drop / fail,掉落；落榜,rơi xuống / thi trượt
+0593,踊る,おどる,dance,跳舞,nhảy múa
+0594,驚く,おどろく,be surprised,惊吓,giật mình
+0595,思う,おもう,think,认为、觉得,nghĩ
+0596,折る,おる,fold / break,折叠；折断,gấp / bẻ
+0597,折れる,おれる,be broken,折断,bị gãy
+0598,変える,かえる,change,改变,thay đổi
+0599,変わる,かわる,change,发生改变,đổi khác
+0600,掛ける,かける①,hang,挂上,treo
+0601,勝つ,かつ,win,赢,thắng
+0602,負ける,まける,lose,输,thua
+0603,かぶる,,put on,戴上,đội
+0604,渇く,かわく,be thirsty,口渴,khô
+0605,頑張る,がんばる,try hard,努力、加油,cố gắng
+0606,聞こえる,きこえる,be heard,听得见,nghe được
+0607,見える,みえる,be seen,看得见,thấy được
+0608,決める,きめる,decide,决定,quyết định
+0609,決まる,きまる,be decided,决定,được ấn định
+0610,気を付ける,きをつける,be careful,小心,"lưu ý, cẩn thận"
+0611,くれる,,give (me),给（我）,"(người khác) cho, tặng (mình)"
+0612,混む,こむ,be crowded,拥挤,đông
+0613,壊す,こわす,break,弄坏,phá hủy
+0614,壊れる,こわれる,be broken,坏,bị hư hỏng
+0615,探す／捜す,さがす,look for,寻找,tìm
+0616,（傘を）差す,（かさを）さす,put up (an umbrella),撑（伞）,giương (dù)
+0617,叱る,しかる,scold,斥责,la mắng
+0618,調べる,しらべる,"check, look up",调查,tra cứu
+0619,（おなかが）すく,,become hungry,（肚子）饿,đói (bụng)
+0620,捨てる,すてる,throw away,扔掉,vứt
+0621,倒れる,たおれる,fall,倒,đổ xuống
+0622,建てる,たてる,build,建造,xây
+0623,つく,,turn on,亮起,(đèn) sáng
+0624,勤める,つとめる,work,工作、任职,làm việc
+0625,釣る,つる,fish,钓,câu (cá)
+0626,連れて行く,つれていく,take,带……去,đưa đi
+0627,連れて来る,つれてくる,bring,带……来,đưa đến
+0628,できる,,be completed,完成,xong
+0629,手伝う,てつだう,help,帮忙,giúp đỡ
+0630,通る,とおる,pass,通过,qua lại
+0631,届ける,とどける,notify,申报、报告,trình báo
+0632,泊まる,とまる,stay,投宿,nghỉ lại
+0633,止める,とめる,"stop, turn off",停、关,"tắt, dừng"
+0634,取り替える,とりかえる,exchange,更换、交换,đổi lại
+0635,直す,なおす,"correct, fix",修改、修理,sửa
+0636,直る,なおる,"be fixed, be corrected",修好、改正,được sửa
+0637,治る,なおる,"be cured, be healed",痊愈,khỏi
+0638,泣く,なく,cry,哭泣,khóc
+0639,なくす,,lose,弄丢,làm mất
+0640,投げる,なげる,throw,投,ném
+0641,並べる,ならべる,line up,排列、摆放,xếp thành hàng
+0642,並ぶ,ならぶ,"queue, line up",排队,xếp hàng
+0643,慣れる,なれる,get used to,习惯,quen
+0644,脱ぐ,ぬぐ,take off,脱,cởi
+0645,塗る,ぬる,spread,涂,phết
+0646,登る,のぼる,climb,攀爬,leo
+0647,乗り換える,のりかえる,change (trains etc.),换乘,"đổi (tàu, xe)"
+0648,運ぶ,はこぶ,"carry, bring",搬运,mang vác
+0649,始める,はじめる,start,开始,bắt đầu
+0650,払う,はらう,pay,支付,trả (tiền)
+0651,引っ越す,ひっこす,move,搬迁,chuyển (nhà)
+0652,開く,ひらく,open (used both as a transitive and intransitive verb),打开（既可作自动词，又可作他动词。）,mở (dùng như tự động từ hoặc tha động từ)
+0653,拾う,ひろう,pick up,捡,nhặt
+0654,吹く,ふく,blow,吹,thổi
+0655,太る,ふとる,get fat,长胖,béo ra
+0656,痩せる,やせる,lose weight,瘦,gầy đi
+0657,曲がる,まがる,turn,弯、转弯,rẽ
+0658,間違える,まちがえる,make a mistake,弄错,nhầm lẫn
+0659,迎える,むかえる,meet,迎接,đón
+0660,もらう,,get,得到,"nhận, được cho"
+0661,焼く,やく,"bake, grill",烤,nướng
+0662,焼ける,やける,be cooked,做熟,được nướng
+0663,やむ,,stop,停止,"tạnh, dừng"
+0664,やめる,,"stop, give up",放弃、取消,"bỏ cuộc, không làm nữa"
+0665,やる①,,do,做,làm
+0666,汚れる,よごれる,be dirty,弄脏,bị bẩn
+0667,別れる,わかれる,separate,分别,tạm biệt
+0668,渡る,わたる,cross,过,băng qua
+0669,笑う,わらう,laugh,笑,cười
+0670,割れる,われる,break,破碎,bị vỡ
+0671,合う,あう,fit,合适,vừa
+0672,空く,あく,be empty,变空,trống
+0673,集める,あつめる,collect,收集、募集,"thu thập, góp nhặt"
+0674,集まる,あつまる,gather,聚集,"tập hợp, tập trung"
+0675,謝る,あやまる,apologize,道歉,xin lỗi
+0676,安心する,あんしんする,feel relieved,放心,an tâm
+0677,生きる,いきる,live,活、生活,sống
+0678,いじめる,,bully,欺负,bắt nạt
+0679,祈る,いのる,pray,祈祷,cầu nguyện
+0680,植える,うえる,plant,种植,trồng
+0681,受ける,うける,get,接受,tiếp nhận
+0682,動く,うごく,move / work,动；运转,chuyển động / hoạt động
+0683,打つ,うつ,hit,打、撞,đập
+0684,移る,うつる,move,移动,được chuyển đi
+0685,うつる,,be transmitted,传染,lây lan
+0686,起こす,おこす②,cause,引起,gây ra
+0687,行う,おこなう,hold,举行,tổ chức
+0688,怒る,おこる,get angry,生气,nổi giận
+0689,（お）世話になる,（お）せわになる,be taken care of,承蒙照顾,được giúp đỡ
+0690,思い出す,おもいだす,remember,想起,nhớ về
+0691,下りる,おりる,go down,下降,đi xuống
+0692,掛ける,かける②,cause (worry),使承受、使经受,"gây ra, làm ra"
+0693,飾る,かざる,decorate,装饰,trang trí
+0694,片付ける,かたづける,tidy up,收拾,dọn dẹp
+0695,かむ,,"chew, bite",咬、嚼,"nhai, cắn"
+0696,通う,かよう,"go, commute",上学、通勤,đi lại đều đặn
+0697,乾く,かわく,dry,干燥,khô
+0698,考える,かんがえる,think,想、考虑,suy nghĩ
+0699,気が付く,きがつく,notice,注意到,nhận ra
+0700,比べる,くらべる,compare,比较,so sánh
+0701,（日が）暮れる,（ひが）くれる,(the sun) set,（太阳）下山,(trời) tối
+0702,腰を掛ける,こしをかける,sit down,坐下,ngồi xuống
+0703,騒ぐ,さわぐ,make a noise,吵闹,làm ồn
+0704,触る,さわる,touch,触摸,chạm
+0705,知らせる,しらせる,inform,通知,"thông báo, cho biết"
+0706,知り合う,しりあう,get acquainted,认识,quen nhau
+0707,過ぎる,すぎる,pass,超过,quá
+0708,すく,,become less crowded,空,vắng
+0709,進む,すすむ,move forward,前进,tiến tới
+0710,滑る,すべる,slip,打滑、滑动,trượt
+0711,済む,すむ,finish,结束、了结,xong
+0712,育てる,そだてる,"bring up, grow",养育、培育,"nuôi dạy, trồng (hoa)"
+0713,足す,たす,add,添加,thêm
+0714,訪ねる,たずねる,visit,拜访,thăm
+0715,尋ねる,たずねる,ask,询问、打听,hỏi
+0716,立てる,たてる,stand / make (a plan),立；制定,dựng / lập
+0717,楽しむ,たのしむ,enjoy,享受,thưởng thức
+0718,頼む,たのむ,ask,委托、请求,nhờ vả
+0719,足りる,たりる,be enough,足够,có đủ
+0720,捕まえる,つかまえる,catch,抓住、逮捕,bắt
+0721,付ける,つける,attach,安上、装上,gắn
+0722,伝える,つたえる,convey,告诉、转达,"bày tỏ, truyền đạt"
+0723,続ける,つづける,continue,持续,tiếp tục
+0724,続く,つづく,continue,继续、持续,nối tiếp
+0725,包む,つつむ,wrap,包、裹,"gói, bọc lại"
+0726,連れる,つれる,take,带,dẫn theo
+0727,届く,とどく,arrive,到达,(vật) đến nơi
+0728,なくなる,,"run out, be gone, disappear",消失、没了,"không còn, hết, bị mất"
+0729,亡くなる,なくなる,die,死亡,"mất, qua đời"
+0730,鳴る,なる,ring,响,"reng, kêu"
+0731,逃げる,にげる,escape,逃,chạy trốn
+0732,似る,にる,look like,像,giống
+0733,盗む,ぬすむ,steal,偷盗,lấy trộm
+0734,ぬれる,,get wet,淋湿,ướt
+0735,眠る,ねむる,sleep,睡觉,ngủ
+0736,残る,のこる,be left,留下、残留,còn dư
+0737,測る／量る／計る,はかる,measure,测量,"cân, đo"
+0738,貼る,はる,stick,贴,dán
+0739,晴れる,はれる,be clear,放晴,có nắng
+0740,曇る,くもる,be cloudy,天阴,có mây
+0741,冷える,ひえる,get cold,冰镇,được làm lạnh
+0742,光る,ひかる,shine,发光,chiếu sáng
+0743,引く,ひく,pull / draw,拉；画,kéo / vạch
+0744,びっくりする,,be surprised,惊吓,giật mình
+0745,増える,ふえる,increase,增加,tăng lên
+0746,踏む,ふむ,step on,踩,"giẫm, đạp"
+0747,褒める,ほめる,praise,表扬,khen
+0748,間に合う,まにあう,be in time,赶上,kịp giờ
+0749,回る,まわる,go round,绕着转,vòng quanh
+0750,磨く,みがく,polish,擦,đánh bóng
+0751,見付ける,みつける,find,找到,tìm thấy
+0752,見付かる,みつかる,be found,找到,được tìm thấy
+0753,向かう,むかう,head,前往,đi về hướng
+0754,戻る,もどる,return,返回,quay lại
+0755,役に立つ,やくにたつ,be useful,有用,có ích
+0756,辞める,やめる,quit,辞职、离开,nghỉ (việc)
+0757,やる②,,give,给,cho
+0758,揺れる,ゆれる,"shake, sway",摇晃,rung lắc
+0759,呼ぶ,よぶ,call,叫、招呼,gọi
+0760,寄る,よる,stop by,顺便去,ghé
+0761,喜ぶ,よろこぶ,be happy,高兴,vui mừng
+0762,沸かす,わかす,boil,烧开,đun sôi
+0763,沸く,わく,boil,沸腾,sôi
+0764,渡す,わたす,"give, hand",交给,đưa
+0765,うれしい,,happy,开心的,vui
+0766,悲しい,かなしい,sad,悲伤的,buồn
+0767,おかしい,,funny,可笑的,buồn cười
+0768,怖い,こわい,scared,可怕的、害怕的,đáng sợ
+0769,寂しい,さびしい,lonely,孤独的,"cô đơn, buồn"
+0770,恥ずかしい,はずかしい,embarrassed,难为情的,"ngượng, mắc cỡ"
+0771,うまい①,,good,美味的,ngon
+0772,まずい,,bad-tasting,难吃的,dở
+0773,苦い,にがい,bitter,苦的,đắng
+0774,ぬるい,,lukewarm,不冷不热的,nguội
+0775,眠い,ねむい,sleepy,困倦的,buồn ngủ
+0776,気分が悪い,きぶんがわるい,feel sick,不舒服的,không khỏe
+0777,浅い,あさい,shallow,浅的,nông
+0778,深い,ふかい,deep,深的,sâu
+0779,堅い／固い／硬い,かたい,hard,硬的,cứng
+0780,柔らかい／軟らかい,やわらかい,soft,软的,mềm
+0781,細かい,こまかい,fine,零碎的、小的,"nhỏ, nhuyễn"
+0782,美しい,うつくしい,beautiful,美丽的,đẹp
+0783,うまい②,,good,拿手的,"hay, giỏi"
+0784,かっこいい,,cool,酷帅的,"đẹp, hợp thời trang"
+0785,素晴らしい,すばらしい,wonderful,绝佳的,tuyệt vời
+0786,正しい,ただしい,correct,正确的,đúng
+0787,優しい,やさしい,kind,温柔的、体贴的,hiền hậu
+0788,よろしい,,good,好的,"được, tốt"
+0789,汚い,きたない,dirty,脏的,bẩn
+0790,ひどい,,terrible,极差的,tồi tệ
+0791,厳しい,きびしい,severe,严格的,khắt khe
+0792,すごい,,"amazing, terrible",厉害的,"tuyệt vời, kinh khủng"
+0793,珍しい,めずらしい,rare,珍奇的、罕见的,hiếm
+0794,安心,あんしん,relieved,放心的,yên tâm
+0795,心配,しんぱい,anxious,担心的,"bận tâm, đáng lo"
+0796,安全,あんぜん,safe,安全的,an toàn
+0797,危険,きけん,dangerous,危险的,nguy hiểm
+0798,いっぱい,,full,满的,"no, đầy"
+0799,簡単,かんたん,easy,简单的,đơn giản
+0800,急,きゅう,steep / sudden,陡峭的；突然的,dốc / đột ngột
+0801,残念,ざんねん,"regrettable, unfortunate",遗憾的、可惜的,đáng tiếc
+0802,自由,じゆう,free,自由的,tự do
+0803,十分,じゅうぶん,enough,足够的,đủ
+0804,親切,しんせつ,kind,亲切的,tử tế
+0805,大事,だいじ,important,重要的,quan trọng
+0806,駄目,だめ,"no good, impossible",不行的、不可以的,không được
+0807,丁寧,ていねい,"polite, careful",有礼貌的、细心的,"lịch sự, chu đáo"
+0808,特別,とくべつ,special,特别的,đặc biệt
+0809,熱心,ねっしん,enthusiastic,积极的、热情的,nhiệt tình
+0810,必要,ひつよう,necessary,必要的,cần thiết
+0811,複雑,ふくざつ,complicated,复杂的,phức tạp
+0812,不便,ふべん,inconvenient,不方便的,bất tiện
+0813,変,へん,strange,奇怪的,"bất thường, lạ"
+0814,真面目,まじめ,serious,认真的,nghiêm túc
+0815,真っすぐ,まっすぐ,straight,笔直的,thẳng
+0816,無理,むり,impossible,难以办到的,bất khả thi
+0817,盛ん,さかん,thriving,盛行的、热烈的,"thịnh hành, mạnh"
+0818,邪魔,じゃま,"in the way, annoying",碍事的,vướng víu
+0819,確か,たしか,certain,确凿的,xác thực
+0820,適当,てきとう,suitable,恰当的,thích hợp
+0821,立派,りっぱ,magnificent,宏伟的、杰出的,tráng lệ
+0822,国際的,こくさいてき,international,国际性的,có tính quốc tế
+0823,この間,このあいだ,the other day,前几天,hôm trước
+0824,さっき,,a while ago,刚才,lúc nãy
+0825,たった今,たったいま,just now,刚刚,vừa mới
+0826,最近,さいきん,recently,最近,gần đây
+0827,この頃,このごろ,these days,这阵子,dạo này
+0828,これから,,from now,接着、今后,từ bây giờ
+0829,今度,こんど,"shortly, soon",将要,sắp tới
+0830,もうすぐ,,soon,将要,sắp
+0831,しばらく,,for a while,片刻地、许久地,trong một lúc
+0832,ずっと①,,all the time,一直地,suốt
+0833,そろそろ,,soon,就快,sắp sửa
+0834,とうとう,,finally,终究,sau cùng
+0835,やっと,,finally,总算,cuối cùng
+0836,なかなか（～ない）,,(not) readily,（不）简单、难以,mãi mà (không ~)
+0837,非常に,ひじょうに,very,非常地,cực kỳ
+0838,ずいぶん,,really,很,"quá mức, khá nhiều"
+0839,だいぶ,,really,相当地,nhiều
+0840,割合（に）,わりあい（に）,relatively,比较地,tương đối
+0841,ずっと②,,far,……得多,hơn nhiều
+0842,最も,もっとも,most,最,nhất
+0843,特に,とくに,especially,特别,đặc biệt
+0844,普通,ふつう②,usually,一般,thông thường
+0845,すっかり,,completely,全都,"bẵng, hoàn toàn"
+0846,ほとんど,,almost,几乎,"hầu như, phần lớn"
+0847,だいたい,,on the whole,大致,đại khái
+0848,たいてい,,usually,大抵、差不多,thường
+0849,たまに,,sometimes,偶尔,đôi khi
+0850,こんなに,,as this,这么,đến thế này
+0851,そんなに,,as that,那么,đến thế (ấy)
+0852,あんなに,,as that,那么,đến thế (kia)
+0853,どのくらい,,"how much, how often, how long",多少、几次、多久,"mức nào, bao lâu"
+0854,全然（～ない）,ぜんぜん（～ない）,(not) at all,根本（不）,hoàn toàn (không ~)
+0855,ちっとも（～ない）,,(not) at all,一点也（不）,(không ~) chút nào
+0856,一度も（～ない）,いちども（～ない）,(not) once,一次也（没）,(chưa ~) lần nào
+0857,決して（～ない）,けっして（～ない）,never,绝对（不）,nhất định (không ~)
+0858,それほど（～ない）,,"(not) so, (not) that",（并不）那么,(không ~) đến mức đó
+0859,そんなに（～ない）,,"(not) so, (not) that",（不）那么,(không ~) đến mức đó
+0860,できるだけ,,as much as possible,尽量地,hết mức có thể
+0861,なるべく,,as much as possible,尽可能地,hết mức có thể
+0862,一生懸命,いっしょうけんめい,hard,拼命地,cật lực
+0863,しっかり,,"firmly, thoroughly",用力地、好好地,"chắc, chăm chỉ"
+0864,どんどん,,more and more,连续不断地,đều đặn một cách tích cực
+0865,はっきり,,clearly,清楚地,rõ ràng
+0866,代わりに,かわりに,instead,替代,thay cho
+0867,こう,,like this,这样,như vầy
+0868,そう,,like that,那样,như thế
+0869,ああ,,that way,那样,như thế kia
+0870,どう,,"what, how",怎样,thế nào
+0871,一度,いちど,one time,一次,một lần
+0872,必ず,かならず,definitely,必定、一定,"chắc chắn, nhất định"
+0873,きっと,,surely,一定,chắc là
+0874,ぜひ,,definitely,务必,nhất định
+0875,確かに,たしかに,unquestionably,确实,đúng là vậy
+0876,もちろん,,of course,当然,tất nhiên
+0877,やはり／やっぱり,,sure enough,果然、还是,"quả nhiên, đúng là"
+0878,よろしく,,leave it to you,请关照,từ thể hiện thành ý khi nhờ vả
+0879,まず,,first,首先,trước hết
+0880,例えば,たとえば,for example,比如,ví dụ như
+0881,もし,,if,如果,nếu
+0882,いくら（〜ても）,,however (much / hard),无论多少（都）,(dù ~) bao nhiêu đi nữa
+0883,いろんな,,various,各种各样的,nhiều loại
+0884,あんな,,such,那样的,như thế (kia)
+0885,こんな,,such,这样的,như thế này
+0886,そんな,,such,那样的,như thế (ấy)
+0887,どんな,,what kind,怎样的,như thế nào
+0888,どういう,,what kind,什么样的,"gì, thế nào"
+0889,けれど／けれども,,however,但是,nhưng mà
+0890,すると,,then,于是乎,thế là
+0891,それで,,so,因此,do vậy
+0892,それに,,in addition,而且,ngoài ra
+0893,だから,,therefore,所以,vậy nên
+0894,または,,or,或是,hoặc
+0895,方,かた,person,位,vị
+0896,お子さん,おこさん,another person’s child,孩子、令郎、令爱,con người khác
+0897,お嬢さん,おじょうさん,another person’s daughter,千金、令爱,con gái người khác
+0898,お宅,おたく,another person’s house,您家,nhà người khác
+0899,いらっしゃる①,,be,在,"ở, đang, còn"
+0900,いらっしゃる②,,go / come,去；来,đi / đến
+0901,おいでになる,,come,来,đến
+0902,おっしゃる,,say,说,nói
+0903,なさる,,"do, play",做、玩,"làm, chơi"
+0904,召し上がる,めしあがる,"have, eat, drink",吃、喝,"dùng , ăn, uống"
+0905,下さる,くださる,give (me),给（我）,"cho, tặng (mình)"
+0906,ご存じです,ごぞんじです,know,知道,biết
+0907,ご覧になる,ごらんになる,see,看,xem
+0908,おる,,be,在,"ở, đang, còn"
+0909,参る,まいる,go / come,去；来,đi / đến
+0910,申し上げる,もうしあげる,tell,说、表示,nói
+0911,申す,もうす,tell,说,nói
+0912,致す,いたす,do,做,làm
+0913,いただく①,,"have, eat, drink",吃、喝,"dùng, ăn, uống"
+0914,頂く,いただく②,receive,得到、受领,nhận
+0915,伺う,うかがう①,"hear, ask",听、询问,"nghe, hỏi"
+0916,伺う,うかがう②,visit,拜访,đi thăm
+0917,差し上げる,さしあげる,give,敬赠、呈送,"biếu, tặng"
+0918,拝見する,はいけんする,look,看,xem
+0919,でございます,,be,是、为,là
+0920,行ってきます,いってきます,I’m going.,我出门了,câu chào khi ra khỏi nhà
+0921,行ってらっしゃい,いってらっしゃい,Have a good day.,一路平安,câu chào của người ở lại
+0922,ただいま,,I’m home.,我回来了,câu chào khi về nhà
+0923,お帰りなさい,おかえりなさい,Welcome home.,欢迎回家,câu chào của người đang ở nhà
+0924,お先に失礼します,おさきにしつれいします,"Excuse me, I’m going.",我先告辞了,Xin phép về trước.
+0925,バイバイ,,Bye bye.,拜拜、再见,Bái bai.
+0926,（では、）お元気で,（では、）おげんきで,Keep well.,请多保重,(Thôi) Bảo trọng nhé!
+0927,（どうぞ）お大事に,（どうぞ）おだいじに,Please get well soon.,（对病人）请保重身体,(Xin) Hãy giữ gìn sức khỏe.
+0928,おめでとうございます,,Congratulations.,恭喜、祝贺,Xin chúc mừng.
+0929,おかげさまで,,Fortunately,托您的福,Nhờ ơn trên.
+0930,ごめんなさい,,I’m sorry.,对不起,Xin lỗi.
+0931,申し訳ありません,もうしわけありません,I’m very sorry.,对不起,Xin thứ lỗi.
+0932,失礼しました,しつれいしました,I’m sorry.,抱歉、失敬,Thất lễ quá.
+0933,失礼します,しつれいします,Excuse me.,失陪一下；失礼了,Xin phép ạ.
+0934,無理しないでください,むりしないでください,Don’t overdo it.,请不要太勉强,Đừng làm quá sức mình.
+0935,お待たせしました,おまたせしました,Thank you for waiting.,您久等了,Xin lỗi đã để ~ đợi.
+0936,よくいらっしゃいました,,It’s good of you to come.,欢迎您来,Chào mừng ~ đã đến.
+0937,かしこまりました,,Understood.,我知道了,Tôi hiểu rồi ạ.
+0938,かまいません,,I don’t mind.,没关系、不要紧,Không vấn đề gì.
+0939,こちらこそ,,"not you, but I",彼此彼此,Là tôi mới phải.
+0940,それはいけませんね,,That’s too bad.,这样下去可不行,Vậy thì tệ quá!
+0941,（いいえ、）どういたしまして,,(No) you’re welcome.,（没什么）别客气,(Không) Không có chi.
+0942,あ,,oh,呀,a
+0943,うん,,yeah,嗯,ừ
+0944,おや,,oh,咦,"ồ, chà"
+0945,なるほど,,I see.,噢、原来如此,ra vậy
+0946,お～ （お 手 紙 ）,,(polite prefix),（表示礼貌的接头词）,(phụ tố thể hiện sắc thái trang trọng)
+0947,ご〜 （ご 意 見 ）,,(polite prefix),（表示礼貌的接头词）,(phụ tố thể hiện sắc thái trang trọng)
+0948,〜様 （お 客 様 ）,～さま,Mr. / Ms.,～先生、～女士,"ngài ~, bà ~"
+0949,〜君 （ 山 田 君 ）,～くん,A more friendly way of saying “～さん”,（比“～さん”更亲切的称呼方法）,(cách gọi hàm ý thân mật hơn “さん”)
+0950,〜ちゃん （おばあちゃん）,,A more friendly way of saying “～さん”,（比“～さん”更亲切的称呼方法）,(cách gọi hàm ý thân mật hơn “さん”)
+0951,〜屋 （パン 屋 ）,～や,~ store,～店,tiệm ~
+0952,〜代 （ 食 事 代 ）,～だい,~ bill,～费用,tiền ~
+0953,〜員 （ 駅 員 ）,～いん,~ employee,～员工,nhân viên ~
+0954,〜家 （ 音 楽 家 ）,～か,-ist / ian,～家,nhà ~
+0955,〜会 （ 研 究 会 ）,～かい,~ meeting,～会,"hội ~, buổi ~"
+0956,〜式 （ 入 学 式 ）,～しき,~ ceremony,～典礼、～仪式,lễ ~
+0957,〜方 （ 作 り 方 ）,～かた,how to ~,～的方法,cách ~
+0958,〜側 （ 南 側 ）,～がわ,~ side,～侧、～边,phía ~
+0959,～中 （ 家 中 ）,～じゅう①,whole ~,（空间）～里、～内,trong ~
+0960,～中 （ 一 日 中 ）,～じゅう②,all / during ~,（时间）整～、整个～,suốt ~
+0961,～すぎ① （ ６ 時 すぎ）,,past ~,过了～、～多,hơn ~
+0962,〜製 （アメリカ 製 ）,～せい,made in ~,～制造,sản xuất tại ~
+0963,〜中 （ 授 業 中 ）,～ちゅう,in the middle ~,（时间）～中、正在～,đang ~
+0964,～さ （ 大 きさ）,,(turns an adjective into a noun),（将形容词名词化的结尾词）,"độ ~, sự ~"
+0965,～半 （ １ 年 半 ）,～はん,~ and a half,～半,~ rưỡi
+0966,～目 （ ２ つ 目 ）,～め,(indicates an ordinal number),第～,"cái thứ ~, lần thứ ~"
+0967,〜やすい （ 食 べやすい）,,easy to ~,便于～、容易～,dễ ~
+0968,〜にくい （ 覚 えにくい）,,difficult to ~,难以～、不易～,khó ~
+0969,〜始める （ 習 い 始 める）,～はじめる,"begin to ~, start to ~",开始～,bắt đầu ~
+0970,〜だす （ 歩 きだす）,,"begin to ~, start to ~",～起来,bắt đầu ~
+0971,〜終わる （ 食 べ 終 わる）,～おわる,finish -ing,～完,~ xong
+0972,〜続ける （ 話 し 続 ける）,～つづける,keep -ing,继续～、一直～,"tiếp tục ~, ~ suốt"
+0973,〜過ぎる （ 多 過 ぎる）,～すぎる,too ~,过于～、太～,~ quá mức
+0974,～過ぎ （ 痩 せ 過 ぎ）,～すぎ②,"too ~, over ~",～过头、过分～,~ quá độ
+0975,〜がる （ 食 べたがる）,,want to ~,想～,"muốn ~, thích ~"
+0976,〜学部 （ 教 育 学 部 ）,～がくぶ,~ department,～系,khoa ~
+0977,～教室 （ 英 語 教 室 ）,～きょうしつ,~ class,～培训班、～课,lớp ~
+0978,〜建て （ ５ 階 建 て）,～だて,~ building,～的建筑,xây ~ (chỉ kiểu nhà)
+0979,〜区 （ 新 宿 区 ）,～く,~ ward,～区,quận ~
+0980,〜町 （ 有 楽 町 ・ 大 手 町 ）,～ちょう／～まち,~ town,～镇,phường ~
+0981,零,れい,zero,零,số 0
+0982,億,おく,hundred million,亿,trăm triệu
+0983,～％ （ １ ％ ）,～パーセント,~ percent,百分之～,~ phần trăm
+0984,～ｃｍ （ １ ｃ ｍ ）,～センチ（センチメートル）,~ centimeter,～厘米,~ cm
+0985,～ｍ （ １ ｍ ）,～メートル,~ meter,～米,~ mét
+0986,～ｋｍ （ １ ｋ ｍ ）,～キロ（キロメートル）,~ kilometer,～千米,~ km
+0987,～ｇ （ １ ｇ ）,～グラム,~ gram,～克,~ gram
+0988,～ｋｇ （ １ ｋ ｇ ）,～キロ（キログラム）,~ kilogram,～千克,~ kilogram
+0989,～ｍ ２ （ １ ｍ ２ ）,～へいほうメートル,~ square meter,～平方米,~ m<sup>2</sup>
+0990,～Ｌ／ℓ （ １ Ｌ ）,～リットル,~ liter,～升,~ l
+0991,～度 （ １ 度 ）,～ど,~ degree,～度,~ độ
+0992,～か月 （ １ か 月 ）,～かげつ,~ month,～个月,~ tháng
+0993,～月 （ １ 月 ）,～つき,~ month,～个月,~ tháng
+0994,～軒 （ １ 軒 ）,～けん,counter for houses,～家、～户,~ căn nhà
+0995,～冊 （ １ 冊 ）,～さつ,counter for books,～本,~ quyển
+0996,～台 （ １ 台 ）,～だい,"counter for machines, cars",～台、～张、～架,"~ chiếc xe, ~ cái máy"
+0997,～匹 （ １ 匹 ）,～ひき,counter for small animals,～只、～头,~ con
+0998,～倍 （ １ 倍 ）,～ばい,~ times,～倍,gấp ~ lần
+0999,～番線 （ １ 番 線 ）,～ばんせん,"track number ~, platform ~",～号月台,đường ray số ~
+1000,～丁目・～番／番地・～号 （ １ 丁 目 ・ １ 番 ／ １ 番 地 ・ １ 号 ）,～ちょうめ・～ばん／ばんち・～ごう,"block ~, number ~ / address, number ~",第～街道／～号门牌／第～号,"khu phố ~, nhà số ~, phòng số ~"
